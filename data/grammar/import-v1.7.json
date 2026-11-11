@@ -1,0 +1,2047 @@
+{
+  "total": 254,
+  "decks": 10,
+  "unique_source_photos": 68,
+  "duplicate_photo_copies_excluded": 30,
+  "examples": "original study sentences",
+  "source_sha256": {
+    "noun.tsv": "4dc398d7c593cbaacdd7a7eb6fe4d3e07d49063a4ed18e54a68fb5ec08e8e9f7",
+    "verb.tsv": "ca36ff383293a236033a5872f6abe1e1587182c558cc5cdd55caf149220e1e7a",
+    "mixed.tsv": "9a49ddbadddd226ffe30f6218667bf1158f7971ffe70de08a18652704afd7587",
+    "multi.tsv": "188056a3e015da99f60ddd94be6f2a16bcc07a5a23361571ee30a6968c1d0d7d"
+  },
+  "items": [
+    {
+      "id": "grammar.noun.001",
+      "number": 1,
+      "pattern": "～あっての",
+      "source": "KakaoTalk_20261031_011100495_07.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.002",
+      "number": 2,
+      "pattern": "～いかん",
+      "source": "KakaoTalk_20261031_011100495_07.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.003",
+      "number": 3,
+      "pattern": "～いかんで／～いかんによって",
+      "source": "KakaoTalk_20261031_011100495_07.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.004",
+      "number": 4,
+      "pattern": "～いかんによらず／～いかんにかかわらず／～いかんを問わず",
+      "source": "KakaoTalk_20261031_011100495_07.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.005",
+      "number": 5,
+      "pattern": "～かたがた",
+      "source": "KakaoTalk_20261031_011100495_06.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.006",
+      "number": 6,
+      "pattern": "～から…にかけて",
+      "source": "KakaoTalk_20261031_011100495_06.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.007",
+      "number": 7,
+      "pattern": "～からいうと／～からいえば／～からいったら",
+      "source": "KakaoTalk_20261031_011100495_06.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.008",
+      "number": 8,
+      "pattern": "～からいって",
+      "source": "KakaoTalk_20261031_011100495_06.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.009",
+      "number": 9,
+      "pattern": "～からして",
+      "source": "KakaoTalk_20261031_011100495_05.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.010",
+      "number": 10,
+      "pattern": "～からすると／～からすれば",
+      "source": "KakaoTalk_20261031_011100495_05.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.011",
+      "number": 11,
+      "pattern": "～次第だ",
+      "source": "KakaoTalk_20261031_011100495_05.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.012",
+      "number": 12,
+      "pattern": "～ずくめ",
+      "source": "KakaoTalk_20261031_011100495_05.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.013",
+      "number": 13,
+      "pattern": "～たりとも",
+      "source": "KakaoTalk_20261031_011100495_05.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.014",
+      "number": 14,
+      "pattern": "～たる",
+      "source": "KakaoTalk_20261031_011100495_05.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.015",
+      "number": 15,
+      "pattern": "～だろうが…だろうが／～だろうと…だろうと",
+      "source": "KakaoTalk_20261031_011100495_04.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.016",
+      "number": 16,
+      "pattern": "～であれ…であれ",
+      "source": "KakaoTalk_20261031_011100495_04.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.017",
+      "number": 17,
+      "pattern": "～でしかない",
+      "source": "KakaoTalk_20261031_011100495_04.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.018",
+      "number": 18,
+      "pattern": "～でなくてなんだろう",
+      "source": "KakaoTalk_20261031_011100495_04.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.019",
+      "number": 19,
+      "pattern": "～と相まって",
+      "source": "KakaoTalk_20261031_011100495_03.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.020",
+      "number": 20,
+      "pattern": "～といい…といい",
+      "source": "KakaoTalk_20261031_011100495_03.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.021",
+      "number": 21,
+      "pattern": "～というと／～といえば",
+      "source": "KakaoTalk_20261031_011100495_03.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.022",
+      "number": 22,
+      "pattern": "～といわず…といわず",
+      "source": "KakaoTalk_20261031_011100495_03.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.023",
+      "number": 23,
+      "pattern": "～ときたら",
+      "source": "KakaoTalk_20261031_011100495_03.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.024",
+      "number": 24,
+      "pattern": "～として",
+      "source": "KakaoTalk_20261031_011100495_03.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.025",
+      "number": 25,
+      "pattern": "～とでもいうべき／～ともいうべき",
+      "source": "KakaoTalk_20261031_011100495_02.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.026",
+      "number": 26,
+      "pattern": "～なくして（は）",
+      "source": "KakaoTalk_20261031_011100495_02.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.027",
+      "number": 27,
+      "pattern": "～なしに",
+      "source": "KakaoTalk_20261031_011100495_02.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.028",
+      "number": 28,
+      "pattern": "～ならでは",
+      "source": "KakaoTalk_20261031_011100495_02.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.029",
+      "number": 29,
+      "pattern": "～にあって（は）",
+      "source": "KakaoTalk_20261031_011100495_01.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.030",
+      "number": 30,
+      "pattern": "～にあるまじき",
+      "source": "KakaoTalk_20261031_011100495_01.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.031",
+      "number": 31,
+      "pattern": "～に言わせれば／～に言わせると",
+      "source": "KakaoTalk_20261031_011100495_01.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.032",
+      "number": 32,
+      "pattern": "～に応じて",
+      "source": "KakaoTalk_20261031_011100495_01.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.033",
+      "number": 33,
+      "pattern": "～にかかっている",
+      "source": "KakaoTalk_20261031_011100495_01.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.034",
+      "number": 34,
+      "pattern": "～にかかわらず",
+      "source": "KakaoTalk_20261031_011100495_01.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.035",
+      "number": 35,
+      "pattern": "～にかかわる",
+      "source": "KakaoTalk_20261031_011100495.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.036",
+      "number": 36,
+      "pattern": "～に限ったことではない",
+      "source": "KakaoTalk_20261031_011100495.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.037",
+      "number": 37,
+      "pattern": "～に限って／～に限らず",
+      "source": "KakaoTalk_20261031_011100495.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.038",
+      "number": 38,
+      "pattern": "～にかけて",
+      "source": "KakaoTalk_20261031_011100495.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.039",
+      "number": 39,
+      "pattern": "～にかこつけて",
+      "source": "KakaoTalk_20261031_011054860_29.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.040",
+      "number": 40,
+      "pattern": "～にかたくない",
+      "source": "KakaoTalk_20261031_011054860_29.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.041",
+      "number": 41,
+      "pattern": "～にかまけて",
+      "source": "KakaoTalk_20261031_011054860_29.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.042",
+      "number": 42,
+      "pattern": "～に応えて",
+      "source": "KakaoTalk_20261031_011054860_29.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.043",
+      "number": 43,
+      "pattern": "～にしたら／～にすれば",
+      "source": "KakaoTalk_20261031_011054860_29.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.044",
+      "number": 44,
+      "pattern": "～にして",
+      "source": "KakaoTalk_20261031_011054860_29.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.045",
+      "number": 45,
+      "pattern": "～にしてみれば",
+      "source": "KakaoTalk_20261031_011054860_28.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.046",
+      "number": 46,
+      "pattern": "～にしろ／～にせよ",
+      "source": "KakaoTalk_20261031_011054860_28.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.047",
+      "number": 47,
+      "pattern": "～に即して",
+      "source": "KakaoTalk_20261031_011054860_28.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.048",
+      "number": 48,
+      "pattern": "～に沿って／～に沿い",
+      "source": "KakaoTalk_20261031_011054860_28.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.049",
+      "number": 49,
+      "pattern": "～にとどまらず",
+      "source": "KakaoTalk_20261031_011054860_27.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.050",
+      "number": 50,
+      "pattern": "～にひきかえ",
+      "source": "KakaoTalk_20261031_011054860_27.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.051",
+      "number": 51,
+      "pattern": "～に他ならない",
+      "source": "KakaoTalk_20261031_011054860_27.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.052",
+      "number": 52,
+      "pattern": "～に基づき／～に基づいて",
+      "source": "KakaoTalk_20261031_011054860_27.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.053",
+      "number": 53,
+      "pattern": "～にもまして",
+      "source": "KakaoTalk_20261031_011054860_27.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.054",
+      "number": 54,
+      "pattern": "～にわたって／～にわたり",
+      "source": "KakaoTalk_20261031_011054860_27.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.055",
+      "number": 55,
+      "pattern": "～抜きで",
+      "source": "KakaoTalk_20261031_011054860_26.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.056",
+      "number": 56,
+      "pattern": "～の至り",
+      "source": "KakaoTalk_20261031_011054860_26.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.057",
+      "number": 57,
+      "pattern": "～の極み",
+      "source": "KakaoTalk_20261031_011054860_26.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.058",
+      "number": 58,
+      "pattern": "～のごとく／～のごとき",
+      "source": "KakaoTalk_20261031_011054860_26.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.059",
+      "number": 59,
+      "pattern": "～のことだから",
+      "source": "KakaoTalk_20261031_011054860_25.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.060",
+      "number": 60,
+      "pattern": "～のもと（で／に）",
+      "source": "KakaoTalk_20261031_011054860_25.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.061",
+      "number": 61,
+      "pattern": "～のゆえに",
+      "source": "KakaoTalk_20261031_011054860_25.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.062",
+      "number": 62,
+      "pattern": "～ならいざしらず／～はいざしらず",
+      "source": "KakaoTalk_20261031_011054860_25.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.063",
+      "number": 63,
+      "pattern": "～はおろか",
+      "source": "KakaoTalk_20261031_011054860_25.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.064",
+      "number": 64,
+      "pattern": "～はさておき／～はさておいて",
+      "source": "KakaoTalk_20261031_011054860_25.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.065",
+      "number": 65,
+      "pattern": "～はともかく（として）",
+      "source": "KakaoTalk_20261031_011054860_24.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.066",
+      "number": 66,
+      "pattern": "～までして",
+      "source": "KakaoTalk_20261031_011054860_24.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.067",
+      "number": 67,
+      "pattern": "～まみれ",
+      "source": "KakaoTalk_20261031_011054860_24.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.068",
+      "number": 68,
+      "pattern": "～めく",
+      "source": "KakaoTalk_20261031_011054860_24.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.069",
+      "number": 69,
+      "pattern": "～も顧みず",
+      "source": "KakaoTalk_20261031_011054860_23.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.070",
+      "number": 70,
+      "pattern": "～もさることながら",
+      "source": "KakaoTalk_20261031_011054860_23.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.071",
+      "number": 71,
+      "pattern": "～を…に控えて",
+      "source": "KakaoTalk_20261031_011054860_23.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.072",
+      "number": 72,
+      "pattern": "～をおいて",
+      "source": "KakaoTalk_20261031_011054860_23.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.073",
+      "number": 73,
+      "pattern": "～を限りに",
+      "source": "KakaoTalk_20261031_011054860_23.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.074",
+      "number": 74,
+      "pattern": "～を皮切りに／～を振り出しに",
+      "source": "KakaoTalk_20261031_011054860_23.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.075",
+      "number": 75,
+      "pattern": "～を禁じ得ない",
+      "source": "KakaoTalk_20261031_011054860_22.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.076",
+      "number": 76,
+      "pattern": "～を込めて",
+      "source": "KakaoTalk_20261031_011054860_22.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.077",
+      "number": 77,
+      "pattern": "～を境に",
+      "source": "KakaoTalk_20261031_011054860_22.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.078",
+      "number": 78,
+      "pattern": "～を問わず",
+      "source": "KakaoTalk_20261031_011054860_22.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.079",
+      "number": 79,
+      "pattern": "～を除いて",
+      "source": "KakaoTalk_20261031_011054860_21.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.080",
+      "number": 80,
+      "pattern": "～をはじめ／～をはじめとして",
+      "source": "KakaoTalk_20261031_011054860_21.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.081",
+      "number": 81,
+      "pattern": "～を踏まえ",
+      "source": "KakaoTalk_20261031_011054860_21.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.082",
+      "number": 82,
+      "pattern": "～を経て",
+      "source": "KakaoTalk_20261031_011054860_21.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.083",
+      "number": 83,
+      "pattern": "～をもちまして／～をもって／～をもってすれば",
+      "source": "KakaoTalk_20261031_011054860_21.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.084",
+      "number": 84,
+      "pattern": "～をものともせずに",
+      "source": "KakaoTalk_20261031_011054860_21.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.085",
+      "number": 85,
+      "pattern": "～を余儀なくされる",
+      "source": "KakaoTalk_20261031_011054860_20.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.086",
+      "number": 86,
+      "pattern": "～をよそに",
+      "source": "KakaoTalk_20261031_011054860_20.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.noun.087",
+      "number": 87,
+      "pattern": "ひとり～のみならず",
+      "source": "KakaoTalk_20261031_011054860_20.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.001",
+      "number": 1,
+      "pattern": "～たが最後",
+      "source": "KakaoTalk_20261031_011054860_19.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.002",
+      "number": 2,
+      "pattern": "～たきり",
+      "source": "KakaoTalk_20261031_011054860_19.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.003",
+      "number": 3,
+      "pattern": "～たところで",
+      "source": "KakaoTalk_20261031_011054860_19.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.004",
+      "number": 4,
+      "pattern": "～ところに",
+      "source": "KakaoTalk_20261031_011054860_19.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.005",
+      "number": 5,
+      "pattern": "～てからでないと／～てからでなければ",
+      "source": "KakaoTalk_20261031_011054860_18.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.006",
+      "number": 6,
+      "pattern": "～てからというもの（は）",
+      "source": "KakaoTalk_20261031_011054860_18.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.007",
+      "number": 7,
+      "pattern": "～てのこと",
+      "source": "KakaoTalk_20261031_011054860_18.jpg",
+      "source_partial": true,
+      "number_inferred": true
+    },
+    {
+      "id": "grammar.verb.008",
+      "number": 8,
+      "pattern": "～てはならない",
+      "source": "KakaoTalk_20261031_011054860_18.jpg",
+      "source_partial": true,
+      "number_inferred": true
+    },
+    {
+      "id": "grammar.verb.009",
+      "number": 9,
+      "pattern": "～てはばからない",
+      "source": "KakaoTalk_20261031_011054860_17.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.010",
+      "number": 10,
+      "pattern": "～てばかりいる",
+      "source": "KakaoTalk_20261031_011054860_17.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.011",
+      "number": 11,
+      "pattern": "～てまで",
+      "source": "KakaoTalk_20261031_011054860_17.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.012",
+      "number": 12,
+      "pattern": "～てみせる",
+      "source": "KakaoTalk_20261031_011054860_17.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.013",
+      "number": 13,
+      "pattern": "～ても始まらない",
+      "source": "KakaoTalk_20261031_011054860_17.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.014",
+      "number": 14,
+      "pattern": "～てやまない",
+      "source": "KakaoTalk_20261031_011054860_17.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.015",
+      "number": 15,
+      "pattern": "～上は",
+      "source": "KakaoTalk_20261031_011054860_16.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.016",
+      "number": 16,
+      "pattern": "～か～ないかのうちに",
+      "source": "KakaoTalk_20261031_011054860_16.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.017",
+      "number": 17,
+      "pattern": "～限り／～ない限り",
+      "source": "KakaoTalk_20261031_011054860_16.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.018",
+      "number": 18,
+      "pattern": "～かのようだ／～かのような",
+      "source": "KakaoTalk_20261031_011054860_15.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.019",
+      "number": 19,
+      "pattern": "～が早いか",
+      "source": "KakaoTalk_20261031_011054860_15.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.020",
+      "number": 20,
+      "pattern": "～くらいなら",
+      "source": "KakaoTalk_20261031_011054860_15.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.021",
+      "number": 21,
+      "pattern": "～ことなく",
+      "source": "KakaoTalk_20261031_011054860_15.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.022",
+      "number": 22,
+      "pattern": "～ことなしに",
+      "source": "KakaoTalk_20261031_011054860_15.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.023",
+      "number": 23,
+      "pattern": "～始末だ",
+      "source": "KakaoTalk_20261031_011054860_15.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.024",
+      "number": 24,
+      "pattern": "～そばから",
+      "source": "KakaoTalk_20261031_011054860_14.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.025",
+      "number": 25,
+      "pattern": "～だけのことだ",
+      "source": "KakaoTalk_20261031_011054860_14.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.026",
+      "number": 26,
+      "pattern": "～ところだった",
+      "source": "KakaoTalk_20261031_011054860_14.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.027",
+      "number": 27,
+      "pattern": "～ともなく／～ともなしに",
+      "source": "KakaoTalk_20261031_011054860_14.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.028",
+      "number": 28,
+      "pattern": "～なり",
+      "source": "KakaoTalk_20261031_011054860_13.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.029",
+      "number": 29,
+      "pattern": "～につけ",
+      "source": "KakaoTalk_20261031_011054860_13.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.030",
+      "number": 30,
+      "pattern": "～にはあたらない",
+      "source": "KakaoTalk_20261031_011054860_13.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.031",
+      "number": 31,
+      "pattern": "～べからず／～べからざる",
+      "source": "KakaoTalk_20261031_011054860_13.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.032",
+      "number": 32,
+      "pattern": "～べく",
+      "source": "KakaoTalk_20261031_011054860_13.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.033",
+      "number": 33,
+      "pattern": "～べくして～た",
+      "source": "KakaoTalk_20261031_011054860_13.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.034",
+      "number": 34,
+      "pattern": "～べくもない",
+      "source": "KakaoTalk_20261031_011054860_12.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.035",
+      "number": 35,
+      "pattern": "～ほどの…ではない",
+      "source": "KakaoTalk_20261031_011054860_12.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.036",
+      "number": 36,
+      "pattern": "～まで（のこと）だ",
+      "source": "KakaoTalk_20261031_011054860_12.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.037",
+      "number": 37,
+      "pattern": "～まで（のことで）もない",
+      "source": "KakaoTalk_20261031_011054860_12.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.038",
+      "number": 38,
+      "pattern": "～ものではない",
+      "source": "KakaoTalk_20261031_011054860_11.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.039",
+      "number": 39,
+      "pattern": "～や否や",
+      "source": "KakaoTalk_20261031_011054860_11.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.040",
+      "number": 40,
+      "pattern": "～よりほかない",
+      "source": "KakaoTalk_20261031_011054860_11.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.041",
+      "number": 41,
+      "pattern": "～わけにはいかない",
+      "source": "KakaoTalk_20261031_011054860_11.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.042",
+      "number": 42,
+      "pattern": "～うる／～える",
+      "source": "KakaoTalk_20261031_011054860_11.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.043",
+      "number": 43,
+      "pattern": "～かけの／～かける",
+      "source": "KakaoTalk_20261031_011054860_11.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.044",
+      "number": 44,
+      "pattern": "～がたい",
+      "source": "KakaoTalk_20261031_011054860_10.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.045",
+      "number": 45,
+      "pattern": "～かねる",
+      "source": "KakaoTalk_20261031_011054860_10.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.046",
+      "number": 46,
+      "pattern": "～切る",
+      "source": "KakaoTalk_20261031_011054860_10.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.047",
+      "number": 47,
+      "pattern": "～次第",
+      "source": "KakaoTalk_20261031_011054860_10.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.048",
+      "number": 48,
+      "pattern": "～そびれる",
+      "source": "KakaoTalk_20261031_011054860_09.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.049",
+      "number": 49,
+      "pattern": "～つ…つ",
+      "source": "KakaoTalk_20261031_011054860_09.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.050",
+      "number": 50,
+      "pattern": "～っこない",
+      "source": "KakaoTalk_20261031_011054860_09.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.051",
+      "number": 51,
+      "pattern": "～つつ",
+      "source": "KakaoTalk_20261031_011054860_09.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.052",
+      "number": 52,
+      "pattern": "～つつある",
+      "source": "KakaoTalk_20261031_011054860_09.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.053",
+      "number": 53,
+      "pattern": "～はしない",
+      "source": "KakaoTalk_20261031_011054860_09.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.054",
+      "number": 54,
+      "pattern": "～もしない",
+      "source": "KakaoTalk_20261031_011054860_08.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.055",
+      "number": 55,
+      "pattern": "～ようがない／～ようもない",
+      "source": "KakaoTalk_20261031_011054860_08.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.056",
+      "number": 56,
+      "pattern": "～ようによっては／～ようでは",
+      "source": "KakaoTalk_20261031_011054860_08.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.057",
+      "number": 57,
+      "pattern": "～ざるを得ない",
+      "source": "KakaoTalk_20261031_011054860_08.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.058",
+      "number": 58,
+      "pattern": "～ずじまいだ",
+      "source": "KakaoTalk_20261031_011054860_07.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.059",
+      "number": 59,
+      "pattern": "～ずにはいられない／～ないではいられない",
+      "source": "KakaoTalk_20261031_011054860_07.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.060",
+      "number": 60,
+      "pattern": "～ずにはおかない／～ないではおかない",
+      "source": "KakaoTalk_20261031_011054860_07.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.061",
+      "number": 61,
+      "pattern": "～ずにはすまない／～ないではすまない",
+      "source": "KakaoTalk_20261031_011054860_07.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.062",
+      "number": 62,
+      "pattern": "～ずにすむ／～ないですむ／～なくてすむ",
+      "source": "KakaoTalk_20261031_011054860_07.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.063",
+      "number": 63,
+      "pattern": "～ないこともない",
+      "source": "KakaoTalk_20261031_011054860_07.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.064",
+      "number": 64,
+      "pattern": "～ないまでも",
+      "source": "KakaoTalk_20261031_011054860_06.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.065",
+      "number": 65,
+      "pattern": "～ないものでもない",
+      "source": "KakaoTalk_20261031_011054860_06.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.066",
+      "number": 66,
+      "pattern": "～んがため",
+      "source": "KakaoTalk_20261031_011054860_06.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.067",
+      "number": 67,
+      "pattern": "～んばかり",
+      "source": "KakaoTalk_20261031_011054860_06.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.068",
+      "number": 68,
+      "pattern": "～ばきりがない",
+      "source": "KakaoTalk_20261031_011054860_05.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.069",
+      "number": 69,
+      "pattern": "～ばそれまでだ",
+      "source": "KakaoTalk_20261031_011054860_05.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.070",
+      "number": 70,
+      "pattern": "～ようが／～ようと",
+      "source": "KakaoTalk_20261031_011054860_05.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.071",
+      "number": 71,
+      "pattern": "～ようが～まいが／～ようと～まいと",
+      "source": "KakaoTalk_20261031_011054860_05.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.072",
+      "number": 72,
+      "pattern": "～ようにも～ない",
+      "source": "KakaoTalk_20261031_011054860_05.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.073",
+      "number": 73,
+      "pattern": "～ようものなら",
+      "source": "KakaoTalk_20261031_011054860_05.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.074",
+      "number": 74,
+      "pattern": "～以上（は）",
+      "source": "KakaoTalk_20261031_011054860_04.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.075",
+      "number": 75,
+      "pattern": "～からには",
+      "source": "KakaoTalk_20261031_011054860_04.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.verb.076",
+      "number": 76,
+      "pattern": "～まい",
+      "source": "KakaoTalk_20261031_011054860_04.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.001",
+      "number": 1,
+      "pattern": "～あげく",
+      "source": "KakaoTalk_20261031_011054860_03.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.002",
+      "number": 2,
+      "pattern": "～あまり（に）",
+      "source": "KakaoTalk_20261031_011054860_03.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.003",
+      "number": 3,
+      "pattern": "～以来",
+      "source": "KakaoTalk_20261031_011054860_03.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.004",
+      "number": 4,
+      "pattern": "～上で",
+      "source": "KakaoTalk_20261031_011054860_02.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.005",
+      "number": 5,
+      "pattern": "～おそれがある",
+      "source": "KakaoTalk_20261031_011054860_02.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.006",
+      "number": 6,
+      "pattern": "～かいもなく",
+      "source": "KakaoTalk_20261031_011054860_01.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.007",
+      "number": 7,
+      "pattern": "～限り",
+      "source": "KakaoTalk_20261031_011054860_01.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.008",
+      "number": 8,
+      "pattern": "～かたわら",
+      "source": "KakaoTalk_20261031_011054860_01.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.009",
+      "number": 9,
+      "pattern": "～がてら",
+      "source": "KakaoTalk_20261031_011054860_01.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.010",
+      "number": 10,
+      "pattern": "～きらいがある",
+      "source": "KakaoTalk_20261031_011054860.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.011",
+      "number": 11,
+      "pattern": "～こととて",
+      "source": "KakaoTalk_20261031_011054860.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.012",
+      "number": 12,
+      "pattern": "～でもあるまいし／～じゃあるまいし",
+      "source": "KakaoTalk_20261031_011054860.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.013",
+      "number": 13,
+      "pattern": "～すえに",
+      "source": "KakaoTalk_20261031_011034685_29.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.014",
+      "number": 14,
+      "pattern": "～たびに",
+      "source": "KakaoTalk_20261031_011034685_29.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.015",
+      "number": 15,
+      "pattern": "～手前",
+      "source": "KakaoTalk_20261031_011034685_29.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.016",
+      "number": 16,
+      "pattern": "～とあって／～とあっては",
+      "source": "KakaoTalk_20261031_011034685_29.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.017",
+      "number": 17,
+      "pattern": "～というところだ／～といったところだ",
+      "source": "KakaoTalk_20261031_011034685_28.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.018",
+      "number": 18,
+      "pattern": "～どころではない",
+      "source": "KakaoTalk_20261031_011034685_28.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.019",
+      "number": 19,
+      "pattern": "～とともに",
+      "source": "KakaoTalk_20261031_011034685_28.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.020",
+      "number": 20,
+      "pattern": "～ともなれば／～ともなると",
+      "source": "KakaoTalk_20261031_011034685_27.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.021",
+      "number": 21,
+      "pattern": "～ながらに／～ながらの",
+      "source": "KakaoTalk_20261031_011034685_27.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.022",
+      "number": 22,
+      "pattern": "～なり…なり",
+      "source": "KakaoTalk_20261031_011034685_27.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.023",
+      "number": 23,
+      "pattern": "～にあたって／～にあたり",
+      "source": "KakaoTalk_20261031_011034685_27.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.024",
+      "number": 24,
+      "pattern": "～に至るまで／～に至って／～に至る",
+      "source": "KakaoTalk_20261031_011034685_26.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.025",
+      "number": 25,
+      "pattern": "～に先立ち／～に先立って",
+      "source": "KakaoTalk_20261031_011034685_26.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.026",
+      "number": 26,
+      "pattern": "～にたえない",
+      "source": "KakaoTalk_20261031_011034685_26.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.027",
+      "number": 27,
+      "pattern": "～にたえる",
+      "source": "KakaoTalk_20261031_011034685_25.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.028",
+      "number": 28,
+      "pattern": "～に足る",
+      "source": "KakaoTalk_20261031_011034685_25.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.029",
+      "number": 29,
+      "pattern": "～にともない／～にともなって",
+      "source": "KakaoTalk_20261031_011034685_25.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.030",
+      "number": 30,
+      "pattern": "～には及ばない",
+      "source": "KakaoTalk_20261031_011034685_25.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.031",
+      "number": 31,
+      "pattern": "～も同然だ／～も同然の",
+      "source": "KakaoTalk_20261031_011034685_24.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.mixed.032",
+      "number": 32,
+      "pattern": "～を契機に／～を機に",
+      "source": "KakaoTalk_20261031_011034685_24.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.001",
+      "number": 1,
+      "pattern": "～上（に）",
+      "source": "KakaoTalk_20261031_011034685_23.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.002",
+      "number": 2,
+      "pattern": "～うちに",
+      "source": "KakaoTalk_20261031_011034685_23.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.003",
+      "number": 3,
+      "pattern": "～か否か",
+      "source": "KakaoTalk_20261031_011034685_22.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.004",
+      "number": 4,
+      "pattern": "～からといって",
+      "source": "KakaoTalk_20261031_011034685_22.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.005",
+      "number": 5,
+      "pattern": "～極まる／～極まりない",
+      "source": "KakaoTalk_20261031_011034685_21.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.006",
+      "number": 6,
+      "pattern": "～こそ…が",
+      "source": "KakaoTalk_20261031_011034685_21.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.007",
+      "number": 7,
+      "pattern": "～ことか",
+      "source": "KakaoTalk_20261031_011034685_21.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.008",
+      "number": 8,
+      "pattern": "～ことだし",
+      "source": "KakaoTalk_20261031_011034685_20.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.009",
+      "number": 9,
+      "pattern": "～ことに／～ことには",
+      "source": "KakaoTalk_20261031_011034685_20.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.010",
+      "number": 10,
+      "pattern": "～だけあって／～だけのことはある",
+      "source": "KakaoTalk_20261031_011034685_19.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.011",
+      "number": 11,
+      "pattern": "～だけましだ",
+      "source": "KakaoTalk_20261031_011034685_19.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.012",
+      "number": 12,
+      "pattern": "～てしかるべきだ",
+      "source": "KakaoTalk_20261031_011034685_19.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.013",
+      "number": 13,
+      "pattern": "～てたまらない",
+      "source": "KakaoTalk_20261031_011034685_18.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.014",
+      "number": 14,
+      "pattern": "～てならない",
+      "source": "KakaoTalk_20261031_011034685_18.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.015",
+      "number": 15,
+      "pattern": "～てはかなわない／～てはやりきれない",
+      "source": "KakaoTalk_20261031_011034685_17.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.016",
+      "number": 16,
+      "pattern": "～ではないか",
+      "source": "KakaoTalk_20261031_011034685_17.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.017",
+      "number": 17,
+      "pattern": "～ても差し支えない",
+      "source": "KakaoTalk_20261031_011034685_17.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.018",
+      "number": 18,
+      "pattern": "～てもともとだ",
+      "source": "KakaoTalk_20261031_011034685_16.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.019",
+      "number": 19,
+      "pattern": "～とあれば",
+      "source": "KakaoTalk_20261031_011034685_16.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.020",
+      "number": 20,
+      "pattern": "～というものだ／～ってもんだ",
+      "source": "KakaoTalk_20261031_011034685_15.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.021",
+      "number": 21,
+      "pattern": "～といえども",
+      "source": "KakaoTalk_20261031_011034685_15.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.022",
+      "number": 22,
+      "pattern": "～といったらない／～といったらありゃしない",
+      "source": "KakaoTalk_20261031_011034685_15.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.023",
+      "number": 23,
+      "pattern": "～といっても…ない",
+      "source": "KakaoTalk_20261031_011034685_14.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.024",
+      "number": 24,
+      "pattern": "～（か）と思いきや",
+      "source": "KakaoTalk_20261031_011034685_14.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.025",
+      "number": 25,
+      "pattern": "～どころか",
+      "source": "KakaoTalk_20261031_011034685_13.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.026",
+      "number": 26,
+      "pattern": "～ところを",
+      "source": "KakaoTalk_20261031_011034685_13.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.027",
+      "number": 27,
+      "pattern": "～としても",
+      "source": "KakaoTalk_20261031_011034685_13.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.028",
+      "number": 28,
+      "pattern": "～とはいえ",
+      "source": "KakaoTalk_20261031_011034685_12.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.029",
+      "number": 29,
+      "pattern": "～とばかりに",
+      "source": "KakaoTalk_20261031_011034685_12.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.030",
+      "number": 30,
+      "pattern": "～とみえる",
+      "source": "KakaoTalk_20261031_011034685_11.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.031",
+      "number": 31,
+      "pattern": "～ないことには",
+      "source": "KakaoTalk_20261031_011034685_11.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.032",
+      "number": 32,
+      "pattern": "～ないとも限らない",
+      "source": "KakaoTalk_20261031_011034685_11.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.033",
+      "number": 33,
+      "pattern": "～ながら（も／に）",
+      "source": "KakaoTalk_20261031_011034685_10.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.034",
+      "number": 34,
+      "pattern": "～ならまだしも／～ならともかく",
+      "source": "KakaoTalk_20261031_011034685_10.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.035",
+      "number": 35,
+      "pattern": "～なりに／～なりの",
+      "source": "KakaoTalk_20261031_011034685_09.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.036",
+      "number": 36,
+      "pattern": "～に限る",
+      "source": "KakaoTalk_20261031_011034685_09.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.037",
+      "number": 37,
+      "pattern": "～に越したことはない",
+      "source": "KakaoTalk_20261031_011034685_09.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.038",
+      "number": 38,
+      "pattern": "～にしたところで／～としたって",
+      "source": "KakaoTalk_20261031_011034685_08.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.039",
+      "number": 39,
+      "pattern": "～にしても",
+      "source": "KakaoTalk_20261031_011034685_08.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.040",
+      "number": 40,
+      "pattern": "～にすぎない",
+      "source": "KakaoTalk_20261031_011034685_07.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.041",
+      "number": 41,
+      "pattern": "～に相違ない",
+      "source": "KakaoTalk_20261031_011034685_07.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.042",
+      "number": 42,
+      "pattern": "～に対する／～に対して",
+      "source": "KakaoTalk_20261031_011034685_07.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.043",
+      "number": 43,
+      "pattern": "～にもかかわらず",
+      "source": "KakaoTalk_20261031_011034685_06.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.044",
+      "number": 44,
+      "pattern": "～にもほどがある",
+      "source": "KakaoTalk_20261031_011034685_06.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.045",
+      "number": 45,
+      "pattern": "～のではないか",
+      "source": "KakaoTalk_20261031_011034685_05.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.046",
+      "number": 46,
+      "pattern": "～のなんのって",
+      "source": "KakaoTalk_20261031_011034685_05.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.047",
+      "number": 47,
+      "pattern": "～のみならず",
+      "source": "KakaoTalk_20261031_011034685_05.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.048",
+      "number": 48,
+      "pattern": "～のをいいことに",
+      "source": "KakaoTalk_20261031_011034685_04.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.049",
+      "number": 49,
+      "pattern": "～ばかりに",
+      "source": "KakaoTalk_20261031_011034685_04.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.050",
+      "number": 50,
+      "pattern": "～ばこそ",
+      "source": "KakaoTalk_20261031_011034685_03.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.051",
+      "number": 51,
+      "pattern": "～べきだ／～べきではない",
+      "source": "KakaoTalk_20261031_011034685_03.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.052",
+      "number": 52,
+      "pattern": "～もかまわず",
+      "source": "KakaoTalk_20261031_011034685_03.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.053",
+      "number": 53,
+      "pattern": "～ものだ",
+      "source": "KakaoTalk_20261031_011034685_02.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.054",
+      "number": 54,
+      "pattern": "～ものだから",
+      "source": "KakaoTalk_20261031_011034685_02.jpg",
+      "source_partial": false,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.055",
+      "number": 55,
+      "pattern": "～ものの",
+      "source": "KakaoTalk_20261031_011034685_01.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.056",
+      "number": 56,
+      "pattern": "～ものを",
+      "source": "KakaoTalk_20261031_011034685_01.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.057",
+      "number": 57,
+      "pattern": "～もんか／～ものか",
+      "source": "KakaoTalk_20261031_011034685_01.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.058",
+      "number": 58,
+      "pattern": "～わけでもない／～わけではない",
+      "source": "KakaoTalk_20261031_011034685.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    },
+    {
+      "id": "grammar.multi.059",
+      "number": 59,
+      "pattern": "たとえ～ても",
+      "source": "KakaoTalk_20261031_011034685.jpg",
+      "source_partial": true,
+      "number_inferred": false
+    }
+  ]
+}

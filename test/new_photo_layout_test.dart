@@ -20,9 +20,10 @@ void main() {
       tester.view.devicePixelRatio = 1;
       addTearDown(tester.view.resetPhysicalSize);
       addTearDown(tester.view.resetDevicePixelRatio);
-      final additions = WordLoader.parse(
+      final words = WordLoader.parse(
         File('assets/words/words.json').readAsStringSync(),
-      ).skip(822).toList();
+      );
+      final additions = words.skip(822).toList();
       final byPrompt = [...additions]
         ..sort((a, b) => b.prompt.length.compareTo(a.prompt.length));
       int detailLength(JapaneseWord word) =>
@@ -32,7 +33,16 @@ void main() {
           word.example!.korean.length;
       final byDetail = [...additions]
         ..sort((a, b) => detailLength(b).compareTo(detailLength(a)));
-      final cases = {byPrompt.first, byDetail.first}.toList();
+      final novemberPrompt = words.skip(1130).toList()
+        ..sort((a, b) => b.prompt.length.compareTo(a.prompt.length));
+      final novemberDetail = words.skip(1130).toList()
+        ..sort((a, b) => detailLength(b).compareTo(detailLength(a)));
+      final cases = {
+        byPrompt.first,
+        byDetail.first,
+        novemberPrompt.first,
+        novemberDetail.first,
+      }.toList();
       final store = ProgressStore(read: () async => [], write: (_) async {});
       await store.load();
       await tester.pumpWidget(

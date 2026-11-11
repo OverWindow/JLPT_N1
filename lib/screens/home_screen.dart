@@ -42,7 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) => Scaffold(
-    appBar: AppBar(title: const Text('일본어 단어장')),
+    appBar: AppBar(title: const Text('N1 단어')),
     body: SafeArea(
       child: ListenableBuilder(
         listenable: _progress,

@@ -1,0 +1,2926 @@
+{
+  "decks": [
+    {
+      "id": "adverb.1",
+      "category": "부사",
+      "title": "부사 1",
+      "description": "1~30",
+      "items": [
+        {
+          "id": "special.adverb.001",
+          "kanji": null,
+          "hiragana": "あらかじめ",
+          "korean": "미리, 사전에",
+          "example": {
+            "segments": [
+              {
+                "text": "あらかじめ"
+              },
+              {
+                "text": "予約",
+                "reading": "よやく"
+              },
+              {
+                "text": "してください。"
+              }
+            ],
+            "korean": "미리 예약해 주세요."
+          }
+        },
+        {
+          "id": "special.adverb.002",
+          "kanji": null,
+          "hiragana": "あるいは",
+          "korean": "어쩌면, 혹",
+          "example": {
+            "segments": [
+              {
+                "text": "あるいは"
+              },
+              {
+                "text": "彼",
+                "reading": "かれ"
+              },
+              {
+                "text": "も"
+              },
+              {
+                "text": "来",
+                "reading": "く"
+              },
+              {
+                "text": "るかもしれない。"
+              }
+            ],
+            "korean": "어쩌면 그도 올지도 모른다."
+          }
+        },
+        {
+          "id": "special.adverb.003",
+          "kanji": null,
+          "hiragana": "いきなり",
+          "korean": "갑자기",
+          "example": {
+            "segments": [
+              {
+                "text": "いきなり"
+              },
+              {
+                "text": "雨",
+                "reading": "あめ"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "降",
+                "reading": "ふ"
+              },
+              {
+                "text": "り"
+              },
+              {
+                "text": "出",
+                "reading": "だ"
+              },
+              {
+                "text": "した。"
+              }
+            ],
+            "korean": "갑자기 비가 내리기 시작했다."
+          }
+        },
+        {
+          "id": "special.adverb.004",
+          "kanji": null,
+          "hiragana": "いくら",
+          "korean": "아무리",
+          "example": {
+            "segments": [
+              {
+                "text": "いくら"
+              },
+              {
+                "text": "待",
+                "reading": "ま"
+              },
+              {
+                "text": "っても"
+              },
+              {
+                "text": "来",
+                "reading": "こ"
+              },
+              {
+                "text": "ない。"
+              }
+            ],
+            "korean": "아무리 기다려도 오지 않는다."
+          }
+        },
+        {
+          "id": "special.adverb.005",
+          "kanji": null,
+          "hiragana": "いずれ",
+          "korean": "머지않아, 어차피",
+          "example": {
+            "segments": [
+              {
+                "text": "いずれ"
+              },
+              {
+                "text": "結果",
+                "reading": "けっか"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "分",
+                "reading": "わ"
+              },
+              {
+                "text": "かる。"
+              }
+            ],
+            "korean": "머지않아 결과를 알게 된다."
+          }
+        },
+        {
+          "id": "special.adverb.006",
+          "kanji": "一段と",
+          "hiragana": "いちだんと",
+          "korean": "한층, 더욱, 훨씬",
+          "example": {
+            "segments": [
+              {
+                "text": "今朝",
+                "reading": "けさ"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "一段",
+                "reading": "いちだん"
+              },
+              {
+                "text": "と"
+              },
+              {
+                "text": "寒",
+                "reading": "さむ"
+              },
+              {
+                "text": "い。"
+              }
+            ],
+            "korean": "오늘 아침은 한층 춥다."
+          }
+        },
+        {
+          "id": "special.adverb.007",
+          "kanji": "一向に～ない",
+          "hiragana": "いっこうに～ない",
+          "korean": "전혀 ~않다",
+          "example": {
+            "segments": [
+              {
+                "text": "雨",
+                "reading": "あめ"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "一向",
+                "reading": "いっこう"
+              },
+              {
+                "text": "にやまない。"
+              }
+            ],
+            "korean": "비는 전혀 그치지 않는다."
+          }
+        },
+        {
+          "id": "special.adverb.008",
+          "kanji": "一切～ない",
+          "hiragana": "いっさい～ない",
+          "korean": "일절 ~않다",
+          "example": {
+            "segments": [
+              {
+                "text": "酒",
+                "reading": "さけ"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "一切",
+                "reading": "いっさい"
+              },
+              {
+                "text": "飲",
+                "reading": "の"
+              },
+              {
+                "text": "まない。"
+              }
+            ],
+            "korean": "술은 일절 마시지 않는다."
+          }
+        },
+        {
+          "id": "special.adverb.009",
+          "kanji": "今に",
+          "hiragana": "いまに",
+          "korean": "이제 곧, 머지않아",
+          "example": {
+            "segments": [
+              {
+                "text": "今",
+                "reading": "いま"
+              },
+              {
+                "text": "にきっと"
+              },
+              {
+                "text": "分",
+                "reading": "わ"
+              },
+              {
+                "text": "かるよ。"
+              }
+            ],
+            "korean": "머지않아 분명 알게 될 거야."
+          }
+        },
+        {
+          "id": "special.adverb.010",
+          "kanji": null,
+          "hiragana": "おそらく",
+          "korean": "아마, 필시, 어쩌면",
+          "example": {
+            "segments": [
+              {
+                "text": "おそらく"
+              },
+              {
+                "text": "明日",
+                "reading": "あした"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "晴",
+                "reading": "は"
+              },
+              {
+                "text": "れる。"
+              }
+            ],
+            "korean": "아마 내일은 맑을 것이다."
+          }
+        },
+        {
+          "id": "special.adverb.011",
+          "kanji": null,
+          "hiragana": "かえって",
+          "korean": "오히려, 반대로",
+          "example": {
+            "segments": [
+              {
+                "text": "急",
+                "reading": "いそ"
+              },
+              {
+                "text": "ぐとかえって"
+              },
+              {
+                "text": "危",
+                "reading": "あぶ"
+              },
+              {
+                "text": "ない。"
+              }
+            ],
+            "korean": "서두르면 오히려 위험하다."
+          }
+        },
+        {
+          "id": "special.adverb.012",
+          "kanji": null,
+          "hiragana": "かつ",
+          "korean": "동시에, 또한",
+          "example": {
+            "segments": [
+              {
+                "text": "安",
+                "reading": "やす"
+              },
+              {
+                "text": "く、かつ"
+              },
+              {
+                "text": "丈夫",
+                "reading": "じょうぶ"
+              },
+              {
+                "text": "な"
+              },
+              {
+                "text": "靴",
+                "reading": "くつ"
+              },
+              {
+                "text": "だ。"
+              }
+            ],
+            "korean": "싸고 동시에 튼튼한 신발이다."
+          }
+        },
+        {
+          "id": "special.adverb.013",
+          "kanji": null,
+          "hiragana": "かつて",
+          "korean": "이전에, 옛날에",
+          "example": {
+            "segments": [
+              {
+                "text": "かつてここに"
+              },
+              {
+                "text": "駅",
+                "reading": "えき"
+              },
+              {
+                "text": "があった。"
+              }
+            ],
+            "korean": "옛날에 여기에 역이 있었다."
+          }
+        },
+        {
+          "id": "special.adverb.014",
+          "kanji": "必ずしも～ない",
+          "hiragana": "かならずしも～ない",
+          "korean": "반드시 ~인 것은 아니다",
+          "example": {
+            "segments": [
+              {
+                "text": "高",
+                "reading": "たか"
+              },
+              {
+                "text": "い"
+              },
+              {
+                "text": "物",
+                "reading": "もの"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "必",
+                "reading": "かなら"
+              },
+              {
+                "text": "ずしも"
+              },
+              {
+                "text": "良",
+                "reading": "よ"
+              },
+              {
+                "text": "いとは"
+              },
+              {
+                "text": "限",
+                "reading": "かぎ"
+              },
+              {
+                "text": "らない。"
+              }
+            ],
+            "korean": "비싼 것이 반드시 좋은 것은 아니다."
+          }
+        },
+        {
+          "id": "special.adverb.015",
+          "kanji": "仮に",
+          "hiragana": "かりに",
+          "korean": "가령, 만일",
+          "example": {
+            "segments": [
+              {
+                "text": "仮",
+                "reading": "かり"
+              },
+              {
+                "text": "に"
+              },
+              {
+                "text": "失敗",
+                "reading": "しっぱい"
+              },
+              {
+                "text": "しても"
+              },
+              {
+                "text": "諦",
+                "reading": "あきら"
+              },
+              {
+                "text": "めない。"
+              }
+            ],
+            "korean": "가령 실패해도 포기하지 않는다."
+          }
+        },
+        {
+          "id": "special.adverb.016",
+          "kanji": null,
+          "hiragana": "くれぐれも",
+          "korean": "부디, 제발",
+          "example": {
+            "segments": [
+              {
+                "text": "くれぐれも"
+              },
+              {
+                "text": "無理",
+                "reading": "むり"
+              },
+              {
+                "text": "をしないで。"
+              }
+            ],
+            "korean": "부디 무리하지 마."
+          }
+        },
+        {
+          "id": "special.adverb.017",
+          "kanji": null,
+          "hiragana": "さぞ",
+          "korean": "아마, 필시, 얼마나, 오죽",
+          "example": {
+            "segments": [
+              {
+                "text": "さぞお"
+              },
+              {
+                "text": "疲",
+                "reading": "つか"
+              },
+              {
+                "text": "れでしょう。"
+              }
+            ],
+            "korean": "많이 피곤하시겠어요."
+          }
+        },
+        {
+          "id": "special.adverb.018",
+          "kanji": null,
+          "hiragana": "ざっと",
+          "korean": "대충, 대강",
+          "example": {
+            "segments": [
+              {
+                "text": "資料",
+                "reading": "しりょう"
+              },
+              {
+                "text": "にざっと"
+              },
+              {
+                "text": "目",
+                "reading": "め"
+              },
+              {
+                "text": "を"
+              },
+              {
+                "text": "通",
+                "reading": "とお"
+              },
+              {
+                "text": "す。"
+              }
+            ],
+            "korean": "자료를 대강 훑어본다."
+          }
+        },
+        {
+          "id": "special.adverb.019",
+          "kanji": null,
+          "hiragana": "さらに",
+          "korean": "거듭, 다시금",
+          "example": {
+            "segments": [
+              {
+                "text": "さらに"
+              },
+              {
+                "text": "練習",
+                "reading": "れんしゅう"
+              },
+              {
+                "text": "を"
+              },
+              {
+                "text": "重",
+                "reading": "かさ"
+              },
+              {
+                "text": "ねる。"
+              }
+            ],
+            "korean": "거듭 연습을 쌓는다."
+          }
+        },
+        {
+          "id": "special.adverb.020",
+          "kanji": "次第に",
+          "hiragana": "しだいに",
+          "korean": "서서히, 차츰",
+          "example": {
+            "segments": [
+              {
+                "text": "空",
+                "reading": "そら"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "次第",
+                "reading": "しだい"
+              },
+              {
+                "text": "に"
+              },
+              {
+                "text": "暗",
+                "reading": "くら"
+              },
+              {
+                "text": "くなる。"
+              }
+            ],
+            "korean": "하늘이 차츰 어두워진다."
+          }
+        },
+        {
+          "id": "special.adverb.021",
+          "kanji": null,
+          "hiragana": "しばしば",
+          "korean": "자주, 여러 차례",
+          "example": {
+            "segments": [
+              {
+                "text": "彼",
+                "reading": "かれ"
+              },
+              {
+                "text": "とはしばしば"
+              },
+              {
+                "text": "会",
+                "reading": "あ"
+              },
+              {
+                "text": "う。"
+              }
+            ],
+            "korean": "그와는 자주 만난다."
+          }
+        },
+        {
+          "id": "special.adverb.022",
+          "kanji": null,
+          "hiragana": "しみじみ",
+          "korean": "절실히",
+          "example": {
+            "segments": [
+              {
+                "text": "家族",
+                "reading": "かぞく"
+              },
+              {
+                "text": "の"
+              },
+              {
+                "text": "大切",
+                "reading": "たいせつ"
+              },
+              {
+                "text": "さをしみじみ"
+              },
+              {
+                "text": "感",
+                "reading": "かん"
+              },
+              {
+                "text": "じる。"
+              }
+            ],
+            "korean": "가족의 소중함을 절실히 느낀다."
+          }
+        },
+        {
+          "id": "special.adverb.023",
+          "kanji": "徐々に",
+          "hiragana": "じょじょに",
+          "korean": "서서히, 조금씩",
+          "example": {
+            "segments": [
+              {
+                "text": "痛",
+                "reading": "いた"
+              },
+              {
+                "text": "みが"
+              },
+              {
+                "text": "徐々",
+                "reading": "じょじょ"
+              },
+              {
+                "text": "に"
+              },
+              {
+                "text": "消",
+                "reading": "き"
+              },
+              {
+                "text": "えた。"
+              }
+            ],
+            "korean": "통증이 서서히 사라졌다."
+          }
+        },
+        {
+          "id": "special.adverb.024",
+          "kanji": null,
+          "hiragana": "せいぜい",
+          "korean": "기껏, 고작",
+          "example": {
+            "segments": [
+              {
+                "text": "参加者",
+                "reading": "さんかしゃ"
+              },
+              {
+                "text": "はせいぜい"
+              },
+              {
+                "text": "十人",
+                "reading": "じゅうにん"
+              },
+              {
+                "text": "だ。"
+              }
+            ],
+            "korean": "참가자는 기껏해야 열 명이다."
+          }
+        },
+        {
+          "id": "special.adverb.025",
+          "kanji": null,
+          "hiragana": "せっかく",
+          "korean": "모처럼",
+          "example": {
+            "segments": [
+              {
+                "text": "せっかく"
+              },
+              {
+                "text": "来",
+                "reading": "き"
+              },
+              {
+                "text": "たのに"
+              },
+              {
+                "text": "店",
+                "reading": "みせ"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "休",
+                "reading": "やす"
+              },
+              {
+                "text": "みだ。"
+              }
+            ],
+            "korean": "모처럼 왔는데 가게는 쉬는 날이다."
+          }
+        },
+        {
+          "id": "special.adverb.026",
+          "kanji": null,
+          "hiragana": "そう～ない",
+          "korean": "그렇게 ~않다",
+          "example": {
+            "segments": [
+              {
+                "text": "駅",
+                "reading": "えき"
+              },
+              {
+                "text": "はそう"
+              },
+              {
+                "text": "遠",
+                "reading": "とお"
+              },
+              {
+                "text": "くない。"
+              }
+            ],
+            "korean": "역은 그렇게 멀지 않다."
+          }
+        },
+        {
+          "id": "special.adverb.027",
+          "kanji": null,
+          "hiragana": "そのうち",
+          "korean": "머지않아, 가까운 시일 내에, 조만간",
+          "example": {
+            "segments": [
+              {
+                "text": "そのうちまた"
+              },
+              {
+                "text": "会",
+                "reading": "あ"
+              },
+              {
+                "text": "いましょう。"
+              }
+            ],
+            "korean": "조만간 다시 만나요."
+          }
+        },
+        {
+          "id": "special.adverb.028",
+          "kanji": null,
+          "hiragana": "それほど～ない",
+          "korean": "그 정도로 ~않다",
+          "example": {
+            "segments": [
+              {
+                "text": "今日",
+                "reading": "きょう"
+              },
+              {
+                "text": "はそれほど"
+              },
+              {
+                "text": "寒",
+                "reading": "さむ"
+              },
+              {
+                "text": "くない。"
+              }
+            ],
+            "korean": "오늘은 그 정도로 춥지 않다."
+          }
+        },
+        {
+          "id": "special.adverb.029",
+          "kanji": null,
+          "hiragana": "たいして～ない",
+          "korean": "그다지 ~않다",
+          "example": {
+            "segments": [
+              {
+                "text": "たいして"
+              },
+              {
+                "text": "時間",
+                "reading": "じかん"
+              },
+              {
+                "text": "はかからない。"
+              }
+            ],
+            "korean": "그다지 시간이 걸리지 않는다."
+          }
+        },
+        {
+          "id": "special.adverb.030",
+          "kanji": "直ちに",
+          "hiragana": "ただちに",
+          "korean": "즉시, 곧, 당장",
+          "example": {
+            "segments": [
+              {
+                "text": "直",
+                "reading": "ただ"
+              },
+              {
+                "text": "ちに"
+              },
+              {
+                "text": "作業",
+                "reading": "さぎょう"
+              },
+              {
+                "text": "を"
+              },
+              {
+                "text": "止",
+                "reading": "と"
+              },
+              {
+                "text": "めてください。"
+              }
+            ],
+            "korean": "즉시 작업을 멈춰 주세요."
+          }
+        }
+      ]
+    },
+    {
+      "id": "adverb.2",
+      "category": "부사",
+      "title": "부사 2",
+      "description": "31~60",
+      "items": [
+        {
+          "id": "special.adverb.031",
+          "kanji": null,
+          "hiragana": "たとえ",
+          "korean": "설령",
+          "example": {
+            "segments": [
+              {
+                "text": "たとえ"
+              },
+              {
+                "text": "雨",
+                "reading": "あめ"
+              },
+              {
+                "text": "でも"
+              },
+              {
+                "text": "行",
+                "reading": "い"
+              },
+              {
+                "text": "く。"
+              }
+            ],
+            "korean": "설령 비가 와도 간다."
+          }
+        },
+        {
+          "id": "special.adverb.032",
+          "kanji": "例えば",
+          "hiragana": "たとえば",
+          "korean": "예를 들면",
+          "example": {
+            "segments": [
+              {
+                "text": "果物",
+                "reading": "くだもの"
+              },
+              {
+                "text": "、"
+              },
+              {
+                "text": "例",
+                "reading": "たと"
+              },
+              {
+                "text": "えばリンゴが"
+              },
+              {
+                "text": "好",
+                "reading": "す"
+              },
+              {
+                "text": "きだ。"
+              }
+            ],
+            "korean": "과일, 예를 들면 사과를 좋아한다."
+          }
+        },
+        {
+          "id": "special.adverb.033",
+          "kanji": null,
+          "hiragana": "ちっとも",
+          "korean": "조금도, 전혀",
+          "example": {
+            "segments": [
+              {
+                "text": "ちっとも"
+              },
+              {
+                "text": "眠",
+                "reading": "ねむ"
+              },
+              {
+                "text": "くない。"
+              }
+            ],
+            "korean": "조금도 졸리지 않다."
+          }
+        },
+        {
+          "id": "special.adverb.034",
+          "kanji": null,
+          "hiragana": "つい",
+          "korean": "무심코, 그만",
+          "example": {
+            "segments": [
+              {
+                "text": "つい"
+              },
+              {
+                "text": "秘密",
+                "reading": "ひみつ"
+              },
+              {
+                "text": "を"
+              },
+              {
+                "text": "話",
+                "reading": "はな"
+              },
+              {
+                "text": "してしまった。"
+              }
+            ],
+            "korean": "그만 비밀을 말해 버렸다."
+          }
+        },
+        {
+          "id": "special.adverb.035",
+          "kanji": null,
+          "hiragana": "つまり",
+          "korean": "즉, 결국",
+          "example": {
+            "segments": [
+              {
+                "text": "父",
+                "reading": "ちち"
+              },
+              {
+                "text": "の"
+              },
+              {
+                "text": "兄",
+                "reading": "あに"
+              },
+              {
+                "text": "、つまり"
+              },
+              {
+                "text": "私",
+                "reading": "わたし"
+              },
+              {
+                "text": "のおじです。"
+              }
+            ],
+            "korean": "아버지의 형, 즉 제 큰아버지입니다."
+          }
+        },
+        {
+          "id": "special.adverb.036",
+          "kanji": null,
+          "hiragana": "どうか",
+          "korean": "아무쪼록, 부디",
+          "example": {
+            "segments": [
+              {
+                "text": "どうか"
+              },
+              {
+                "text": "元気",
+                "reading": "げんき"
+              },
+              {
+                "text": "でいてください。"
+              }
+            ],
+            "korean": "부디 건강하게 지내 주세요."
+          }
+        },
+        {
+          "id": "special.adverb.037",
+          "kanji": "当然",
+          "hiragana": "とうぜん",
+          "korean": "당연",
+          "example": {
+            "segments": [
+              {
+                "text": "当然",
+                "reading": "とうぜん"
+              },
+              {
+                "text": "、"
+              },
+              {
+                "text": "私",
+                "reading": "わたし"
+              },
+              {
+                "text": "も"
+              },
+              {
+                "text": "手伝",
+                "reading": "てつだ"
+              },
+              {
+                "text": "う。"
+              }
+            ],
+            "korean": "당연히 나도 돕는다."
+          }
+        },
+        {
+          "id": "special.adverb.038",
+          "kanji": null,
+          "hiragana": "どうやら",
+          "korean": "아무래도, 어쩐지",
+          "example": {
+            "segments": [
+              {
+                "text": "どうやら"
+              },
+              {
+                "text": "道",
+                "reading": "みち"
+              },
+              {
+                "text": "を"
+              },
+              {
+                "text": "間違",
+                "reading": "まちが"
+              },
+              {
+                "text": "えたようだ。"
+              }
+            ],
+            "korean": "아무래도 길을 잘못 든 것 같다."
+          }
+        },
+        {
+          "id": "special.adverb.039",
+          "kanji": null,
+          "hiragana": "とっくに",
+          "korean": "훨씬 전에",
+          "example": {
+            "segments": [
+              {
+                "text": "宿題",
+                "reading": "しゅくだい"
+              },
+              {
+                "text": "はとっくに"
+              },
+              {
+                "text": "終",
+                "reading": "お"
+              },
+              {
+                "text": "わった。"
+              }
+            ],
+            "korean": "숙제는 훨씬 전에 끝났다."
+          }
+        },
+        {
+          "id": "special.adverb.040",
+          "kanji": null,
+          "hiragana": "ともかく",
+          "korean": "어쨌든, 여하튼",
+          "example": {
+            "segments": [
+              {
+                "text": "ともかく"
+              },
+              {
+                "text": "一度",
+                "reading": "いちど"
+              },
+              {
+                "text": "やってみよう。"
+              }
+            ],
+            "korean": "어쨌든 한번 해 보자."
+          }
+        },
+        {
+          "id": "special.adverb.041",
+          "kanji": null,
+          "hiragana": "とりわけ",
+          "korean": "특히, 유난히",
+          "example": {
+            "segments": [
+              {
+                "text": "今日",
+                "reading": "きょう"
+              },
+              {
+                "text": "はとりわけ"
+              },
+              {
+                "text": "暑",
+                "reading": "あつ"
+              },
+              {
+                "text": "い。"
+              }
+            ],
+            "korean": "오늘은 유난히 덥다."
+          }
+        },
+        {
+          "id": "special.adverb.042",
+          "kanji": null,
+          "hiragana": "なぜか",
+          "korean": "왜인지",
+          "example": {
+            "segments": [
+              {
+                "text": "なぜか"
+              },
+              {
+                "text": "涙",
+                "reading": "なみだ"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "出",
+                "reading": "で"
+              },
+              {
+                "text": "た。"
+              }
+            ],
+            "korean": "왜인지 눈물이 났다."
+          }
+        },
+        {
+          "id": "special.adverb.043",
+          "kanji": "何も",
+          "hiragana": "なにも",
+          "korean": "특별히, 굳이",
+          "example": {
+            "segments": [
+              {
+                "text": "何",
+                "reading": "なに"
+              },
+              {
+                "text": "も"
+              },
+              {
+                "text": "今",
+                "reading": "いま"
+              },
+              {
+                "text": "決",
+                "reading": "き"
+              },
+              {
+                "text": "めなくてもいい。"
+              }
+            ],
+            "korean": "굳이 지금 정하지 않아도 된다."
+          }
+        },
+        {
+          "id": "special.adverb.044",
+          "kanji": "何とか",
+          "hiragana": "なんとか",
+          "korean": "어떻게든",
+          "example": {
+            "segments": [
+              {
+                "text": "何",
+                "reading": "なん"
+              },
+              {
+                "text": "とか"
+              },
+              {
+                "text": "間",
+                "reading": "ま"
+              },
+              {
+                "text": "に"
+              },
+              {
+                "text": "合",
+                "reading": "あ"
+              },
+              {
+                "text": "った。"
+              }
+            ],
+            "korean": "어떻게든 시간에 맞췄다."
+          }
+        },
+        {
+          "id": "special.adverb.045",
+          "kanji": null,
+          "hiragana": "なんら",
+          "korean": "조금도, 하등",
+          "example": {
+            "segments": [
+              {
+                "text": "なんら"
+              },
+              {
+                "text": "問題",
+                "reading": "もんだい"
+              },
+              {
+                "text": "はない。"
+              }
+            ],
+            "korean": "아무런 문제도 없다."
+          }
+        },
+        {
+          "id": "special.adverb.046",
+          "kanji": "果たして",
+          "hiragana": "はたして",
+          "korean": "과연",
+          "example": {
+            "segments": [
+              {
+                "text": "果",
+                "reading": "は"
+              },
+              {
+                "text": "たして"
+              },
+              {
+                "text": "成功",
+                "reading": "せいこう"
+              },
+              {
+                "text": "するだろうか。"
+              }
+            ],
+            "korean": "과연 성공할까."
+          }
+        },
+        {
+          "id": "special.adverb.047",
+          "kanji": null,
+          "hiragana": "まさか",
+          "korean": "설마",
+          "example": {
+            "segments": [
+              {
+                "text": "まさか"
+              },
+              {
+                "text": "彼",
+                "reading": "かれ"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "負",
+                "reading": "ま"
+              },
+              {
+                "text": "けるとは。"
+              }
+            ],
+            "korean": "설마 그가 지다니."
+          }
+        },
+        {
+          "id": "special.adverb.048",
+          "kanji": null,
+          "hiragana": "まさに",
+          "korean": "확실히, 정말로",
+          "example": {
+            "segments": [
+              {
+                "text": "これはまさに"
+              },
+              {
+                "text": "私",
+                "reading": "わたし"
+              },
+              {
+                "text": "の"
+              },
+              {
+                "text": "理想",
+                "reading": "りそう"
+              },
+              {
+                "text": "だ。"
+              }
+            ],
+            "korean": "이것은 정말로 나의 이상이다."
+          }
+        },
+        {
+          "id": "special.adverb.049",
+          "kanji": null,
+          "hiragana": "まさしく",
+          "korean": "틀림없이, 확실히",
+          "example": {
+            "segments": [
+              {
+                "text": "あれはまさしく"
+              },
+              {
+                "text": "彼",
+                "reading": "かれ"
+              },
+              {
+                "text": "の"
+              },
+              {
+                "text": "声",
+                "reading": "こえ"
+              },
+              {
+                "text": "だ。"
+              }
+            ],
+            "korean": "저것은 틀림없이 그의 목소리다."
+          }
+        },
+        {
+          "id": "special.adverb.050",
+          "kanji": null,
+          "hiragana": "まして",
+          "korean": "하물며, 더구나",
+          "example": {
+            "segments": [
+              {
+                "text": "大人",
+                "reading": "おとな"
+              },
+              {
+                "text": "でも"
+              },
+              {
+                "text": "難",
+                "reading": "むずか"
+              },
+              {
+                "text": "しい。まして"
+              },
+              {
+                "text": "子供",
+                "reading": "こども"
+              },
+              {
+                "text": "には"
+              },
+              {
+                "text": "無理",
+                "reading": "むり"
+              },
+              {
+                "text": "だ。"
+              }
+            ],
+            "korean": "어른도 어렵다. 하물며 아이에게는 무리다."
+          }
+        },
+        {
+          "id": "special.adverb.051",
+          "kanji": null,
+          "hiragana": "まず～ない",
+          "korean": "거의 ~않다",
+          "example": {
+            "segments": [
+              {
+                "text": "そんな"
+              },
+              {
+                "text": "失敗",
+                "reading": "しっぱい"
+              },
+              {
+                "text": "はまずない。"
+              }
+            ],
+            "korean": "그런 실패는 거의 없다."
+          }
+        },
+        {
+          "id": "special.adverb.052",
+          "kanji": null,
+          "hiragana": "ますます",
+          "korean": "점점 더, 더욱더",
+          "example": {
+            "segments": [
+              {
+                "text": "日本語",
+                "reading": "にほんご"
+              },
+              {
+                "text": "がますます"
+              },
+              {
+                "text": "好",
+                "reading": "す"
+              },
+              {
+                "text": "きになった。"
+              }
+            ],
+            "korean": "일본어가 더욱더 좋아졌다."
+          }
+        },
+        {
+          "id": "special.adverb.053",
+          "kanji": "全く～ない",
+          "hiragana": "まったく～ない",
+          "korean": "전혀 ~않다",
+          "example": {
+            "segments": [
+              {
+                "text": "音",
+                "reading": "おと"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "全",
+                "reading": "まった"
+              },
+              {
+                "text": "く"
+              },
+              {
+                "text": "聞",
+                "reading": "き"
+              },
+              {
+                "text": "こえない。"
+              }
+            ],
+            "korean": "소리가 전혀 들리지 않는다."
+          }
+        },
+        {
+          "id": "special.adverb.054",
+          "kanji": null,
+          "hiragana": "まもなく",
+          "korean": "곧",
+          "example": {
+            "segments": [
+              {
+                "text": "まもなく"
+              },
+              {
+                "text": "電車",
+                "reading": "でんしゃ"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "来",
+                "reading": "く"
+              },
+              {
+                "text": "る。"
+              }
+            ],
+            "korean": "곧 전철이 온다."
+          }
+        },
+        {
+          "id": "special.adverb.055",
+          "kanji": null,
+          "hiragana": "まるで～ない",
+          "korean": "전혀 ~않다",
+          "example": {
+            "segments": [
+              {
+                "text": "彼",
+                "reading": "かれ"
+              },
+              {
+                "text": "の"
+              },
+              {
+                "text": "話",
+                "reading": "はなし"
+              },
+              {
+                "text": "はまるで"
+              },
+              {
+                "text": "分",
+                "reading": "わ"
+              },
+              {
+                "text": "からない。"
+              }
+            ],
+            "korean": "그의 이야기는 전혀 모르겠다."
+          }
+        },
+        {
+          "id": "special.adverb.056",
+          "kanji": "万一",
+          "hiragana": "まんいち",
+          "korean": "만일",
+          "example": {
+            "segments": [
+              {
+                "text": "万一",
+                "reading": "まんいち"
+              },
+              {
+                "text": "遅",
+                "reading": "おく"
+              },
+              {
+                "text": "れるなら"
+              },
+              {
+                "text": "連絡",
+                "reading": "れんらく"
+              },
+              {
+                "text": "して。"
+              }
+            ],
+            "korean": "만일 늦는다면 연락해."
+          }
+        },
+        {
+          "id": "special.adverb.057",
+          "kanji": "見る見る",
+          "hiragana": "みるみる",
+          "korean": "순식간에",
+          "example": {
+            "segments": [
+              {
+                "text": "雪",
+                "reading": "ゆき"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "見",
+                "reading": "み"
+              },
+              {
+                "text": "る"
+              },
+              {
+                "text": "見",
+                "reading": "み"
+              },
+              {
+                "text": "る"
+              },
+              {
+                "text": "積",
+                "reading": "つ"
+              },
+              {
+                "text": "もった。"
+              }
+            ],
+            "korean": "눈이 순식간에 쌓였다."
+          }
+        },
+        {
+          "id": "special.adverb.058",
+          "kanji": null,
+          "hiragana": "むしろ",
+          "korean": "오히려, 차라리",
+          "example": {
+            "segments": [
+              {
+                "text": "待",
+                "reading": "ま"
+              },
+              {
+                "text": "つよりむしろ"
+              },
+              {
+                "text": "歩",
+                "reading": "ある"
+              },
+              {
+                "text": "きたい。"
+              }
+            ],
+            "korean": "기다리기보다 차라리 걷고 싶다."
+          }
+        },
+        {
+          "id": "special.adverb.059",
+          "kanji": null,
+          "hiragana": "めったに～ない",
+          "korean": "좀처럼 ~않다",
+          "example": {
+            "segments": [
+              {
+                "text": "彼",
+                "reading": "かれ"
+              },
+              {
+                "text": "はめったに"
+              },
+              {
+                "text": "怒",
+                "reading": "おこ"
+              },
+              {
+                "text": "らない。"
+              }
+            ],
+            "korean": "그는 좀처럼 화내지 않는다."
+          }
+        },
+        {
+          "id": "special.adverb.060",
+          "kanji": null,
+          "hiragana": "もしかしたら",
+          "korean": "어쩌면",
+          "example": {
+            "segments": [
+              {
+                "text": "もしかしたら"
+              },
+              {
+                "text": "雪",
+                "reading": "ゆき"
+              },
+              {
+                "text": "になるかもしれない。"
+              }
+            ],
+            "korean": "어쩌면 눈이 올지도 모른다."
+          }
+        }
+      ]
+    },
+    {
+      "id": "adverb.3",
+      "category": "부사",
+      "title": "부사 3",
+      "description": "61~64",
+      "items": [
+        {
+          "id": "special.adverb.061",
+          "kanji": null,
+          "hiragana": "もしも",
+          "korean": "만약, 혹시",
+          "example": {
+            "segments": [
+              {
+                "text": "もしも"
+              },
+              {
+                "text": "困",
+                "reading": "こま"
+              },
+              {
+                "text": "ったら"
+              },
+              {
+                "text": "電話",
+                "reading": "でんわ"
+              },
+              {
+                "text": "して。"
+              }
+            ],
+            "korean": "만약 곤란해지면 전화해."
+          }
+        },
+        {
+          "id": "special.adverb.062",
+          "kanji": null,
+          "hiragana": "もともと",
+          "korean": "원래",
+          "example": {
+            "segments": [
+              {
+                "text": "ここはもともと"
+              },
+              {
+                "text": "学校",
+                "reading": "がっこう"
+              },
+              {
+                "text": "だった。"
+              }
+            ],
+            "korean": "여기는 원래 학교였다."
+          }
+        },
+        {
+          "id": "special.adverb.063",
+          "kanji": null,
+          "hiragana": "やがて",
+          "korean": "이윽고, 머지않아",
+          "example": {
+            "segments": [
+              {
+                "text": "やがて"
+              },
+              {
+                "text": "春",
+                "reading": "はる"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "来",
+                "reading": "く"
+              },
+              {
+                "text": "る。"
+              }
+            ],
+            "korean": "머지않아 봄이 온다."
+          }
+        },
+        {
+          "id": "special.adverb.064",
+          "kanji": null,
+          "hiragana": "ろくに～ない",
+          "korean": "제대로 ~않다",
+          "example": {
+            "segments": [
+              {
+                "text": "忙",
+                "reading": "いそが"
+              },
+              {
+                "text": "しくてろくに"
+              },
+              {
+                "text": "寝",
+                "reading": "ね"
+              },
+              {
+                "text": "ていない。"
+              }
+            ],
+            "korean": "바빠서 제대로 자지 못했다."
+          }
+        }
+      ]
+    },
+    {
+      "id": "connective.sequence",
+      "category": "접속 표현",
+      "title": "순접",
+      "description": "7개 표현",
+      "items": [
+        {
+          "id": "special.sequence.001",
+          "kanji": null,
+          "hiragana": "したがって",
+          "korean": "따라서, 그러므로",
+          "example": {
+            "segments": [
+              {
+                "text": "明日",
+                "reading": "あした"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "祝日",
+                "reading": "しゅくじつ"
+              },
+              {
+                "text": "だ。したがって"
+              },
+              {
+                "text": "休",
+                "reading": "やす"
+              },
+              {
+                "text": "みだ。"
+              }
+            ],
+            "korean": "내일은 공휴일이다. 따라서 쉰다."
+          }
+        },
+        {
+          "id": "special.sequence.002",
+          "kanji": null,
+          "hiragana": "すると",
+          "korean": "그랬더니, 그러자",
+          "example": {
+            "segments": [
+              {
+                "text": "ドアを"
+              },
+              {
+                "text": "開",
+                "reading": "あ"
+              },
+              {
+                "text": "けた。すると"
+              },
+              {
+                "text": "猫",
+                "reading": "ねこ"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "入",
+                "reading": "はい"
+              },
+              {
+                "text": "ってきた。"
+              }
+            ],
+            "korean": "문을 열었다. 그러자 고양이가 들어왔다."
+          }
+        },
+        {
+          "id": "special.sequence.003",
+          "kanji": null,
+          "hiragana": "そこで",
+          "korean": "그래서, 그런 까닭으로",
+          "example": {
+            "segments": [
+              {
+                "text": "道",
+                "reading": "みち"
+              },
+              {
+                "text": "に"
+              },
+              {
+                "text": "迷",
+                "reading": "まよ"
+              },
+              {
+                "text": "った。そこで"
+              },
+              {
+                "text": "地図",
+                "reading": "ちず"
+              },
+              {
+                "text": "を"
+              },
+              {
+                "text": "見",
+                "reading": "み"
+              },
+              {
+                "text": "た。"
+              }
+            ],
+            "korean": "길을 잃었다. 그래서 지도를 봤다."
+          }
+        },
+        {
+          "id": "special.sequence.004",
+          "kanji": null,
+          "hiragana": "それで",
+          "korean": "그래서, 그러므로",
+          "example": {
+            "segments": [
+              {
+                "text": "熱",
+                "reading": "ねつ"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "出",
+                "reading": "で"
+              },
+              {
+                "text": "た。それで"
+              },
+              {
+                "text": "学校",
+                "reading": "がっこう"
+              },
+              {
+                "text": "を"
+              },
+              {
+                "text": "休",
+                "reading": "やす"
+              },
+              {
+                "text": "んだ。"
+              }
+            ],
+            "korean": "열이 났다. 그래서 학교를 쉬었다."
+          }
+        },
+        {
+          "id": "special.sequence.005",
+          "kanji": null,
+          "hiragana": "それなら",
+          "korean": "그렇다면, 그러면",
+          "example": {
+            "segments": [
+              {
+                "text": "暇",
+                "reading": "ひま"
+              },
+              {
+                "text": "なの？それなら"
+              },
+              {
+                "text": "手伝",
+                "reading": "てつだ"
+              },
+              {
+                "text": "って。"
+              }
+            ],
+            "korean": "한가해? 그렇다면 도와줘."
+          }
+        },
+        {
+          "id": "special.sequence.006",
+          "kanji": null,
+          "hiragana": "それゆえ",
+          "korean": "그러므로, 그런 까닭에",
+          "example": {
+            "segments": [
+              {
+                "text": "証拠",
+                "reading": "しょうこ"
+              },
+              {
+                "text": "がない。それゆえ"
+              },
+              {
+                "text": "断定",
+                "reading": "だんてい"
+              },
+              {
+                "text": "できない。"
+              }
+            ],
+            "korean": "증거가 없다. 그러므로 단정할 수 없다."
+          }
+        },
+        {
+          "id": "special.sequence.007",
+          "kanji": null,
+          "hiragana": "よって",
+          "korean": "따라서, 그러므로",
+          "example": {
+            "segments": [
+              {
+                "text": "全員",
+                "reading": "ぜんいん"
+              },
+              {
+                "text": "賛成",
+                "reading": "さんせい"
+              },
+              {
+                "text": "した。よって"
+              },
+              {
+                "text": "可決",
+                "reading": "かけつ"
+              },
+              {
+                "text": "された。"
+              }
+            ],
+            "korean": "전원이 찬성했다. 따라서 가결되었다."
+          }
+        }
+      ]
+    },
+    {
+      "id": "connective.choice",
+      "category": "접속 표현",
+      "title": "병렬·선택",
+      "description": "4개 표현",
+      "items": [
+        {
+          "id": "special.choice.001",
+          "kanji": null,
+          "hiragana": "あるいは",
+          "korean": "또는, 혹은",
+          "example": {
+            "segments": [
+              {
+                "text": "電話",
+                "reading": "でんわ"
+              },
+              {
+                "text": "、あるいはメールで"
+              },
+              {
+                "text": "連絡",
+                "reading": "れんらく"
+              },
+              {
+                "text": "してください。"
+              }
+            ],
+            "korean": "전화 또는 이메일로 연락해 주세요."
+          }
+        },
+        {
+          "id": "special.choice.002",
+          "kanji": null,
+          "hiragana": "そして",
+          "korean": "그리고",
+          "example": {
+            "segments": [
+              {
+                "text": "手",
+                "reading": "て"
+              },
+              {
+                "text": "を"
+              },
+              {
+                "text": "洗",
+                "reading": "あら"
+              },
+              {
+                "text": "う。そして"
+              },
+              {
+                "text": "食事",
+                "reading": "しょくじ"
+              },
+              {
+                "text": "をする。"
+              }
+            ],
+            "korean": "손을 씻는다. 그리고 식사를 한다."
+          }
+        },
+        {
+          "id": "special.choice.003",
+          "kanji": null,
+          "hiragana": "それとも",
+          "korean": "그렇지 않으면, 아니면",
+          "example": {
+            "segments": [
+              {
+                "text": "お"
+              },
+              {
+                "text": "茶",
+                "reading": "ちゃ"
+              },
+              {
+                "text": "にする？それともコーヒー？"
+              }
+            ],
+            "korean": "차로 할래? 아니면 커피?"
+          }
+        },
+        {
+          "id": "special.choice.004",
+          "kanji": null,
+          "hiragana": "もしくは",
+          "korean": "또는, 혹은",
+          "example": {
+            "segments": [
+              {
+                "text": "名前",
+                "reading": "なまえ"
+              },
+              {
+                "text": "もしくは"
+              },
+              {
+                "text": "番号",
+                "reading": "ばんごう"
+              },
+              {
+                "text": "を"
+              },
+              {
+                "text": "書",
+                "reading": "か"
+              },
+              {
+                "text": "いてください。"
+              }
+            ],
+            "korean": "이름 또는 번호를 써 주세요."
+          }
+        }
+      ]
+    },
+    {
+      "id": "connective.contrast",
+      "category": "접속 표현",
+      "title": "역접",
+      "description": "7개 표현",
+      "items": [
+        {
+          "id": "special.contrast.001",
+          "kanji": null,
+          "hiragana": "けれども",
+          "korean": "그렇지만, 하지만",
+          "example": {
+            "segments": [
+              {
+                "text": "疲",
+                "reading": "つか"
+              },
+              {
+                "text": "れた。けれども"
+              },
+              {
+                "text": "楽",
+                "reading": "たの"
+              },
+              {
+                "text": "しかった。"
+              }
+            ],
+            "korean": "피곤했다. 하지만 즐거웠다."
+          }
+        },
+        {
+          "id": "special.contrast.002",
+          "kanji": null,
+          "hiragana": "そのくせ",
+          "korean": "그런데도, 그럼에도 불구하고",
+          "example": {
+            "segments": [
+              {
+                "text": "彼",
+                "reading": "かれ"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "約束",
+                "reading": "やくそく"
+              },
+              {
+                "text": "した。そのくせ"
+              },
+              {
+                "text": "来",
+                "reading": "こ"
+              },
+              {
+                "text": "なかった。"
+              }
+            ],
+            "korean": "그는 약속했다. 그런데도 오지 않았다."
+          }
+        },
+        {
+          "id": "special.contrast.003",
+          "kanji": null,
+          "hiragana": "それでも",
+          "korean": "그래도, 그런데도",
+          "example": {
+            "segments": [
+              {
+                "text": "雨",
+                "reading": "あめ"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "降",
+                "reading": "ふ"
+              },
+              {
+                "text": "った。それでも"
+              },
+              {
+                "text": "出",
+                "reading": "で"
+              },
+              {
+                "text": "かけた。"
+              }
+            ],
+            "korean": "비가 왔다. 그래도 외출했다."
+          }
+        },
+        {
+          "id": "special.contrast.004",
+          "kanji": null,
+          "hiragana": "それなのに",
+          "korean": "그런데도, 그럼에도 불구하고",
+          "example": {
+            "segments": [
+              {
+                "text": "よく"
+              },
+              {
+                "text": "寝",
+                "reading": "ね"
+              },
+              {
+                "text": "た。それなのに"
+              },
+              {
+                "text": "眠",
+                "reading": "ねむ"
+              },
+              {
+                "text": "い。"
+              }
+            ],
+            "korean": "푹 잤다. 그런데도 졸리다."
+          }
+        },
+        {
+          "id": "special.contrast.005",
+          "kanji": null,
+          "hiragana": "だが",
+          "korean": "그러나, 그렇지만",
+          "example": {
+            "segments": [
+              {
+                "text": "急",
+                "reading": "いそ"
+              },
+              {
+                "text": "いだ。だが"
+              },
+              {
+                "text": "間",
+                "reading": "ま"
+              },
+              {
+                "text": "に"
+              },
+              {
+                "text": "合",
+                "reading": "あ"
+              },
+              {
+                "text": "わなかった。"
+              }
+            ],
+            "korean": "서둘렀다. 그러나 시간에 맞추지 못했다."
+          }
+        },
+        {
+          "id": "special.contrast.006",
+          "kanji": null,
+          "hiragana": "ところが",
+          "korean": "그런데, 그러나",
+          "example": {
+            "segments": [
+              {
+                "text": "晴",
+                "reading": "は"
+              },
+              {
+                "text": "れると"
+              },
+              {
+                "text": "思",
+                "reading": "おも"
+              },
+              {
+                "text": "った。ところが"
+              },
+              {
+                "text": "雨",
+                "reading": "あめ"
+              },
+              {
+                "text": "だった。"
+              }
+            ],
+            "korean": "맑을 줄 알았다. 그런데 비가 왔다."
+          }
+        },
+        {
+          "id": "special.contrast.007",
+          "kanji": null,
+          "hiragana": "とはいえ",
+          "korean": "그렇다고는 하나",
+          "example": {
+            "segments": [
+              {
+                "text": "春",
+                "reading": "はる"
+              },
+              {
+                "text": "だ。とはいえ、まだ"
+              },
+              {
+                "text": "寒",
+                "reading": "さむ"
+              },
+              {
+                "text": "い。"
+              }
+            ],
+            "korean": "봄이다. 그렇다고는 하나 아직 춥다."
+          }
+        }
+      ]
+    },
+    {
+      "id": "connective.transition",
+      "category": "접속 표현",
+      "title": "전환·환언",
+      "description": "6개 표현",
+      "items": [
+        {
+          "id": "special.transition.001",
+          "kanji": "一方",
+          "hiragana": "いっぽう",
+          "korean": "한편",
+          "example": {
+            "segments": [
+              {
+                "text": "兄",
+                "reading": "あに"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "外出",
+                "reading": "がいしゅつ"
+              },
+              {
+                "text": "した。"
+              },
+              {
+                "text": "一方",
+                "reading": "いっぽう"
+              },
+              {
+                "text": "、"
+              },
+              {
+                "text": "弟",
+                "reading": "おとうと"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "家",
+                "reading": "いえ"
+              },
+              {
+                "text": "にいる。"
+              }
+            ],
+            "korean": "형은 외출했다. 한편 동생은 집에 있다."
+          }
+        },
+        {
+          "id": "special.transition.002",
+          "kanji": null,
+          "hiragana": "さて",
+          "korean": "그런데, 그건 그렇고",
+          "example": {
+            "segments": [
+              {
+                "text": "準備",
+                "reading": "じゅんび"
+              },
+              {
+                "text": "はできた。さて、"
+              },
+              {
+                "text": "始",
+                "reading": "はじ"
+              },
+              {
+                "text": "めよう。"
+              }
+            ],
+            "korean": "준비는 됐다. 자, 시작하자."
+          }
+        },
+        {
+          "id": "special.transition.003",
+          "kanji": null,
+          "hiragana": "すなわち",
+          "korean": "곧, 즉, 이를테면",
+          "example": {
+            "segments": [
+              {
+                "text": "母",
+                "reading": "はは"
+              },
+              {
+                "text": "の"
+              },
+              {
+                "text": "母",
+                "reading": "はは"
+              },
+              {
+                "text": "、すなわち"
+              },
+              {
+                "text": "祖母",
+                "reading": "そぼ"
+              },
+              {
+                "text": "です。"
+              }
+            ],
+            "korean": "어머니의 어머니, 즉 외할머니입니다."
+          }
+        },
+        {
+          "id": "special.transition.004",
+          "kanji": null,
+          "hiragana": "ときに",
+          "korean": "그런데",
+          "example": {
+            "segments": [
+              {
+                "text": "お"
+              },
+              {
+                "text": "久",
+                "reading": "ひさ"
+              },
+              {
+                "text": "しぶりです。ときに、お"
+              },
+              {
+                "text": "仕事",
+                "reading": "しごと"
+              },
+              {
+                "text": "はどうですか。"
+              }
+            ],
+            "korean": "오랜만입니다. 그런데 일은 어떠세요?"
+          }
+        },
+        {
+          "id": "special.transition.005",
+          "kanji": null,
+          "hiragana": "ところで",
+          "korean": "그런데, 그건 그렇고",
+          "example": {
+            "segments": [
+              {
+                "text": "今日",
+                "reading": "きょう"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "暑",
+                "reading": "あつ"
+              },
+              {
+                "text": "いね。ところで、"
+              },
+              {
+                "text": "明日",
+                "reading": "あした"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "暇",
+                "reading": "ひま"
+              },
+              {
+                "text": "？"
+              }
+            ],
+            "korean": "오늘은 덥네. 그런데 내일은 한가해?"
+          }
+        },
+        {
+          "id": "special.transition.006",
+          "kanji": null,
+          "hiragana": "なぜなら",
+          "korean": "왜냐하면",
+          "example": {
+            "segments": [
+              {
+                "text": "歩",
+                "reading": "ある"
+              },
+              {
+                "text": "いて"
+              },
+              {
+                "text": "行",
+                "reading": "い"
+              },
+              {
+                "text": "く。なぜなら"
+              },
+              {
+                "text": "近",
+                "reading": "ちか"
+              },
+              {
+                "text": "いからだ。"
+              }
+            ],
+            "korean": "걸어간다. 왜냐하면 가깝기 때문이다."
+          }
+        }
+      ]
+    },
+    {
+      "id": "connective.addition",
+      "category": "접속 표현",
+      "title": "첨가·보충",
+      "description": "11개 표현",
+      "items": [
+        {
+          "id": "special.addition.001",
+          "kanji": null,
+          "hiragana": "しかも",
+          "korean": "게다가, 그 위에",
+          "example": {
+            "segments": [
+              {
+                "text": "この"
+              },
+              {
+                "text": "店",
+                "reading": "みせ"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "安",
+                "reading": "やす"
+              },
+              {
+                "text": "い。しかもおいしい。"
+              }
+            ],
+            "korean": "이 가게는 싸다. 게다가 맛있다."
+          }
+        },
+        {
+          "id": "special.addition.002",
+          "kanji": "その上",
+          "hiragana": "そのうえ",
+          "korean": "더구나, 게다가",
+          "example": {
+            "segments": [
+              {
+                "text": "雨",
+                "reading": "あめ"
+              },
+              {
+                "text": "だ。その"
+              },
+              {
+                "text": "上",
+                "reading": "うえ"
+              },
+              {
+                "text": "、"
+              },
+              {
+                "text": "風",
+                "reading": "かぜ"
+              },
+              {
+                "text": "も"
+              },
+              {
+                "text": "強",
+                "reading": "つよ"
+              },
+              {
+                "text": "い。"
+              }
+            ],
+            "korean": "비가 온다. 게다가 바람도 세다."
+          }
+        },
+        {
+          "id": "special.addition.003",
+          "kanji": null,
+          "hiragana": "それどころか",
+          "korean": "그렇기는커녕, 그건 고사하고",
+          "example": {
+            "segments": [
+              {
+                "text": "暇",
+                "reading": "ひま"
+              },
+              {
+                "text": "ではない。それどころか"
+              },
+              {
+                "text": "大忙",
+                "reading": "おおいそが"
+              },
+              {
+                "text": "しだ。"
+              }
+            ],
+            "korean": "한가하지 않다. 그렇기는커녕 몹시 바쁘다."
+          }
+        },
+        {
+          "id": "special.addition.004",
+          "kanji": null,
+          "hiragana": "それに",
+          "korean": "게다가",
+          "example": {
+            "segments": [
+              {
+                "text": "この"
+              },
+              {
+                "text": "部屋",
+                "reading": "へや"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "広",
+                "reading": "ひろ"
+              },
+              {
+                "text": "い。それに"
+              },
+              {
+                "text": "明",
+                "reading": "あか"
+              },
+              {
+                "text": "るい。"
+              }
+            ],
+            "korean": "이 방은 넓다. 게다가 밝다."
+          }
+        },
+        {
+          "id": "special.addition.005",
+          "kanji": null,
+          "hiragana": "それにしても",
+          "korean": "그렇다 해도",
+          "example": {
+            "segments": [
+              {
+                "text": "夏",
+                "reading": "なつ"
+              },
+              {
+                "text": "だ。それにしても"
+              },
+              {
+                "text": "暑",
+                "reading": "あつ"
+              },
+              {
+                "text": "すぎる。"
+              }
+            ],
+            "korean": "여름이다. 그렇다 해도 너무 덥다."
+          }
+        },
+        {
+          "id": "special.addition.006",
+          "kanji": null,
+          "hiragana": "ただ",
+          "korean": "다만, 단",
+          "example": {
+            "segments": [
+              {
+                "text": "行",
+                "reading": "い"
+              },
+              {
+                "text": "きたい。ただ、"
+              },
+              {
+                "text": "時間",
+                "reading": "じかん"
+              },
+              {
+                "text": "がない。"
+              }
+            ],
+            "korean": "가고 싶다. 다만 시간이 없다."
+          }
+        },
+        {
+          "id": "special.addition.007",
+          "kanji": null,
+          "hiragana": "とはいうものの",
+          "korean": "그렇다 하더라도, 그렇지만",
+          "example": {
+            "segments": [
+              {
+                "text": "春",
+                "reading": "はる"
+              },
+              {
+                "text": "だ。とはいうものの、"
+              },
+              {
+                "text": "朝",
+                "reading": "あさ"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "寒",
+                "reading": "さむ"
+              },
+              {
+                "text": "い。"
+              }
+            ],
+            "korean": "봄이다. 그렇지만 아침은 춥다."
+          }
+        },
+        {
+          "id": "special.addition.008",
+          "kanji": null,
+          "hiragana": "なお",
+          "korean": "덧붙여 말하면, 또한",
+          "example": {
+            "segments": [
+              {
+                "text": "会場",
+                "reading": "かいじょう"
+              },
+              {
+                "text": "はこちらです。なお、"
+              },
+              {
+                "text": "飲食",
+                "reading": "いんしょく"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "禁止",
+                "reading": "きんし"
+              },
+              {
+                "text": "です。"
+              }
+            ],
+            "korean": "행사장은 이쪽입니다. 덧붙여 음식물 섭취는 금지입니다."
+          }
+        },
+        {
+          "id": "special.addition.009",
+          "kanji": null,
+          "hiragana": "もっとも",
+          "korean": "그렇다고는 하지만, 다만",
+          "example": {
+            "segments": [
+              {
+                "text": "料理",
+                "reading": "りょうり"
+              },
+              {
+                "text": "はする。もっとも、"
+              },
+              {
+                "text": "簡単",
+                "reading": "かんたん"
+              },
+              {
+                "text": "なものだけだ。"
+              }
+            ],
+            "korean": "요리는 한다. 다만 간단한 것뿐이다."
+          }
+        },
+        {
+          "id": "special.addition.010",
+          "kanji": null,
+          "hiragana": "ただし",
+          "korean": "단, 다만",
+          "example": {
+            "segments": [
+              {
+                "text": "入場",
+                "reading": "にゅうじょう"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "無料",
+                "reading": "むりょう"
+              },
+              {
+                "text": "です。ただし"
+              },
+              {
+                "text": "予約",
+                "reading": "よやく"
+              },
+              {
+                "text": "が"
+              },
+              {
+                "text": "必要",
+                "reading": "ひつよう"
+              },
+              {
+                "text": "です。"
+              }
+            ],
+            "korean": "입장은 무료입니다. 단 예약이 필요합니다."
+          }
+        },
+        {
+          "id": "special.addition.011",
+          "kanji": null,
+          "hiragana": "ちなみに",
+          "korean": "덧붙여 말하면",
+          "example": {
+            "segments": [
+              {
+                "text": "明日",
+                "reading": "あした"
+              },
+              {
+                "text": "は"
+              },
+              {
+                "text": "休",
+                "reading": "やす"
+              },
+              {
+                "text": "みだ。ちなみに"
+              },
+              {
+                "text": "私",
+                "reading": "わたし"
+              },
+              {
+                "text": "の"
+              },
+              {
+                "text": "誕生日",
+                "reading": "たんじょうび"
+              },
+              {
+                "text": "だ。"
+              }
+            ],
+            "korean": "내일은 쉬는 날이다. 덧붙여 내 생일이다."
+          }
+        }
+      ]
+    }
+  ]
+}

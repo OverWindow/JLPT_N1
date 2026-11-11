@@ -72,6 +72,7 @@ print(f'{len(incoming)} transcribed; {len(words)-538} added; {len(words)} total'
 # Examples are authored separately and keyed to the preserved word order.
 import runpy
 runpy.run_path(str(ROOT / 'data/extend_words_v1_3.py'))['extend'](words, save)
+runpy.run_path(str(ROOT / 'data/extend_words_v1_6.py'))['extend'](words, save)
 for w in words:
     assert w['hiragana'] and w['korean']
     assert re.fullmatch(r'[ぁ-ゖァ-ヺー・]+', w['hiragana']), w

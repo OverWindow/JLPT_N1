@@ -38,6 +38,10 @@ void main() {
       words = await WordLoader.load();
     });
     await tester.pumpAndSettle();
+    await tester.runAsync(() async {
+      await tap(tester, 'N1 단어');
+    });
+    await tester.pumpAndSettle();
     expect(
       find.text(
         '총 ${words.length}개 단어 · ${WordGroup.fromWords(words).length}개 그룹',

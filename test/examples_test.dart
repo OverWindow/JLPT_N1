@@ -10,7 +10,7 @@ void main() {
     final words = WordLoader.parse(
       File('assets/words/words.json').readAsStringSync(),
     );
-    final audit = jsonDecode(File('data/import-v1.3.json').readAsStringSync());
+    final audit = jsonDecode(File('data/import-v1.6.json').readAsStringSync());
     expect(words.length, audit['total']);
     final sentences = <String>{};
     for (final word in words) {

@@ -1,0 +1,2453 @@
+{
+  "photoPrefix": "KakaoTalk_20261108_190033576",
+  "photoCounts": {
+    "00": 14,
+    "01": 20,
+    "02": 15,
+    "03": 18,
+    "04": 14,
+    "05": 19,
+    "06": 14,
+    "07": 20,
+    "08": 15,
+    "09": 20,
+    "10": 15,
+    "11": 20,
+    "12": 15,
+    "13": 21
+  },
+  "original": 1130,
+  "transcribed": 240,
+  "added": 212,
+  "merged": 28,
+  "total": 1342,
+  "meaningUpdates": [
+    {
+      "wordNumber": 1145,
+      "before": "일괄적으로",
+      "after": "일률적으로, 단정하여"
+    },
+    {
+      "wordNumber": 1153,
+      "before": "반짝반짝",
+      "after": "반짝반짝, 환하게"
+    },
+    {
+      "wordNumber": 1219,
+      "before": "안정되다",
+      "after": "평온하다, 조용히 쉬는 상태이다"
+    },
+    {
+      "wordNumber": 1323,
+      "before": "안정",
+      "after": "안정(安靜), 편히 쉼"
+    },
+    {
+      "wordNumber": 1342,
+      "before": "교착, 뒤얽힘",
+      "after": "교차, 뒤얽힘"
+    }
+  ],
+  "rows": [
+    {
+      "source": "00",
+      "kanji": "不審だ",
+      "hiragana": "ふしんだ",
+      "korean": "의심스럽다",
+      "wordNumber": 960,
+      "action": "merged",
+      "canonicalSpelling": "不審だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "",
+      "hiragana": "ふんだんだ",
+      "korean": "충분하다",
+      "wordNumber": 1131,
+      "action": "added",
+      "canonicalSpelling": "ふんだんだ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "",
+      "hiragana": "まちまちだ",
+      "korean": "가지각색이다",
+      "wordNumber": 713,
+      "action": "merged",
+      "canonicalSpelling": "まちまちだ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "未開だ",
+      "hiragana": "みかいだ",
+      "korean": "미개하다",
+      "wordNumber": 1132,
+      "action": "added",
+      "canonicalSpelling": "未開だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "無造作だ",
+      "hiragana": "むぞうさだ",
+      "korean": "아무렇게나 하다",
+      "wordNumber": 1133,
+      "action": "added",
+      "canonicalSpelling": "無造作だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "無念だ",
+      "hiragana": "むねんだ",
+      "korean": "분하다, 원통하다",
+      "wordNumber": 1134,
+      "action": "added",
+      "canonicalSpelling": "無念だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "無能だ",
+      "hiragana": "むのうだ",
+      "korean": "무능하다",
+      "wordNumber": 1135,
+      "action": "added",
+      "canonicalSpelling": "無能だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "無闇だ",
+      "hiragana": "むやみだ",
+      "korean": "터무니없다, 함부로 하다",
+      "wordNumber": 1136,
+      "action": "added",
+      "canonicalSpelling": "無闇だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "明朗だ",
+      "hiragana": "めいろうだ",
+      "korean": "명랑하다, 공정하다",
+      "wordNumber": 1137,
+      "action": "added",
+      "canonicalSpelling": "明朗だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "有数だ",
+      "hiragana": "ゆうすうだ",
+      "korean": "유수하다",
+      "wordNumber": 1138,
+      "action": "added",
+      "canonicalSpelling": "有数だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "優勢だ",
+      "hiragana": "ゆうせいだ",
+      "korean": "우세하다, 우위이다",
+      "wordNumber": 1139,
+      "action": "added",
+      "canonicalSpelling": "優勢だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "冷酷だ",
+      "hiragana": "れいこくだ",
+      "korean": "냉혹하다",
+      "wordNumber": 1140,
+      "action": "added",
+      "canonicalSpelling": "冷酷だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "冷淡だ",
+      "hiragana": "れいたんだ",
+      "korean": "냉담하다",
+      "wordNumber": 1141,
+      "action": "added",
+      "canonicalSpelling": "冷淡だ",
+      "match": "exact"
+    },
+    {
+      "source": "00",
+      "kanji": "露骨だ",
+      "hiragana": "ろこつだ",
+      "korean": "노골적이다",
+      "wordNumber": 1142,
+      "action": "added",
+      "canonicalSpelling": "露骨だ",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "",
+      "hiragana": "いかにも",
+      "korean": "정말로",
+      "wordNumber": 1143,
+      "action": "added",
+      "canonicalSpelling": "いかにも",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "依然として",
+      "hiragana": "いぜんとして",
+      "korean": "여전히",
+      "wordNumber": 1144,
+      "action": "added",
+      "canonicalSpelling": "依然として",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "一概に",
+      "hiragana": "いちがいに",
+      "korean": "일괄적으로",
+      "wordNumber": 1145,
+      "action": "added",
+      "canonicalSpelling": "一概に",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "一挙に",
+      "hiragana": "いっきょに",
+      "korean": "일거에",
+      "wordNumber": 1146,
+      "action": "added",
+      "canonicalSpelling": "一挙に",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "",
+      "hiragana": "いっそ",
+      "korean": "차라리",
+      "wordNumber": 1147,
+      "action": "added",
+      "canonicalSpelling": "いっそ",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "今更",
+      "hiragana": "いまさら",
+      "korean": "이제 와서",
+      "wordNumber": 1148,
+      "action": "added",
+      "canonicalSpelling": "今更",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "",
+      "hiragana": "いやに",
+      "korean": "이상하게, 묘하게",
+      "wordNumber": 1149,
+      "action": "added",
+      "canonicalSpelling": "いやに",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "遅くとも",
+      "hiragana": "おそくとも",
+      "korean": "늦어도",
+      "wordNumber": 1150,
+      "action": "added",
+      "canonicalSpelling": "遅くとも",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "",
+      "hiragana": "おどおど",
+      "korean": "주저주저",
+      "wordNumber": 1151,
+      "action": "added",
+      "canonicalSpelling": "おどおど",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "",
+      "hiragana": "くまなく",
+      "korean": "구석구석",
+      "wordNumber": 1152,
+      "action": "added",
+      "canonicalSpelling": "くまなく",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "煌々と",
+      "hiragana": "こうこうと",
+      "korean": "반짝반짝",
+      "wordNumber": 1153,
+      "action": "added",
+      "canonicalSpelling": "煌々と",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "",
+      "hiragana": "さぞ",
+      "korean": "필시",
+      "wordNumber": 1154,
+      "action": "added",
+      "canonicalSpelling": "さぞ",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "",
+      "hiragana": "さほど",
+      "korean": "그다지",
+      "wordNumber": 1155,
+      "action": "added",
+      "canonicalSpelling": "さほど",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "",
+      "hiragana": "さも",
+      "korean": "자못",
+      "wordNumber": 1156,
+      "action": "added",
+      "canonicalSpelling": "さも",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "終始",
+      "hiragana": "しゅうし",
+      "korean": "시종",
+      "wordNumber": 1157,
+      "action": "added",
+      "canonicalSpelling": "終始",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "実に",
+      "hiragana": "じつに",
+      "korean": "실로, 참으로",
+      "wordNumber": 1158,
+      "action": "added",
+      "canonicalSpelling": "実に",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "",
+      "hiragana": "ずばり",
+      "korean": "거침없이",
+      "wordNumber": 1159,
+      "action": "added",
+      "canonicalSpelling": "ずばり",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "総じて",
+      "hiragana": "そうじて",
+      "korean": "대체로",
+      "wordNumber": 1160,
+      "action": "added",
+      "canonicalSpelling": "総じて",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "",
+      "hiragana": "てんで",
+      "korean": "전혀",
+      "wordNumber": 1161,
+      "action": "added",
+      "canonicalSpelling": "てんで",
+      "match": "exact"
+    },
+    {
+      "source": "01",
+      "kanji": "到底",
+      "hiragana": "とうてい",
+      "korean": "도저히",
+      "wordNumber": 1162,
+      "action": "added",
+      "canonicalSpelling": "到底",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "",
+      "hiragana": "どうやら",
+      "korean": "아무래도",
+      "wordNumber": 1163,
+      "action": "added",
+      "canonicalSpelling": "どうやら",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "",
+      "hiragana": "とかく",
+      "korean": "이것저것",
+      "wordNumber": 1164,
+      "action": "added",
+      "canonicalSpelling": "とかく",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "",
+      "hiragana": "とっくに",
+      "korean": "훨씬 이전에",
+      "wordNumber": 1165,
+      "action": "added",
+      "canonicalSpelling": "とっくに",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "",
+      "hiragana": "とっさに",
+      "korean": "순간적으로",
+      "wordNumber": 1166,
+      "action": "added",
+      "canonicalSpelling": "とっさに",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "",
+      "hiragana": "なおさら",
+      "korean": "한층 더",
+      "wordNumber": 1167,
+      "action": "added",
+      "canonicalSpelling": "なおさら",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "何だか",
+      "hiragana": "なんだか",
+      "korean": "어쩐지",
+      "wordNumber": 1168,
+      "action": "added",
+      "canonicalSpelling": "何だか",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "何なりと",
+      "hiragana": "なんなりと",
+      "korean": "무엇이든",
+      "wordNumber": 1169,
+      "action": "added",
+      "canonicalSpelling": "何なりと",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "甚だ",
+      "hiragana": "はなはだ",
+      "korean": "몹시, 매우",
+      "wordNumber": 1170,
+      "action": "added",
+      "canonicalSpelling": "甚だ",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "人一倍",
+      "hiragana": "ひといちばい",
+      "korean": "남보다 갑절",
+      "wordNumber": 1171,
+      "action": "added",
+      "canonicalSpelling": "人一倍",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "",
+      "hiragana": "ひとまず",
+      "korean": "일단",
+      "wordNumber": 1172,
+      "action": "added",
+      "canonicalSpelling": "ひとまず",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "",
+      "hiragana": "めきめき",
+      "korean": "무럭무럭",
+      "wordNumber": 1173,
+      "action": "added",
+      "canonicalSpelling": "めきめき",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "",
+      "hiragana": "もはや",
+      "korean": "이제는, 어느새",
+      "wordNumber": 1174,
+      "action": "added",
+      "canonicalSpelling": "もはや",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "",
+      "hiragana": "もろに",
+      "korean": "정면으로",
+      "wordNumber": 1175,
+      "action": "added",
+      "canonicalSpelling": "もろに",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "",
+      "hiragana": "やけに",
+      "korean": "무척, 유난히",
+      "wordNumber": 1176,
+      "action": "added",
+      "canonicalSpelling": "やけに",
+      "match": "exact"
+    },
+    {
+      "source": "02",
+      "kanji": "余程",
+      "hiragana": "よほど",
+      "korean": "상당히, 꽤",
+      "wordNumber": 1177,
+      "action": "added",
+      "canonicalSpelling": "余程",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "健全だ",
+      "hiragana": "けんぜんだ",
+      "korean": "건전하다",
+      "wordNumber": 1178,
+      "action": "added",
+      "canonicalSpelling": "健全だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "広大だ",
+      "hiragana": "こうだいだ",
+      "korean": "광대하다",
+      "wordNumber": 1179,
+      "action": "added",
+      "canonicalSpelling": "広大だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "細心だ",
+      "hiragana": "さいしんだ",
+      "korean": "세심하다",
+      "wordNumber": 1180,
+      "action": "added",
+      "canonicalSpelling": "細心だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "残酷だ",
+      "hiragana": "ざんこくだ",
+      "korean": "잔혹하다",
+      "wordNumber": 1181,
+      "action": "added",
+      "canonicalSpelling": "残酷だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "自在だ",
+      "hiragana": "じざいだ",
+      "korean": "자유자재이다, 마음대로이다",
+      "wordNumber": 1182,
+      "action": "added",
+      "canonicalSpelling": "自在だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "質素だ",
+      "hiragana": "しっそだ",
+      "korean": "검소하다",
+      "wordNumber": 1183,
+      "action": "added",
+      "canonicalSpelling": "質素だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "",
+      "hiragana": "しなやかだ",
+      "korean": "유연하다",
+      "wordNumber": 1184,
+      "action": "added",
+      "canonicalSpelling": "しなやかだ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "誠実だ",
+      "hiragana": "せいじつだ",
+      "korean": "성실하다",
+      "wordNumber": 997,
+      "action": "merged",
+      "canonicalSpelling": "誠実だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "正当だ",
+      "hiragana": "せいとうだ",
+      "korean": "정당하다",
+      "wordNumber": 1185,
+      "action": "added",
+      "canonicalSpelling": "正当だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "精密だ",
+      "hiragana": "せいみつだ",
+      "korean": "정밀하다",
+      "wordNumber": 1186,
+      "action": "added",
+      "canonicalSpelling": "精密だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "切実だ",
+      "hiragana": "せつじつだ",
+      "korean": "절실하다",
+      "wordNumber": 1187,
+      "action": "added",
+      "canonicalSpelling": "切実だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "怠慢だ",
+      "hiragana": "たいまんだ",
+      "korean": "태만하다",
+      "wordNumber": 1188,
+      "action": "added",
+      "canonicalSpelling": "怠慢だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "巧みだ",
+      "hiragana": "たくみだ",
+      "korean": "솜씨 좋다, 교묘하다",
+      "wordNumber": 1189,
+      "action": "added",
+      "canonicalSpelling": "巧みだ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "単調だ",
+      "hiragana": "たんちょうだ",
+      "korean": "단조롭다",
+      "wordNumber": 1190,
+      "action": "added",
+      "canonicalSpelling": "単調だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "",
+      "hiragana": "のどかだ",
+      "korean": "한가롭다, 화창하다",
+      "wordNumber": 1191,
+      "action": "added",
+      "canonicalSpelling": "のどかだ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "煩雑だ",
+      "hiragana": "はんざつだ",
+      "korean": "번잡하다",
+      "wordNumber": 1192,
+      "action": "added",
+      "canonicalSpelling": "煩雑だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "半端だ",
+      "hiragana": "はんぱだ",
+      "korean": "어중간하다",
+      "wordNumber": 1193,
+      "action": "added",
+      "canonicalSpelling": "半端だ",
+      "match": "exact"
+    },
+    {
+      "source": "03",
+      "kanji": "",
+      "hiragana": "ひたむきだ",
+      "korean": "한 가지에만 전력을 다하다",
+      "wordNumber": 1194,
+      "action": "added",
+      "canonicalSpelling": "ひたむきだ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "円満だ",
+      "hiragana": "えんまんだ",
+      "korean": "원만하다",
+      "wordNumber": 1195,
+      "action": "added",
+      "canonicalSpelling": "円満だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "",
+      "hiragana": "おおげさだ",
+      "korean": "과장되다",
+      "wordNumber": 1057,
+      "action": "merged",
+      "canonicalSpelling": "大げさだ",
+      "match": "reviewed_alias"
+    },
+    {
+      "source": "04",
+      "kanji": "温和だ",
+      "hiragana": "おんわだ",
+      "korean": "온화하다",
+      "wordNumber": 1196,
+      "action": "added",
+      "canonicalSpelling": "温和だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "過密だ",
+      "hiragana": "かみつだ",
+      "korean": "과밀하다",
+      "wordNumber": 1197,
+      "action": "added",
+      "canonicalSpelling": "過密だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "簡易だ",
+      "hiragana": "かんいだ",
+      "korean": "간단하다",
+      "wordNumber": 1198,
+      "action": "added",
+      "canonicalSpelling": "簡易だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "簡潔だ",
+      "hiragana": "かんけつだ",
+      "korean": "간결하다",
+      "wordNumber": 1199,
+      "action": "added",
+      "canonicalSpelling": "簡潔だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "頑丈だ",
+      "hiragana": "がんじょうだ",
+      "korean": "튼튼하다",
+      "wordNumber": 1200,
+      "action": "added",
+      "canonicalSpelling": "頑丈だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "閑静だ",
+      "hiragana": "かんせいだ",
+      "korean": "한적하다",
+      "wordNumber": 1201,
+      "action": "added",
+      "canonicalSpelling": "閑静だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "簡素だ",
+      "hiragana": "かんそだ",
+      "korean": "간소하다",
+      "wordNumber": 994,
+      "action": "merged",
+      "canonicalSpelling": "簡素だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "強烈だ",
+      "hiragana": "きょうれつだ",
+      "korean": "강렬하다",
+      "wordNumber": 1202,
+      "action": "added",
+      "canonicalSpelling": "強烈だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "緊密だ",
+      "hiragana": "きんみつだ",
+      "korean": "긴밀하다",
+      "wordNumber": 1203,
+      "action": "added",
+      "canonicalSpelling": "緊密だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "軽快だ",
+      "hiragana": "けいかいだ",
+      "korean": "경쾌하다",
+      "wordNumber": 1204,
+      "action": "added",
+      "canonicalSpelling": "軽快だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "軽率だ",
+      "hiragana": "けいそつだ",
+      "korean": "경솔하다",
+      "wordNumber": 1205,
+      "action": "added",
+      "canonicalSpelling": "軽率だ",
+      "match": "exact"
+    },
+    {
+      "source": "04",
+      "kanji": "健在だ",
+      "hiragana": "けんざいだ",
+      "korean": "건재하다",
+      "wordNumber": 1206,
+      "action": "added",
+      "canonicalSpelling": "健在だ",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "",
+      "hiragana": "あくどい",
+      "korean": "악랄하다",
+      "wordNumber": 1207,
+      "action": "added",
+      "canonicalSpelling": "あくどい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "潔い",
+      "hiragana": "いさぎよい",
+      "korean": "깨끗하다",
+      "wordNumber": 30,
+      "action": "merged",
+      "canonicalSpelling": "潔い",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "",
+      "hiragana": "おびただしい",
+      "korean": "엄청나다",
+      "wordNumber": 666,
+      "action": "merged",
+      "canonicalSpelling": "おびただしい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "",
+      "hiragana": "きまりわるい",
+      "korean": "면목이 안 서다",
+      "wordNumber": 1208,
+      "action": "added",
+      "canonicalSpelling": "きまりわるい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "",
+      "hiragana": "しぶとい",
+      "korean": "끈질기다",
+      "wordNumber": 1209,
+      "action": "added",
+      "canonicalSpelling": "しぶとい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "素早い",
+      "hiragana": "すばやい",
+      "korean": "재빠르다",
+      "wordNumber": 1210,
+      "action": "added",
+      "canonicalSpelling": "素早い",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "耐えがたい",
+      "hiragana": "たえがたい",
+      "korean": "참기 어렵다",
+      "wordNumber": 1211,
+      "action": "added",
+      "canonicalSpelling": "耐えがたい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "",
+      "hiragana": "たやすい",
+      "korean": "쉽다",
+      "wordNumber": 1212,
+      "action": "added",
+      "canonicalSpelling": "たやすい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "馴れ馴れしい",
+      "hiragana": "なれなれしい",
+      "korean": "스스럼없다",
+      "wordNumber": 1213,
+      "action": "added",
+      "canonicalSpelling": "馴れ馴れしい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "",
+      "hiragana": "はなはだしい",
+      "korean": "심하다, 대단하다",
+      "wordNumber": 1214,
+      "action": "added",
+      "canonicalSpelling": "はなはだしい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "",
+      "hiragana": "ほほえましい",
+      "korean": "흐뭇하다",
+      "wordNumber": 1215,
+      "action": "added",
+      "canonicalSpelling": "ほほえましい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "",
+      "hiragana": "みすぼらしい",
+      "korean": "초라하다",
+      "wordNumber": 1216,
+      "action": "added",
+      "canonicalSpelling": "みすぼらしい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "満たない",
+      "hiragana": "みたない",
+      "korean": "차지 않다",
+      "wordNumber": 1217,
+      "action": "added",
+      "canonicalSpelling": "満たない",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "目覚ましい",
+      "hiragana": "めざましい",
+      "korean": "눈부시다",
+      "wordNumber": 1218,
+      "action": "added",
+      "canonicalSpelling": "目覚ましい",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "安静だ",
+      "hiragana": "あんせいだ",
+      "korean": "안정되다",
+      "wordNumber": 1219,
+      "action": "added",
+      "canonicalSpelling": "安静だ",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "一様だ",
+      "hiragana": "いちようだ",
+      "korean": "똑같다",
+      "wordNumber": 1220,
+      "action": "added",
+      "canonicalSpelling": "一様だ",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "一律だ",
+      "hiragana": "いちりつだ",
+      "korean": "일률적이다",
+      "wordNumber": 1221,
+      "action": "added",
+      "canonicalSpelling": "一律だ",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "裏腹だ",
+      "hiragana": "うらはらだ",
+      "korean": "정반대이다",
+      "wordNumber": 1222,
+      "action": "added",
+      "canonicalSpelling": "裏腹だ",
+      "match": "exact"
+    },
+    {
+      "source": "05",
+      "kanji": "円滑だ",
+      "hiragana": "えんかつだ",
+      "korean": "원활하다",
+      "wordNumber": 676,
+      "action": "merged",
+      "canonicalSpelling": "円滑だ",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "引き取る",
+      "hiragana": "ひきとる",
+      "korean": "떠맡다",
+      "wordNumber": 1223,
+      "action": "added",
+      "canonicalSpelling": "引き取る",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "秘める",
+      "hiragana": "ひめる",
+      "korean": "간직하다",
+      "wordNumber": 1224,
+      "action": "added",
+      "canonicalSpelling": "秘める",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "冷やかす",
+      "hiragana": "ひやかす",
+      "korean": "놀리다, 값만 물어 보다",
+      "wordNumber": 1225,
+      "action": "added",
+      "canonicalSpelling": "冷やかす",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "踏み込む",
+      "hiragana": "ふみこむ",
+      "korean": "발을 들여놓다",
+      "wordNumber": 1226,
+      "action": "added",
+      "canonicalSpelling": "踏み込む",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "隔たる",
+      "hiragana": "へだたる",
+      "korean": "(세월이) 지나다",
+      "wordNumber": 1227,
+      "action": "added",
+      "canonicalSpelling": "隔たる",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "経る",
+      "hiragana": "へる",
+      "korean": "거치다",
+      "wordNumber": 1228,
+      "action": "added",
+      "canonicalSpelling": "経る",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "解ける",
+      "hiragana": "ほどける",
+      "korean": "풀리다",
+      "wordNumber": 1229,
+      "action": "added",
+      "canonicalSpelling": "解ける",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "滅びる",
+      "hiragana": "ほろびる",
+      "korean": "멸망하다",
+      "wordNumber": 1230,
+      "action": "added",
+      "canonicalSpelling": "滅びる",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "交える",
+      "hiragana": "まじえる",
+      "korean": "섞다",
+      "wordNumber": 1231,
+      "action": "added",
+      "canonicalSpelling": "交える",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "見失う",
+      "hiragana": "みうしなう",
+      "korean": "잃다, 놓치다",
+      "wordNumber": 1232,
+      "action": "added",
+      "canonicalSpelling": "見失う",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "見落とす",
+      "hiragana": "みおとす",
+      "korean": "못 보고 지나치다",
+      "wordNumber": 1233,
+      "action": "added",
+      "canonicalSpelling": "見落とす",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "見渡す",
+      "hiragana": "みわたす",
+      "korean": "둘러보다",
+      "wordNumber": 1234,
+      "action": "added",
+      "canonicalSpelling": "見渡す",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "呼び止める",
+      "hiragana": "よびとめる",
+      "korean": "불러 세우다",
+      "wordNumber": 1235,
+      "action": "added",
+      "canonicalSpelling": "呼び止める",
+      "match": "exact"
+    },
+    {
+      "source": "06",
+      "kanji": "割り込む",
+      "hiragana": "わりこむ",
+      "korean": "끼어들다",
+      "wordNumber": 1236,
+      "action": "added",
+      "canonicalSpelling": "割り込む",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "反る",
+      "hiragana": "そる",
+      "korean": "휘다",
+      "wordNumber": 1237,
+      "action": "added",
+      "canonicalSpelling": "反る",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "携わる",
+      "hiragana": "たずさわる",
+      "korean": "종사하다",
+      "wordNumber": 1238,
+      "action": "added",
+      "canonicalSpelling": "携わる",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "断つ",
+      "hiragana": "たつ",
+      "korean": "끊다",
+      "wordNumber": 1239,
+      "action": "added",
+      "canonicalSpelling": "断つ",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "立て替える",
+      "hiragana": "たてかえる",
+      "korean": "대신 지불하다",
+      "wordNumber": 631,
+      "action": "merged",
+      "canonicalSpelling": "立て替える",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "手掛ける",
+      "hiragana": "てがける",
+      "korean": "직접 하다",
+      "wordNumber": 1240,
+      "action": "added",
+      "canonicalSpelling": "手掛ける",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "出くわす",
+      "hiragana": "でくわす",
+      "korean": "맞닥뜨리다",
+      "wordNumber": 1241,
+      "action": "added",
+      "canonicalSpelling": "出くわす",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "遂げる",
+      "hiragana": "とげる",
+      "korean": "이루다",
+      "wordNumber": 1242,
+      "action": "added",
+      "canonicalSpelling": "遂げる",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "取り締まる",
+      "hiragana": "とりしまる",
+      "korean": "단속하다",
+      "wordNumber": 1243,
+      "action": "added",
+      "canonicalSpelling": "取り締まる",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "取り次ぐ",
+      "hiragana": "とりつぐ",
+      "korean": "(전화를) 연결하다, 전하다",
+      "wordNumber": 1244,
+      "action": "added",
+      "canonicalSpelling": "取り次ぐ",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "取り寄せる",
+      "hiragana": "とりよせる",
+      "korean": "들여오다",
+      "wordNumber": 1245,
+      "action": "added",
+      "canonicalSpelling": "取り寄せる",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "投げ出す",
+      "hiragana": "なげだす",
+      "korean": "포기하다, 내던지다",
+      "wordNumber": 1246,
+      "action": "added",
+      "canonicalSpelling": "投げ出す",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "懐く",
+      "hiragana": "なつく",
+      "korean": "따르다",
+      "wordNumber": 1247,
+      "action": "added",
+      "canonicalSpelling": "懐く",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "賑わう",
+      "hiragana": "にぎわう",
+      "korean": "북적거리다",
+      "wordNumber": 1248,
+      "action": "added",
+      "canonicalSpelling": "賑わう",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "乗っ取る",
+      "hiragana": "のっとる",
+      "korean": "납치하다",
+      "wordNumber": 1249,
+      "action": "added",
+      "canonicalSpelling": "乗っ取る",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "乗り出す",
+      "hiragana": "のりだす",
+      "korean": "착수하다",
+      "wordNumber": 1250,
+      "action": "added",
+      "canonicalSpelling": "乗り出す",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "",
+      "hiragana": "はがす",
+      "korean": "벗겨내다",
+      "wordNumber": 1251,
+      "action": "added",
+      "canonicalSpelling": "はがす",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "励ます",
+      "hiragana": "はげます",
+      "korean": "격려하다",
+      "wordNumber": 1252,
+      "action": "added",
+      "canonicalSpelling": "励ます",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "弾む",
+      "hiragana": "はずむ",
+      "korean": "들뜨다",
+      "wordNumber": 647,
+      "action": "merged",
+      "canonicalSpelling": "弾む",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "腫れる",
+      "hiragana": "はれる",
+      "korean": "붓다",
+      "wordNumber": 99,
+      "action": "merged",
+      "canonicalSpelling": "腫れる",
+      "match": "exact"
+    },
+    {
+      "source": "07",
+      "kanji": "引きずる",
+      "hiragana": "ひきずる",
+      "korean": "질질 끌다",
+      "wordNumber": 1253,
+      "action": "added",
+      "canonicalSpelling": "引きずる",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "試みる",
+      "hiragana": "こころみる",
+      "korean": "시도하다, 시험하다",
+      "wordNumber": 1254,
+      "action": "added",
+      "canonicalSpelling": "試みる",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "籠もる",
+      "hiragana": "こもる",
+      "korean": "틀어박히다",
+      "wordNumber": 1255,
+      "action": "added",
+      "canonicalSpelling": "籠もる",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "凝らす",
+      "hiragana": "こらす",
+      "korean": "집중하다",
+      "wordNumber": 75,
+      "action": "merged",
+      "canonicalSpelling": "凝らす",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "裂ける",
+      "hiragana": "さける",
+      "korean": "찢어지다",
+      "wordNumber": 1256,
+      "action": "added",
+      "canonicalSpelling": "裂ける",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "授ける",
+      "hiragana": "さずける",
+      "korean": "전수하다",
+      "wordNumber": 1257,
+      "action": "added",
+      "canonicalSpelling": "授ける",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "察する",
+      "hiragana": "さっする",
+      "korean": "헤아리다",
+      "wordNumber": 1258,
+      "action": "added",
+      "canonicalSpelling": "察する",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "裁く",
+      "hiragana": "さばく",
+      "korean": "심판하다",
+      "wordNumber": 127,
+      "action": "merged",
+      "canonicalSpelling": "裁く",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "仕上げる",
+      "hiragana": "しあげる",
+      "korean": "완성하다",
+      "wordNumber": 1259,
+      "action": "added",
+      "canonicalSpelling": "仕上げる",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "仕掛ける",
+      "hiragana": "しかける",
+      "korean": "걸다",
+      "wordNumber": 1260,
+      "action": "added",
+      "canonicalSpelling": "仕掛ける",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "",
+      "hiragana": "しがみつく",
+      "korean": "매달리다",
+      "wordNumber": 1261,
+      "action": "added",
+      "canonicalSpelling": "しがみつく",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "称する",
+      "hiragana": "しょうする",
+      "korean": "칭하다",
+      "wordNumber": 1262,
+      "action": "added",
+      "canonicalSpelling": "称する",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "退く",
+      "hiragana": "しりぞく",
+      "korean": "물러나다",
+      "wordNumber": 1263,
+      "action": "added",
+      "canonicalSpelling": "退く",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "制する",
+      "hiragana": "せいする",
+      "korean": "지배하다",
+      "wordNumber": 1264,
+      "action": "added",
+      "canonicalSpelling": "制する",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "損なう",
+      "hiragana": "そこなう",
+      "korean": "해치다",
+      "wordNumber": 1265,
+      "action": "added",
+      "canonicalSpelling": "損なう",
+      "match": "exact"
+    },
+    {
+      "source": "08",
+      "kanji": "備え付ける",
+      "hiragana": "そなえつける",
+      "korean": "갖추다",
+      "wordNumber": 1266,
+      "action": "added",
+      "canonicalSpelling": "備え付ける",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "",
+      "hiragana": "あざわらう",
+      "korean": "비웃다",
+      "wordNumber": 1267,
+      "action": "added",
+      "canonicalSpelling": "あざわらう",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "焦る",
+      "hiragana": "あせる",
+      "korean": "서두르다, 안달하다",
+      "wordNumber": 1268,
+      "action": "added",
+      "canonicalSpelling": "焦る",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "当てはめる",
+      "hiragana": "あてはめる",
+      "korean": "맞추다",
+      "wordNumber": 1269,
+      "action": "added",
+      "canonicalSpelling": "当てはめる",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "操る",
+      "hiragana": "あやつる",
+      "korean": "구사하다, 다루다",
+      "wordNumber": 1270,
+      "action": "added",
+      "canonicalSpelling": "操る",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "打ち明ける",
+      "hiragana": "うちあける",
+      "korean": "털어놓다",
+      "wordNumber": 1271,
+      "action": "added",
+      "canonicalSpelling": "打ち明ける",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "",
+      "hiragana": "うなだれる",
+      "korean": "고개를 떨구다",
+      "wordNumber": 1272,
+      "action": "added",
+      "canonicalSpelling": "うなだれる",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "怠る",
+      "hiragana": "おこたる",
+      "korean": "소홀히 하다",
+      "wordNumber": 77,
+      "action": "merged",
+      "canonicalSpelling": "怠る",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "帯びる",
+      "hiragana": "おびる",
+      "korean": "띠다",
+      "wordNumber": 103,
+      "action": "merged",
+      "canonicalSpelling": "帯びる",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "思い詰める",
+      "hiragana": "おもいつめる",
+      "korean": "골똘히 생각하다",
+      "wordNumber": 1273,
+      "action": "added",
+      "canonicalSpelling": "思い詰める",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "折り返す",
+      "hiragana": "おりかえす",
+      "korean": "되돌아가다",
+      "wordNumber": 1274,
+      "action": "added",
+      "canonicalSpelling": "折り返す",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "抱え込む",
+      "hiragana": "かかえこむ",
+      "korean": "끌어안다",
+      "wordNumber": 1275,
+      "action": "added",
+      "canonicalSpelling": "抱え込む",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "",
+      "hiragana": "かさばる",
+      "korean": "부피가 커지다",
+      "wordNumber": 1276,
+      "action": "added",
+      "canonicalSpelling": "かさばる",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "",
+      "hiragana": "かなう",
+      "korean": "이루어지다",
+      "wordNumber": 1277,
+      "action": "added",
+      "canonicalSpelling": "かなう",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "",
+      "hiragana": "かばう",
+      "korean": "감싸다",
+      "wordNumber": 113,
+      "action": "merged",
+      "canonicalSpelling": "庇う",
+      "match": "reviewed_alias"
+    },
+    {
+      "source": "09",
+      "kanji": "",
+      "hiragana": "かぶれる",
+      "korean": "(피부에) 독이 오르다",
+      "wordNumber": 1278,
+      "action": "added",
+      "canonicalSpelling": "かぶれる",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "食い違う",
+      "hiragana": "くいちがう",
+      "korean": "어긋나다",
+      "wordNumber": 1279,
+      "action": "added",
+      "canonicalSpelling": "食い違う",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "",
+      "hiragana": "くじける",
+      "korean": "약해지다, 꺾이다",
+      "wordNumber": 1280,
+      "action": "added",
+      "canonicalSpelling": "くじける",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "覆す",
+      "hiragana": "くつがえす",
+      "korean": "뒤집다",
+      "wordNumber": 140,
+      "action": "merged",
+      "canonicalSpelling": "覆す",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "組み込む",
+      "hiragana": "くみこむ",
+      "korean": "편성하다",
+      "wordNumber": 1281,
+      "action": "added",
+      "canonicalSpelling": "組み込む",
+      "match": "exact"
+    },
+    {
+      "source": "09",
+      "kanji": "心掛ける",
+      "hiragana": "こころがける",
+      "korean": "유념하다",
+      "wordNumber": 1282,
+      "action": "added",
+      "canonicalSpelling": "心掛ける",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "発足",
+      "hiragana": "ほっそく",
+      "korean": "발족",
+      "wordNumber": 1283,
+      "action": "added",
+      "canonicalSpelling": "発足",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "没頭",
+      "hiragana": "ぼっとう",
+      "korean": "몰두",
+      "wordNumber": 1284,
+      "action": "added",
+      "canonicalSpelling": "没頭",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "真っ先",
+      "hiragana": "まっさき",
+      "korean": "가장 먼저",
+      "wordNumber": 1285,
+      "action": "added",
+      "canonicalSpelling": "真っ先",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "満喫",
+      "hiragana": "まんきつ",
+      "korean": "만끽",
+      "wordNumber": 1286,
+      "action": "added",
+      "canonicalSpelling": "満喫",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "見込み",
+      "hiragana": "みこみ",
+      "korean": "가망",
+      "wordNumber": 1287,
+      "action": "added",
+      "canonicalSpelling": "見込み",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "密集",
+      "hiragana": "みっしゅう",
+      "korean": "밀집",
+      "wordNumber": 268,
+      "action": "merged",
+      "canonicalSpelling": "密集",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "目先",
+      "hiragana": "めさき",
+      "korean": "눈앞",
+      "wordNumber": 1288,
+      "action": "added",
+      "canonicalSpelling": "目先",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "目安",
+      "hiragana": "めやす",
+      "korean": "기준, 목표",
+      "wordNumber": 1289,
+      "action": "added",
+      "canonicalSpelling": "目安",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "面識",
+      "hiragana": "めんしき",
+      "korean": "면식",
+      "wordNumber": 1290,
+      "action": "added",
+      "canonicalSpelling": "面識",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "免除",
+      "hiragana": "めんじょ",
+      "korean": "면제",
+      "wordNumber": 400,
+      "action": "merged",
+      "canonicalSpelling": "免除",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "優位",
+      "hiragana": "ゆうい",
+      "korean": "우위",
+      "wordNumber": 1291,
+      "action": "added",
+      "canonicalSpelling": "優位",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "",
+      "hiragana": "ゆとり",
+      "korean": "여유",
+      "wordNumber": 1094,
+      "action": "merged",
+      "canonicalSpelling": "ゆとり",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "様相",
+      "hiragana": "ようそう",
+      "korean": "양상",
+      "wordNumber": 1292,
+      "action": "added",
+      "canonicalSpelling": "様相",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "要望",
+      "hiragana": "ようぼう",
+      "korean": "요망",
+      "wordNumber": 415,
+      "action": "merged",
+      "canonicalSpelling": "要望",
+      "match": "exact"
+    },
+    {
+      "source": "10",
+      "kanji": "連携",
+      "hiragana": "れんけい",
+      "korean": "연계",
+      "wordNumber": 1293,
+      "action": "added",
+      "canonicalSpelling": "連携",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "親善",
+      "hiragana": "しんぜん",
+      "korean": "친선",
+      "wordNumber": 1294,
+      "action": "added",
+      "canonicalSpelling": "親善",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "制裁",
+      "hiragana": "せいさい",
+      "korean": "제재",
+      "wordNumber": 1295,
+      "action": "added",
+      "canonicalSpelling": "制裁",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "総合",
+      "hiragana": "そうごう",
+      "korean": "종합",
+      "wordNumber": 1296,
+      "action": "added",
+      "canonicalSpelling": "総合",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "打開",
+      "hiragana": "だかい",
+      "korean": "타개",
+      "wordNumber": 1297,
+      "action": "added",
+      "canonicalSpelling": "打開",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "調達",
+      "hiragana": "ちょうたつ",
+      "korean": "조달",
+      "wordNumber": 1298,
+      "action": "added",
+      "canonicalSpelling": "調達",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "提起",
+      "hiragana": "ていき",
+      "korean": "제기",
+      "wordNumber": 1299,
+      "action": "added",
+      "canonicalSpelling": "提起",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "入手",
+      "hiragana": "にゅうしゅ",
+      "korean": "입수",
+      "wordNumber": 1300,
+      "action": "added",
+      "canonicalSpelling": "入手",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "配属",
+      "hiragana": "はいぞく",
+      "korean": "배속",
+      "wordNumber": 1301,
+      "action": "added",
+      "canonicalSpelling": "配属",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "配布",
+      "hiragana": "はいふ",
+      "korean": "배부",
+      "wordNumber": 345,
+      "action": "merged",
+      "canonicalSpelling": "配布",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "発散",
+      "hiragana": "はっさん",
+      "korean": "발산",
+      "wordNumber": 1302,
+      "action": "added",
+      "canonicalSpelling": "発散",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "抜粋",
+      "hiragana": "ばっすい",
+      "korean": "발췌",
+      "wordNumber": 590,
+      "action": "merged",
+      "canonicalSpelling": "抜粋",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "繁盛",
+      "hiragana": "はんじょう",
+      "korean": "번성",
+      "wordNumber": 272,
+      "action": "merged",
+      "canonicalSpelling": "繁盛",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "人手",
+      "hiragana": "ひとで",
+      "korean": "일손",
+      "wordNumber": 1303,
+      "action": "added",
+      "canonicalSpelling": "人手",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "拍子",
+      "hiragana": "ひょうし",
+      "korean": "박자",
+      "wordNumber": 1304,
+      "action": "added",
+      "canonicalSpelling": "拍子",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "復旧",
+      "hiragana": "ふっきゅう",
+      "korean": "복구",
+      "wordNumber": 1305,
+      "action": "added",
+      "canonicalSpelling": "復旧",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "赴任",
+      "hiragana": "ふにん",
+      "korean": "부임",
+      "wordNumber": 1306,
+      "action": "added",
+      "canonicalSpelling": "赴任",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "不服",
+      "hiragana": "ふふく",
+      "korean": "이의, 불복",
+      "wordNumber": 1307,
+      "action": "added",
+      "canonicalSpelling": "不服",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "",
+      "hiragana": "ブランク",
+      "korean": "공백 기간",
+      "wordNumber": 1308,
+      "action": "added",
+      "canonicalSpelling": "ブランク",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "分裂",
+      "hiragana": "ぶんれつ",
+      "korean": "분열",
+      "wordNumber": 1309,
+      "action": "added",
+      "canonicalSpelling": "分裂",
+      "match": "exact"
+    },
+    {
+      "source": "11",
+      "kanji": "便宜",
+      "hiragana": "べんぎ",
+      "korean": "편의",
+      "wordNumber": 1310,
+      "action": "added",
+      "canonicalSpelling": "便宜",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "互角",
+      "hiragana": "ごかく",
+      "korean": "호각",
+      "wordNumber": 1311,
+      "action": "added",
+      "canonicalSpelling": "互角",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "心当たり",
+      "hiragana": "こころあたり",
+      "korean": "짐작 가는 곳",
+      "wordNumber": 1312,
+      "action": "added",
+      "canonicalSpelling": "心当たり",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "心構え",
+      "hiragana": "こころがまえ",
+      "korean": "마음가짐",
+      "wordNumber": 1313,
+      "action": "added",
+      "canonicalSpelling": "心構え",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "",
+      "hiragana": "こつ",
+      "korean": "요령",
+      "wordNumber": 1314,
+      "action": "added",
+      "canonicalSpelling": "こつ",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "災害",
+      "hiragana": "さいがい",
+      "korean": "재해",
+      "wordNumber": 1315,
+      "action": "added",
+      "canonicalSpelling": "災害",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "作動",
+      "hiragana": "さどう",
+      "korean": "작동",
+      "wordNumber": 1316,
+      "action": "added",
+      "canonicalSpelling": "作動",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "色彩",
+      "hiragana": "しきさい",
+      "korean": "색채",
+      "wordNumber": 1317,
+      "action": "added",
+      "canonicalSpelling": "色彩",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "辞退",
+      "hiragana": "じたい",
+      "korean": "사양, 사퇴",
+      "wordNumber": 1318,
+      "action": "added",
+      "canonicalSpelling": "辞退",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "失脚",
+      "hiragana": "しっきゃく",
+      "korean": "실각",
+      "wordNumber": 1319,
+      "action": "added",
+      "canonicalSpelling": "失脚",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "辞任",
+      "hiragana": "じにん",
+      "korean": "사임",
+      "wordNumber": 1320,
+      "action": "added",
+      "canonicalSpelling": "辞任",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "重複",
+      "hiragana": "じゅうふく・ちょうふく",
+      "korean": "중복",
+      "wordNumber": 1321,
+      "action": "added",
+      "canonicalSpelling": "重複",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "昇進",
+      "hiragana": "しょうしん",
+      "korean": "승진",
+      "wordNumber": 471,
+      "action": "merged",
+      "canonicalSpelling": "昇進",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "処置",
+      "hiragana": "しょち",
+      "korean": "처치, 조치",
+      "wordNumber": 391,
+      "action": "merged",
+      "canonicalSpelling": "処置",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "仕業",
+      "hiragana": "しわざ",
+      "korean": "소행",
+      "wordNumber": 1322,
+      "action": "added",
+      "canonicalSpelling": "仕業",
+      "match": "exact"
+    },
+    {
+      "source": "12",
+      "kanji": "審議",
+      "hiragana": "しんぎ",
+      "korean": "심의",
+      "wordNumber": 451,
+      "action": "merged",
+      "canonicalSpelling": "審議",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "安静",
+      "hiragana": "あんせい",
+      "korean": "안정",
+      "wordNumber": 1323,
+      "action": "added",
+      "canonicalSpelling": "安静",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "意地",
+      "hiragana": "いじ",
+      "korean": "고집, 오기",
+      "wordNumber": 1324,
+      "action": "added",
+      "canonicalSpelling": "意地",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "一変",
+      "hiragana": "いっぺん",
+      "korean": "일변",
+      "wordNumber": 1325,
+      "action": "added",
+      "canonicalSpelling": "一変",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "内訳",
+      "hiragana": "うちわけ",
+      "korean": "내역",
+      "wordNumber": 175,
+      "action": "merged",
+      "canonicalSpelling": "内訳",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "解明",
+      "hiragana": "かいめい",
+      "korean": "해명",
+      "wordNumber": 1326,
+      "action": "added",
+      "canonicalSpelling": "解明",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "拡散",
+      "hiragana": "かくさん",
+      "korean": "확산",
+      "wordNumber": 1327,
+      "action": "added",
+      "canonicalSpelling": "拡散",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "合致",
+      "hiragana": "がっち",
+      "korean": "일치, 합치",
+      "wordNumber": 1328,
+      "action": "added",
+      "canonicalSpelling": "合致",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "加味",
+      "hiragana": "かみ",
+      "korean": "가미",
+      "wordNumber": 1329,
+      "action": "added",
+      "canonicalSpelling": "加味",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "還元",
+      "hiragana": "かんげん",
+      "korean": "환원",
+      "wordNumber": 1330,
+      "action": "added",
+      "canonicalSpelling": "還元",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "慣行",
+      "hiragana": "かんこう",
+      "korean": "관행",
+      "wordNumber": 1331,
+      "action": "added",
+      "canonicalSpelling": "慣行",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "貫禄",
+      "hiragana": "かんろく",
+      "korean": "관록",
+      "wordNumber": 1332,
+      "action": "added",
+      "canonicalSpelling": "貫禄",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "規制",
+      "hiragana": "きせい",
+      "korean": "규제",
+      "wordNumber": 1333,
+      "action": "added",
+      "canonicalSpelling": "規制",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "基調",
+      "hiragana": "きちょう",
+      "korean": "기조",
+      "wordNumber": 1334,
+      "action": "added",
+      "canonicalSpelling": "基調",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "軌道",
+      "hiragana": "きどう",
+      "korean": "궤도",
+      "wordNumber": 1335,
+      "action": "added",
+      "canonicalSpelling": "軌道",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "逆転",
+      "hiragana": "ぎゃくてん",
+      "korean": "역전",
+      "wordNumber": 1336,
+      "action": "added",
+      "canonicalSpelling": "逆転",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "拠点",
+      "hiragana": "きょてん",
+      "korean": "거점",
+      "wordNumber": 1337,
+      "action": "added",
+      "canonicalSpelling": "拠点",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "口出し",
+      "hiragana": "くちだし",
+      "korean": "말참견",
+      "wordNumber": 1338,
+      "action": "added",
+      "canonicalSpelling": "口出し",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "工面",
+      "hiragana": "くめん",
+      "korean": "마련함, 변통",
+      "wordNumber": 1339,
+      "action": "added",
+      "canonicalSpelling": "工面",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "経緯",
+      "hiragana": "けいい",
+      "korean": "경위",
+      "wordNumber": 1340,
+      "action": "added",
+      "canonicalSpelling": "経緯",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "気配",
+      "hiragana": "けはい",
+      "korean": "기색",
+      "wordNumber": 1341,
+      "action": "added",
+      "canonicalSpelling": "気配",
+      "match": "exact"
+    },
+    {
+      "source": "13",
+      "kanji": "交錯",
+      "hiragana": "こうさく",
+      "korean": "교착, 뒤얽힘",
+      "wordNumber": 1342,
+      "action": "added",
+      "canonicalSpelling": "交錯",
+      "match": "exact"
+    }
+  ]
+}

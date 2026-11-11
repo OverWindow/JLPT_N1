@@ -1,0 +1,894 @@
+{
+  "total": 99,
+  "adverbs": 64,
+  "connectives": 35,
+  "decks": 8,
+  "source_sha256": "d72fdf8334c6b7dca9040a14d32d1f8ee6fd2338884e29c497e89c77ddd5b278",
+  "photos": [
+    {
+      "file": "KakaoTalk_20261031_011108945.jpg",
+      "page": 130,
+      "count": 4
+    },
+    {
+      "file": "KakaoTalk_20261031_011108945_01.jpg",
+      "page": 131,
+      "count": 10
+    },
+    {
+      "file": "KakaoTalk_20261031_011108945_04.jpg",
+      "page": 132,
+      "count": 15
+    },
+    {
+      "file": "KakaoTalk_20261031_011108945_02.jpg",
+      "page": 133,
+      "count": 10
+    },
+    {
+      "file": "KakaoTalk_20261031_011108945_03.jpg",
+      "page": 134,
+      "count": 15
+    },
+    {
+      "file": "KakaoTalk_20261031_011108945_06.jpg",
+      "page": 135,
+      "count": 10
+    },
+    {
+      "file": "KakaoTalk_20261031_011108945_07.jpg",
+      "page": 136,
+      "count": 5
+    },
+    {
+      "file": "KakaoTalk_20261031_011108945_05.jpg",
+      "page": 137,
+      "count": 6
+    },
+    {
+      "file": "KakaoTalk_20261031_011108945_08.jpg",
+      "page": 138,
+      "count": 11
+    },
+    {
+      "file": "KakaoTalk_20261031_011108945_09.jpg",
+      "page": 139,
+      "count": 2
+    },
+    {
+      "file": "KakaoTalk_20261031_011108945_10.jpg",
+      "page": 140,
+      "count": 11
+    }
+  ],
+  "items": [
+    {
+      "id": "special.adverb.001",
+      "page": 130,
+      "row": 1,
+      "spelling": "あらかじめ",
+      "n1_reading_matches": [
+        {
+          "number": 915,
+          "spelling": "予め",
+          "meaning": "미리"
+        }
+      ],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.002",
+      "page": 130,
+      "row": 2,
+      "spelling": "あるいは",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.003",
+      "page": 130,
+      "row": 3,
+      "spelling": "いきなり",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.004",
+      "page": 130,
+      "row": 4,
+      "spelling": "いくら",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.005",
+      "page": 131,
+      "row": 1,
+      "spelling": "いずれ",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.006",
+      "page": 131,
+      "row": 2,
+      "spelling": "一段と",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.007",
+      "page": 131,
+      "row": 3,
+      "spelling": "一向に～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.008",
+      "page": 131,
+      "row": 4,
+      "spelling": "一切～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.009",
+      "page": 131,
+      "row": 5,
+      "spelling": "今に",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.010",
+      "page": 131,
+      "row": 6,
+      "spelling": "おそらく",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.011",
+      "page": 131,
+      "row": 7,
+      "spelling": "かえって",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.012",
+      "page": 131,
+      "row": 8,
+      "spelling": "かつ",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.013",
+      "page": 131,
+      "row": 9,
+      "spelling": "かつて",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.014",
+      "page": 131,
+      "row": 10,
+      "spelling": "必ずしも～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.015",
+      "page": 132,
+      "row": 1,
+      "spelling": "仮に",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.016",
+      "page": 132,
+      "row": 2,
+      "spelling": "くれぐれも",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.017",
+      "page": 132,
+      "row": 3,
+      "spelling": "さぞ",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.018",
+      "page": 132,
+      "row": 4,
+      "spelling": "ざっと",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.019",
+      "page": 132,
+      "row": 5,
+      "spelling": "さらに",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.020",
+      "page": 132,
+      "row": 6,
+      "spelling": "次第に",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.021",
+      "page": 132,
+      "row": 7,
+      "spelling": "しばしば",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.022",
+      "page": 132,
+      "row": 8,
+      "spelling": "しみじみ",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.023",
+      "page": 132,
+      "row": 9,
+      "spelling": "徐々に",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.024",
+      "page": 132,
+      "row": 10,
+      "spelling": "せいぜい",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.025",
+      "page": 132,
+      "row": 11,
+      "spelling": "せっかく",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.026",
+      "page": 132,
+      "row": 12,
+      "spelling": "そう～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.027",
+      "page": 132,
+      "row": 13,
+      "spelling": "そのうち",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.028",
+      "page": 132,
+      "row": 14,
+      "spelling": "それほど～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.029",
+      "page": 132,
+      "row": 15,
+      "spelling": "たいして～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.030",
+      "page": 133,
+      "row": 1,
+      "spelling": "直ちに",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.031",
+      "page": 133,
+      "row": 2,
+      "spelling": "たとえ",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.032",
+      "page": 133,
+      "row": 3,
+      "spelling": "例えば",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.033",
+      "page": 133,
+      "row": 4,
+      "spelling": "ちっとも",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.034",
+      "page": 133,
+      "row": 5,
+      "spelling": "つい",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.035",
+      "page": 133,
+      "row": 6,
+      "spelling": "つまり",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.036",
+      "page": 133,
+      "row": 7,
+      "spelling": "どうか",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.037",
+      "page": 133,
+      "row": 8,
+      "spelling": "当然",
+      "n1_reading_matches": [
+        {
+          "number": 906,
+          "spelling": "当然",
+          "meaning": "당연"
+        }
+      ],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.038",
+      "page": 133,
+      "row": 9,
+      "spelling": "どうやら",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.039",
+      "page": 133,
+      "row": 10,
+      "spelling": "とっくに",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.040",
+      "page": 134,
+      "row": 1,
+      "spelling": "ともかく",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.041",
+      "page": 134,
+      "row": 2,
+      "spelling": "とりわけ",
+      "n1_reading_matches": [
+        {
+          "number": 767,
+          "spelling": "とりわけ",
+          "meaning": "특히"
+        }
+      ],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.042",
+      "page": 134,
+      "row": 3,
+      "spelling": "なぜか",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.043",
+      "page": 134,
+      "row": 4,
+      "spelling": "何も",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.044",
+      "page": 134,
+      "row": 5,
+      "spelling": "何とか",
+      "n1_reading_matches": [
+        {
+          "number": 936,
+          "spelling": "何とか",
+          "meaning": "어떻게든, 간신히"
+        }
+      ],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.045",
+      "page": 134,
+      "row": 6,
+      "spelling": "なんら",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.046",
+      "page": 134,
+      "row": 7,
+      "spelling": "果たして",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.047",
+      "page": 134,
+      "row": 8,
+      "spelling": "まさか",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.048",
+      "page": 134,
+      "row": 9,
+      "spelling": "まさに",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.049",
+      "page": 134,
+      "row": 10,
+      "spelling": "まさしく",
+      "n1_reading_matches": [
+        {
+          "number": 781,
+          "spelling": "まさしく",
+          "meaning": "틀림없이"
+        }
+      ],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.050",
+      "page": 134,
+      "row": 11,
+      "spelling": "まして",
+      "n1_reading_matches": [
+        {
+          "number": 905,
+          "spelling": "まして",
+          "meaning": "하물며, 더구나"
+        }
+      ],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.051",
+      "page": 134,
+      "row": 12,
+      "spelling": "まず～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.052",
+      "page": 134,
+      "row": 13,
+      "spelling": "ますます",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.053",
+      "page": 134,
+      "row": 14,
+      "spelling": "全く～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.054",
+      "page": 134,
+      "row": 15,
+      "spelling": "まもなく",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.055",
+      "page": 135,
+      "row": 1,
+      "spelling": "まるで～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.056",
+      "page": 135,
+      "row": 2,
+      "spelling": "万一",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.057",
+      "page": 135,
+      "row": 3,
+      "spelling": "見る見る",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.058",
+      "page": 135,
+      "row": 4,
+      "spelling": "むしろ",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.059",
+      "page": 135,
+      "row": 5,
+      "spelling": "めったに～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.060",
+      "page": 135,
+      "row": 6,
+      "spelling": "もしかしたら",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.061",
+      "page": 135,
+      "row": 7,
+      "spelling": "もしも",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.062",
+      "page": 135,
+      "row": 8,
+      "spelling": "もともと",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.063",
+      "page": 135,
+      "row": 9,
+      "spelling": "やがて",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.adverb.064",
+      "page": 135,
+      "row": 10,
+      "spelling": "ろくに～ない",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.sequence.001",
+      "page": 136,
+      "row": 1,
+      "spelling": "したがって",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.sequence.002",
+      "page": 136,
+      "row": 2,
+      "spelling": "すると",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.sequence.003",
+      "page": 136,
+      "row": 3,
+      "spelling": "そこで",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.sequence.004",
+      "page": 136,
+      "row": 4,
+      "spelling": "それで",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.sequence.005",
+      "page": 136,
+      "row": 5,
+      "spelling": "それなら",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.sequence.006",
+      "page": 137,
+      "row": 1,
+      "spelling": "それゆえ",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.sequence.007",
+      "page": 137,
+      "row": 2,
+      "spelling": "よって",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.choice.001",
+      "page": 137,
+      "row": 3,
+      "spelling": "あるいは",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.choice.002",
+      "page": 137,
+      "row": 4,
+      "spelling": "そして",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.choice.003",
+      "page": 137,
+      "row": 5,
+      "spelling": "それとも",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.choice.004",
+      "page": 137,
+      "row": 6,
+      "spelling": "もしくは",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.contrast.001",
+      "page": 138,
+      "row": 1,
+      "spelling": "けれども",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.contrast.002",
+      "page": 138,
+      "row": 2,
+      "spelling": "そのくせ",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.contrast.003",
+      "page": 138,
+      "row": 3,
+      "spelling": "それでも",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.contrast.004",
+      "page": 138,
+      "row": 4,
+      "spelling": "それなのに",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.contrast.005",
+      "page": 138,
+      "row": 5,
+      "spelling": "だが",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.contrast.006",
+      "page": 138,
+      "row": 6,
+      "spelling": "ところが",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.contrast.007",
+      "page": 138,
+      "row": 7,
+      "spelling": "とはいえ",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.transition.001",
+      "page": 138,
+      "row": 8,
+      "spelling": "一方",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.transition.002",
+      "page": 138,
+      "row": 9,
+      "spelling": "さて",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.transition.003",
+      "page": 138,
+      "row": 10,
+      "spelling": "すなわち",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.transition.004",
+      "page": 138,
+      "row": 11,
+      "spelling": "ときに",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.transition.005",
+      "page": 139,
+      "row": 1,
+      "spelling": "ところで",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.transition.006",
+      "page": 139,
+      "row": 2,
+      "spelling": "なぜなら",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.001",
+      "page": 140,
+      "row": 1,
+      "spelling": "しかも",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.002",
+      "page": 140,
+      "row": 2,
+      "spelling": "その上",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.003",
+      "page": 140,
+      "row": 3,
+      "spelling": "それどころか",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.004",
+      "page": 140,
+      "row": 4,
+      "spelling": "それに",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.005",
+      "page": 140,
+      "row": 5,
+      "spelling": "それにしても",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.006",
+      "page": 140,
+      "row": 6,
+      "spelling": "ただ",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.007",
+      "page": 140,
+      "row": 7,
+      "spelling": "とはいうものの",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.008",
+      "page": 140,
+      "row": 8,
+      "spelling": "なお",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.009",
+      "page": 140,
+      "row": 9,
+      "spelling": "もっとも",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.010",
+      "page": 140,
+      "row": 10,
+      "spelling": "ただし",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    },
+    {
+      "id": "special.addition.011",
+      "page": 140,
+      "row": 11,
+      "spelling": "ちなみに",
+      "n1_reading_matches": [],
+      "action": "preserve_as_independent_special_item"
+    }
+  ]
+}

@@ -12,10 +12,16 @@ class QuizScreen extends StatefulWidget {
     required this.group,
     required this.progressStore,
     this.random,
+    this.title,
+    this.nextLabel = '다음 단어',
+    this.returnLabel = '단어 목록으로',
   });
   final WordGroup group;
   final ProgressStore progressStore;
   final Random? random;
+  final String? title;
+  final String nextLabel;
+  final String returnLabel;
 
   @override
   State<QuizScreen> createState() => _QuizScreenState();
@@ -69,7 +75,7 @@ class _QuizScreenState extends State<QuizScreen> {
   Widget build(BuildContext context) => PopScope(
     canPop: !_saving,
     child: Scaffold(
-      appBar: AppBar(title: Text('단어 ${widget.group.label}')),
+      appBar: AppBar(title: Text(widget.title ?? '단어 ${widget.group.label}')),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(
@@ -132,6 +138,20 @@ class _QuizScreenState extends State<QuizScreen> {
                                 ],
                               );
                             }
+                            if (word.connection != null) {
+                              return Column(
+                                children: [
+                                  SizedBox(
+                                    height: area.maxHeight * .28,
+                                    child: _prompt(word, area.maxWidth),
+                                  ),
+                                  const SizedBox(height: 8),
+                                  Expanded(
+                                    child: _answerDetails(word, area.maxWidth),
+                                  ),
+                                ],
+                              );
+                            }
                             // Reserve the same space before/after revealing the answer.
                             // Content scales down to fit; nothing scrolls or pushes controls.
                             return Column(
@@ -185,8 +205,8 @@ class _QuizScreenState extends State<QuizScreen> {
           key: const ValueKey('question-prompt'),
           locale: const Locale('ja'),
           textAlign: TextAlign.center,
-          style: const TextStyle(
-            fontSize: 48,
+          style: TextStyle(
+            fontSize: word.connection == null ? 48 : 32,
             fontWeight: FontWeight.w600,
             height: 1.4,
           ),
@@ -195,47 +215,99 @@ class _QuizScreenState extends State<QuizScreen> {
     ),
   );
 
-  Widget _answerDetails(JapaneseWord word, double width) => SizedBox.expand(
-    child: !_revealed
-        ? const SizedBox.shrink()
-        : FittedBox(
-            fit: BoxFit.scaleDown,
-            alignment: Alignment.topCenter,
-            child: SizedBox(
-              width: width,
-              child: Column(
-                mainAxisSize: MainAxisSize.min,
-                crossAxisAlignment: CrossAxisAlignment.stretch,
-                children: [
-                  if (word.hasKanji) ...[
-                    Text(
-                      word.hiragana,
-                      key: const ValueKey('word-reading'),
-                      locale: const Locale('ja'),
-                      textAlign: TextAlign.center,
-                      style: const TextStyle(fontSize: 24, height: 1.4),
+  Widget _answerDetails(JapaneseWord word, double width) =>
+      word.connection != null
+      ? _grammarDetails(word, width)
+      : SizedBox.expand(
+          child: !_revealed
+              ? const SizedBox.shrink()
+              : FittedBox(
+                  fit: BoxFit.scaleDown,
+                  alignment: Alignment.topCenter,
+                  child: SizedBox(
+                    width: width,
+                    child: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      crossAxisAlignment: CrossAxisAlignment.stretch,
+                      children: [
+                        if (word.hasKanji) ...[
+                          Text(
+                            word.answerReading,
+                            key: const ValueKey('word-reading'),
+                            locale: const Locale('ja'),
+                            textAlign: TextAlign.center,
+                            style: const TextStyle(fontSize: 24, height: 1.4),
+                          ),
+                          const SizedBox(height: 4),
+                        ],
+                        Text(
+                          word.korean,
+                          key: const ValueKey('word-meaning'),
+                          textAlign: TextAlign.center,
+                          style: const TextStyle(fontSize: 22, height: 1.4),
+                        ),
+                        if (word.example != null) ...[
+                          const SizedBox(height: 10),
+                          ExampleSentence(
+                            key: const ValueKey('word-example'),
+                            example: word.example!,
+                            maxWidth: width,
+                          ),
+                        ],
+                      ],
                     ),
-                    const SizedBox(height: 4),
-                  ],
-                  Text(
-                    word.korean,
-                    key: const ValueKey('word-meaning'),
-                    textAlign: TextAlign.center,
-                    style: const TextStyle(fontSize: 22, height: 1.4),
                   ),
-                  if (word.example != null) ...[
-                    const SizedBox(height: 10),
-                    ExampleSentence(
-                      key: const ValueKey('word-example'),
-                      example: word.example!,
-                      maxWidth: width,
-                    ),
-                  ],
-                ],
-              ),
+                ),
+        );
+
+  Widget _grammarDetails(JapaneseWord word, double width) {
+    if (!_revealed) return const SizedBox.expand();
+    return SingleChildScrollView(
+      key: ValueKey('grammar-details-${word.progressKey}'),
+      padding: const EdgeInsets.only(bottom: 12),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          if (word.hasKanji) ...[
+            Text(
+              word.answerReading,
+              key: const ValueKey('word-reading'),
+              locale: const Locale('ja'),
+              textAlign: TextAlign.center,
+              style: const TextStyle(fontSize: 18, height: 1.5),
+            ),
+            const SizedBox(height: 12),
+          ],
+          Text(
+            word.korean,
+            key: const ValueKey('word-meaning'),
+            style: const TextStyle(
+              fontSize: 22,
+              fontWeight: FontWeight.w600,
+              height: 1.5,
             ),
           ),
-  );
+          const SizedBox(height: 16),
+          Text('접속 방법', style: Theme.of(context).textTheme.titleMedium),
+          const SizedBox(height: 6),
+          Text(
+            word.connection!,
+            key: const ValueKey('grammar-connection'),
+            style: const TextStyle(fontSize: 17, height: 1.6),
+          ),
+          const SizedBox(height: 16),
+          Text('예문', style: Theme.of(context).textTheme.titleMedium),
+          const SizedBox(height: 8),
+          if (word.example != null)
+            ExampleSentence(
+              key: const ValueKey('word-example'),
+              example: word.example!,
+              maxWidth: width,
+            ),
+        ],
+      ),
+    );
+  }
 
   Widget _controls() => Column(
     mainAxisSize: MainAxisSize.min,
@@ -281,7 +353,7 @@ class _QuizScreenState extends State<QuizScreen> {
                 onPressed: _saving || _saveFailed
                     ? null
                     : () => _move(_index + 1),
-                child: const Text('다음 단어'),
+                child: Text(widget.nextLabel),
               )
             : null,
       ),
@@ -341,7 +413,7 @@ class _QuizScreenState extends State<QuizScreen> {
       const SizedBox(height: 12),
       OutlinedButton(
         onPressed: () => Navigator.of(context).pop(),
-        child: const Text('단어 목록으로'),
+        child: Text(widget.returnLabel),
       ),
     ],
   );

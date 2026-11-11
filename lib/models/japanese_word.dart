@@ -1,23 +1,31 @@
 import 'dart:convert';
 
 class JapaneseWord {
+  final String? id;
+  final List<String> alternateReadings;
   final String? kanji;
   final String hiragana;
   final String korean;
   final WordExample? example;
+  final String? connection;
 
   const JapaneseWord({
+    this.id,
+    this.alternateReadings = const [],
     this.kanji,
     required this.hiragana,
     required this.korean,
     this.example,
+    this.connection,
   });
 
   bool get hasKanji => kanji != null && kanji!.trim().isNotEmpty;
   String get prompt => hasKanji ? kanji! : hiragana;
+  String get answerReading => [hiragana, ...alternateReadings].join('・');
 
   // Source spellings are preserved; insignificant whitespace is not identity.
   String get progressKey {
+    if (id != null) return id!;
     String normalize(String value) =>
         value.replaceAll(RegExp(r'\s+'), '').trim();
     return jsonEncode([normalize(prompt), normalize(hiragana)]);
@@ -37,10 +45,26 @@ class JapaneseWord {
       throw const FormatException('kanji 값은 문자열 또는 null이어야 합니다.');
     }
     final spelling = (kanji as String?)?.trim();
+    final id = json['id'];
+    if (id != null && (id is! String || id.trim().isEmpty)) {
+      throw const FormatException('학습 항목 ID가 올바르지 않습니다.');
+    }
+    final alternatives = json['alternateReadings'] ?? <String>[];
+    if (alternatives is! List ||
+        alternatives.any(
+          (v) => v is! String || !RegExp(r'^[ぁ-ゖー]+$').hasMatch(v),
+        )) {
+      throw const FormatException('대체 읽기가 올바르지 않습니다.');
+    }
     return JapaneseWord(
+      id: id,
+      alternateReadings: List<String>.unmodifiable(alternatives),
       kanji: spelling == null || spelling.isEmpty ? null : spelling,
       hiragana: requiredText('hiragana'),
       korean: requiredText('korean'),
+      connection: json['connection'] == null
+          ? null
+          : requiredText('connection'),
       example: json['example'] == null
           ? null
           : WordExample.fromJson(json['example']),

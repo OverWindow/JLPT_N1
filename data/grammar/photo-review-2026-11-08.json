@@ -1,0 +1,2023 @@
+{
+  "reviewedOn": "2026-11-08",
+  "status": "review_only_not_imported",
+  "sourceDirectory": "image",
+  "requestedNewPhotoCount": 68,
+  "reviewedRequestedFileCount": 68,
+  "previousInventoryPhotoCount": 101,
+  "observedTotalPhotoCount": 169,
+  "observedUniquePhotoCount": 139,
+  "filesAddedSincePreviousReview": 68,
+  "addedDuplicateFileCount": 30,
+  "addedDistinctPhotoCount": 38,
+  "previouslyImportedPhotoCount": 71,
+  "previouslyReviewedDistinctGrammarPhotoCount": 30,
+  "reviewedUniqueGrammarPhotoCount": 68,
+  "reviewedGrammarFileCount": 98,
+  "unlocatedRequestedPhotoCount": 0,
+  "headingCount": 254,
+  "newlyReviewedHeadingCount": 140,
+  "partialUniqueGrammarPhotoCount": 21,
+  "scope": "사진의 주된 페이지에 있는 문형 표제·번호와 판독 상태 검토. 이웃 페이지 조각·도입 문제·확인 문제는 개수에서 제외. 슬래시로 병기된 표현은 교재의 번호 하나를 한 항목으로 계산.",
+  "levelNote": "교재의 N1 필수 문법 단원으로 확인되며, 단원 안에 빈출 N2 문형이 함께 표시되어 있다. 모든 항목을 N1에만 속하는 문형으로 분류한 것은 아니다.",
+  "importNote": "문법 자료로 확인되어 이 검토에서는 N1 단어 JSON이나 앱을 변경하지 않았다. 예문·접속 설명 전체를 전사한 데이터가 아니다.",
+  "knownBatches": [
+    {
+      "prefix": "KakaoTalk_20261006_014039663",
+      "count": 18,
+      "evidence": "data/README.md: 최초 전사"
+    },
+    {
+      "prefix": "KakaoTalk_20261006_074406479",
+      "count": 18,
+      "evidence": "data/import-v1.1.json"
+    },
+    {
+      "prefix": "KakaoTalk_20261011_213033981",
+      "count": 10,
+      "evidence": "data/import-v1.3.json"
+    },
+    {
+      "prefix": "KakaoTalk_20261031_011108945",
+      "count": 11,
+      "evidence": "data/adverbs/import-v1.5.json"
+    },
+    {
+      "prefix": "KakaoTalk_20261108_190033576",
+      "count": 14,
+      "evidence": "data/import-v1.6.json"
+    }
+  ],
+  "photos": [
+    {
+      "file": "KakaoTalk_20261031_011034685.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 58,
+          "pattern": "～わけでもない／～わけではない"
+        },
+        {
+          "number": 59,
+          "pattern": "たとえ～ても"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "59번의 하단 예문이 사진 아래에서 잘림",
+      "sha256": "0e8ca1cf01d41fad426caec968814d1c04185aa196da16d9145502c986fb89a0",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011034685 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_01.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 55,
+          "pattern": "～ものの"
+        },
+        {
+          "number": 56,
+          "pattern": "～ものを"
+        },
+        {
+          "number": 57,
+          "pattern": "～もんか／～ものか"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "57번 마지막 예문 한국어 하단 일부 잘림",
+      "sha256": "43afe8cee537c7d21289e1540e00e27f6c8305ead9d3dcb01e288e835e87a7e5",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011034685_01 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_02.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 53,
+          "pattern": "～ものだ"
+        },
+        {
+          "number": 54,
+          "pattern": "～ものだから"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "bb8172a5234f983c3588c837c35459f537c4a501915286e5c2aa571ec7694eac",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011034685_02 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_03.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 50,
+          "pattern": "～ばこそ"
+        },
+        {
+          "number": 51,
+          "pattern": "～べきだ／～べきではない"
+        },
+        {
+          "number": 52,
+          "pattern": "～もかまわず"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "52번 하단 예문 잘림; 오른쪽 접속 설명 제본부 확인 필요",
+      "sha256": "dcc77e2db842485f8418e0090bad06d8f6f5ed5a51a2b75e7ace5563759f3c5f",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011034685_03 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_04.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 48,
+          "pattern": "～のをいいことに"
+        },
+        {
+          "number": 49,
+          "pattern": "～ばかりに"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "94b9cb5937191e09a4ead63330a8387165633afc9b2c818ebb38366b9f404e5c",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011034685_04 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_05.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 45,
+          "pattern": "～のではないか"
+        },
+        {
+          "number": 46,
+          "pattern": "～のなんのって"
+        },
+        {
+          "number": 47,
+          "pattern": "～のみならず"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "47번 마지막 예문 한국어 하단 잘림",
+      "sha256": "1f6ef05d225b785242d6d70f06b8e8f35eaa9acd1962d67b4dd59987033da8d1",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011034685_05 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_06.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 43,
+          "pattern": "～にもかかわらず"
+        },
+        {
+          "number": 44,
+          "pattern": "～にもほどがある"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "44번 마지막 예문 하단 잘림",
+      "sha256": "d639479e88f52eb343556da77120de4905c04994a6432a9554a187c734a505d9",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011034685_06 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_07.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 40,
+          "pattern": "～にすぎない"
+        },
+        {
+          "number": 41,
+          "pattern": "～に相違ない"
+        },
+        {
+          "number": 42,
+          "pattern": "～に対する／～に対して"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "42번 마지막 예문 하단 잘림; 제본부 접속 설명 일부 가림",
+      "sha256": "b14faeffe791a50401c5af85db767c49634b12565dbb1a3daef477efc6659df1",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011034685_07 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_08.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 38,
+          "pattern": "～にしたところで／～としたって"
+        },
+        {
+          "number": 39,
+          "pattern": "～にしても"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "39번 마지막 예문 한국어 하단 잘림",
+      "sha256": "7400e62ec04bc269c3cb39021c7011789fc35ae62bfad9149cb2a572476cf937",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011034685_08 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_09.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 35,
+          "pattern": "～なりに／～なりの"
+        },
+        {
+          "number": 36,
+          "pattern": "～に限る"
+        },
+        {
+          "number": 37,
+          "pattern": "～に越したことはない"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "37번 마지막 예문 하단 잘림",
+      "sha256": "2787dbd9173ef5664d880041318ac32ec35628803c15e3de35461ec6c95d8388",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011034685_09 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_10.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 33,
+          "pattern": "～ながら（も／に）"
+        },
+        {
+          "number": 34,
+          "pattern": "～ならまだしも／～ならともかく"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "34번 오른쪽 접속 설명 일부 잘림",
+      "reviewBatch": "recheck",
+      "sha256": "3da45b6c99b0f081086603bc85f68a89cd0bac9d0d04df79f5bf481a992001d3",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_11.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 30,
+          "pattern": "～とみえる"
+        },
+        {
+          "number": 31,
+          "pattern": "～ないことには"
+        },
+        {
+          "number": 32,
+          "pattern": "～ないとも限らない"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "32번 마지막 예문 하단 잘림; 제본부 접속 설명 일부 가림",
+      "reviewBatch": "recheck",
+      "sha256": "f9e05b03a4f6021a2b1d75e8950be7ccbdc72d6d39930101a5101bf7874d2000",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_12.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 28,
+          "pattern": "～とはいえ"
+        },
+        {
+          "number": 29,
+          "pattern": "～とばかりに"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "4ce7b38658ccaa0fda8d440602e9894ec2e4c969970b82865d554e892072bb9f",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_13.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 25,
+          "pattern": "～どころか"
+        },
+        {
+          "number": 26,
+          "pattern": "～ところを"
+        },
+        {
+          "number": 27,
+          "pattern": "～としても"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "27번 마지막 예문 하단 잘림",
+      "reviewBatch": "recheck",
+      "sha256": "5435bcde8e2d1f7f2bfe7c246830d2b8896a7c7a645dc0accfd46e26d0adaad2",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_14.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 23,
+          "pattern": "～といっても…ない"
+        },
+        {
+          "number": 24,
+          "pattern": "～（か）と思いきや"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "a8474eb37c0b9097a59f0ddcb580224526430fad6be273d9ffc7b61380f9e8ed",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_15.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 20,
+          "pattern": "～というものだ／～ってもんだ"
+        },
+        {
+          "number": 21,
+          "pattern": "～といえども"
+        },
+        {
+          "number": 22,
+          "pattern": "～といったらない／～といったらありゃしない"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "22번 한국어 뜻 끝부분이 제본부에 가려짐; 표제·주요 뜻·예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "cb731e900c7b8d9750bcce16f51a006534c7e2290bc3b42a493dbf87c0288e5b",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_16.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 18,
+          "pattern": "～てもともとだ"
+        },
+        {
+          "number": 19,
+          "pattern": "～とあれば"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "18cf241b296dd9701366d645380839364eac7cafe0d10a21f3ae53669eb4764f",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_17.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 15,
+          "pattern": "～てはかなわない／～てはやりきれない"
+        },
+        {
+          "number": 16,
+          "pattern": "～ではないか"
+        },
+        {
+          "number": 17,
+          "pattern": "～ても差し支えない"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "15번 한국어 뜻 끝부분이 제본부에 가려짐; 표제·주요 뜻·예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "9c411407a6b77a945f2b99471ea1950784cc8569ac22e57f2c37cfa47e2d5763",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_18.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 13,
+          "pattern": "～てたまらない"
+        },
+        {
+          "number": 14,
+          "pattern": "～てならない"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능; 두 항목에 빈출 N2 문형 표시",
+      "reviewBatch": "recheck",
+      "sha256": "5d0860629e2667822c0315a286f87c3af4dc207f357ab594e6dc8898952d42d0",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_19.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 10,
+          "pattern": "～だけあって／～だけのことはある"
+        },
+        {
+          "number": 11,
+          "pattern": "～だけましだ"
+        },
+        {
+          "number": 12,
+          "pattern": "～てしかるべきだ"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "10번 한국어 뜻 끝부분과 11번 접속 설명 일부가 제본부에 가려짐",
+      "reviewBatch": "recheck",
+      "sha256": "2631d4d2f8bfda81780b5c439915c7a4f6d32318999cf15468d8c2e86acd585d",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_20.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 8,
+          "pattern": "～ことだし"
+        },
+        {
+          "number": 9,
+          "pattern": "～ことに／～ことには"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능; 9번에 빈출 N2 문형 표시",
+      "reviewBatch": "recheck",
+      "sha256": "db59ba37ef80c4a789080424b1c9c89e1606e5befbb4789f34653671a088c113",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_21.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 5,
+          "pattern": "～極まる／～極まりない"
+        },
+        {
+          "number": 6,
+          "pattern": "～こそ…が"
+        },
+        {
+          "number": 7,
+          "pattern": "～ことか"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "5번 오른쪽 접속 설명 일부가 제본부에 가려짐",
+      "reviewBatch": "recheck",
+      "sha256": "fba6aaa2fac1b203d11ff468102b76f7712a2169873e4f73d22b1f2be5cbcd81",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_22.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 3,
+          "pattern": "～か否か"
+        },
+        {
+          "number": 4,
+          "pattern": "～からといって"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능; 4번에 빈출 N2 문형 표시",
+      "reviewBatch": "recheck",
+      "sha256": "bd8da9f0d4d854ab10f916d60aa0c0b7cde1e149b1234e69e3218cd44c0ad84a",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_23.jpg",
+      "section": "여러 품사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 1,
+          "pattern": "～上（に）"
+        },
+        {
+          "number": 2,
+          "pattern": "～うちに"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "188쪽; N1 필수 문법 08 여러 품사 뒤에 접속하는 문형 시작. 표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "cd1ee39639eb07050c68630cddff479c3d5ee5b1304937c621818d65309b1581",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_24.jpg",
+      "section": "명사와 동사 모두에 접속하는 문형",
+      "headings": [
+        {
+          "number": 31,
+          "pattern": "～も同然だ／～も同然の"
+        },
+        {
+          "number": 32,
+          "pattern": "～を契機に／～を機に"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "d834f2e5aa7afda7873b30fb87aa7cfb6cbbc8faae2b28732a2cef07177b9fbe",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_25.jpg",
+      "section": "명사와 동사 모두에 접속하는 문형",
+      "headings": [
+        {
+          "number": 27,
+          "pattern": "～にたえる"
+        },
+        {
+          "number": 28,
+          "pattern": "～に足る"
+        },
+        {
+          "number": 29,
+          "pattern": "～にともない／～にともなって"
+        },
+        {
+          "number": 30,
+          "pattern": "～には及ばない"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "29번 오른쪽 접속 설명 일부 잘림",
+      "reviewBatch": "recheck",
+      "sha256": "28e2c9fb949fd29ba68506144b67e56c641edb576669bcc7c07b0858cd320535",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_26.jpg",
+      "section": "명사와 동사 모두에 접속하는 문형",
+      "headings": [
+        {
+          "number": 24,
+          "pattern": "～に至るまで／～に至って／～に至る"
+        },
+        {
+          "number": 25,
+          "pattern": "～に先立ち／～に先立って"
+        },
+        {
+          "number": 26,
+          "pattern": "～にたえない"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "24번 오른쪽 접속 설명 끝부분이 사진 가장자리에 걸려 있음",
+      "reviewBatch": "recheck",
+      "sha256": "a435141b031d4cc27ad7ec2fe40e6e14671a6c65e00e394bdc4569026cc280be",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_27.jpg",
+      "section": "명사와 동사 모두에 접속하는 문형",
+      "headings": [
+        {
+          "number": 20,
+          "pattern": "～ともなれば／～ともなると"
+        },
+        {
+          "number": 21,
+          "pattern": "～ながらに／～ながらの"
+        },
+        {
+          "number": 22,
+          "pattern": "～なり…なり"
+        },
+        {
+          "number": 23,
+          "pattern": "～にあたって／～にあたり"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "ae4a2b4cf9097f725ba008bd533d77653f55b6dc1f01ae6f11411e491c9f551f",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_28.jpg",
+      "section": "명사와 동사 모두에 접속하는 문형",
+      "headings": [
+        {
+          "number": 17,
+          "pattern": "～というところだ／～といったところだ"
+        },
+        {
+          "number": 18,
+          "pattern": "～どころではない"
+        },
+        {
+          "number": 19,
+          "pattern": "～とともに"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "17번 오른쪽 접속 설명 일부 잘림",
+      "reviewBatch": "recheck",
+      "sha256": "9c058aeee20bb334e9c0d86ea4b67c8b62e9129dd4b8ff24192ef89f6b8042fd",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011034685_29.jpg",
+      "section": "명사와 동사 모두에 접속하는 문형",
+      "headings": [
+        {
+          "number": 13,
+          "pattern": "～すえに"
+        },
+        {
+          "number": 14,
+          "pattern": "～たびに"
+        },
+        {
+          "number": 15,
+          "pattern": "～手前"
+        },
+        {
+          "number": 16,
+          "pattern": "～とあって／～とあっては"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "8c4abe6b9b00cf4181ad2d480d287e2bdbd1d13c634f551841c46fdd74180089",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860.jpg",
+      "section": "명사와 동사 모두에 접속하는 문형",
+      "headings": [
+        {
+          "number": 10,
+          "pattern": "～きらいがある"
+        },
+        {
+          "number": 11,
+          "pattern": "～こととて"
+        },
+        {
+          "number": 12,
+          "pattern": "～でもあるまいし／～じゃあるまいし"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "오른쪽 접속 설명 일부 화면 밖",
+      "sha256": "0c70475600ebdad32dc460776600bd378a367c1fef9f8df8d5758cfea19b9bbc",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_01.jpg",
+      "section": "명사와 동사 모두에 접속하는 문형",
+      "headings": [
+        {
+          "number": 6,
+          "pattern": "～かいもなく"
+        },
+        {
+          "number": 7,
+          "pattern": "～限り"
+        },
+        {
+          "number": 8,
+          "pattern": "～かたわら"
+        },
+        {
+          "number": 9,
+          "pattern": "～がてら"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "848099b3a1472446a57f070a950a2496214201852c3aea6de14988fbee32b736",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_01 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_02.jpg",
+      "section": "명사와 동사 모두에 접속하는 문형",
+      "headings": [
+        {
+          "number": 4,
+          "pattern": "～上で"
+        },
+        {
+          "number": 5,
+          "pattern": "～おそれがある"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "0d13475c2b668b063f01a23b8d220a2878cffccd8bcad4b7ab5bf5c744c423cc",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_02 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_03.jpg",
+      "section": "명사와 동사 모두에 접속하는 문형",
+      "headings": [
+        {
+          "number": 1,
+          "pattern": "～あげく"
+        },
+        {
+          "number": 2,
+          "pattern": "～あまり（に）"
+        },
+        {
+          "number": 3,
+          "pattern": "～以来"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "178쪽; 07 명사와 동사 모두에 접속하는 문형 시작",
+      "sha256": "4f08ae200598c401b5a9f81590c7c6ba1d8d9630fc7f5de582f7fe456e47a5e0",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_03 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_04.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 74,
+          "pattern": "～以上（は）"
+        },
+        {
+          "number": 75,
+          "pattern": "～からには"
+        },
+        {
+          "number": 76,
+          "pattern": "～まい"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "8d82b8bc446b0aedc3d33435dba36ca90b792efd00a6d5fbb1db4a4546f4c5f8",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_04 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_05.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 68,
+          "pattern": "～ばきりがない"
+        },
+        {
+          "number": 69,
+          "pattern": "～ばそれまでだ"
+        },
+        {
+          "number": 70,
+          "pattern": "～ようが／～ようと"
+        },
+        {
+          "number": 71,
+          "pattern": "～ようが～まいが／～ようと～まいと"
+        },
+        {
+          "number": 72,
+          "pattern": "～ようにも～ない"
+        },
+        {
+          "number": 73,
+          "pattern": "～ようものなら"
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "71번 오른쪽 접속 설명 일부 잘림",
+      "sha256": "067ab85d3dc92becee0090800097fdeae784169ced64b6f858862186c43bf696",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_05 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_06.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 64,
+          "pattern": "～ないまでも"
+        },
+        {
+          "number": 65,
+          "pattern": "～ないものでもない"
+        },
+        {
+          "number": 66,
+          "pattern": "～んがため"
+        },
+        {
+          "number": 67,
+          "pattern": "～んばかり"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "1791530b25f7ef3b919673291079123edf5b9c90ea81083e44065caf8b7bf6db",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_06 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_07.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 58,
+          "pattern": "～ずじまいだ"
+        },
+        {
+          "number": 59,
+          "pattern": "～ずにはいられない／～ないではいられない"
+        },
+        {
+          "number": 60,
+          "pattern": "～ずにはおかない／～ないではおかない"
+        },
+        {
+          "number": 61,
+          "pattern": "～ずにはすまない／～ないではすまない"
+        },
+        {
+          "number": 62,
+          "pattern": "～ずにすむ／～ないですむ／～なくてすむ"
+        },
+        {
+          "number": 63,
+          "pattern": "～ないこともない"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "15984a6ef49ca79582498abc7f95c6216b82449c2ae9e41f4057f5bd58e50fa9",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_07 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_08.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 54,
+          "pattern": "～もしない"
+        },
+        {
+          "number": 55,
+          "pattern": "～ようがない／～ようもない"
+        },
+        {
+          "number": 56,
+          "pattern": "～ようによっては／～ようでは"
+        },
+        {
+          "number": 57,
+          "pattern": "～ざるを得ない"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "38b8e18a27a63e426ee8dc8d3375c4b51ff560df3a606589c92fd3f0f0cb355a",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_08 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_09.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 48,
+          "pattern": "～そびれる"
+        },
+        {
+          "number": 49,
+          "pattern": "～つ…つ"
+        },
+        {
+          "number": 50,
+          "pattern": "～っこない"
+        },
+        {
+          "number": 51,
+          "pattern": "～つつ"
+        },
+        {
+          "number": 52,
+          "pattern": "～つつある"
+        },
+        {
+          "number": 53,
+          "pattern": "～はしない"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "0d698713f996b06fb23fb8bb6254533dfe35510542bbf89093a5e9f67ad3aeaa",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_09 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_10.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 44,
+          "pattern": "～がたい"
+        },
+        {
+          "number": 45,
+          "pattern": "～かねる"
+        },
+        {
+          "number": 46,
+          "pattern": "～切る"
+        },
+        {
+          "number": 47,
+          "pattern": "～次第"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "2d90841cc4f028fcb1f868df5ef0b6a750bf04349a2d0746a32aac50771d582e",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_10 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_11.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 38,
+          "pattern": "～ものではない"
+        },
+        {
+          "number": 39,
+          "pattern": "～や否や"
+        },
+        {
+          "number": 40,
+          "pattern": "～よりほかない"
+        },
+        {
+          "number": 41,
+          "pattern": "～わけにはいかない"
+        },
+        {
+          "number": 42,
+          "pattern": "～うる／～える"
+        },
+        {
+          "number": 43,
+          "pattern": "～かけの／～かける"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "51967420c7f95da62d585940a5a58b78da8568b9f5db30ce4434d44c3b1e733e",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011054860_11 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_12.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 34,
+          "pattern": "～べくもない"
+        },
+        {
+          "number": 35,
+          "pattern": "～ほどの…ではない"
+        },
+        {
+          "number": 36,
+          "pattern": "～まで（のこと）だ"
+        },
+        {
+          "number": 37,
+          "pattern": "～まで（のことで）もない"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "2f2961180b34dbec0d8700e3cf65b4d537ff186cc1362579a5d6205b41020ec9",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_13.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 28,
+          "pattern": "～なり"
+        },
+        {
+          "number": 29,
+          "pattern": "～につけ"
+        },
+        {
+          "number": 30,
+          "pattern": "～にはあたらない"
+        },
+        {
+          "number": 31,
+          "pattern": "～べからず／～べからざる"
+        },
+        {
+          "number": 32,
+          "pattern": "～べく"
+        },
+        {
+          "number": 33,
+          "pattern": "～べくして～た"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "203051098157d6595b7b2e0699d3e32cafb25e853e132a6e800a97ae9cdf8538",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_14.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 24,
+          "pattern": "～そばから"
+        },
+        {
+          "number": 25,
+          "pattern": "～だけのことだ"
+        },
+        {
+          "number": 26,
+          "pattern": "～ところだった"
+        },
+        {
+          "number": 27,
+          "pattern": "～ともなく／～ともなしに"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "5b70f4e43664829fa6b2d67971a7030c018327e1a73f34e0191ed05027e160d0",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_15.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 18,
+          "pattern": "～かのようだ／～かのような"
+        },
+        {
+          "number": 19,
+          "pattern": "～が早いか"
+        },
+        {
+          "number": 20,
+          "pattern": "～くらいなら"
+        },
+        {
+          "number": 21,
+          "pattern": "～ことなく"
+        },
+        {
+          "number": 22,
+          "pattern": "～ことなしに"
+        },
+        {
+          "number": 23,
+          "pattern": "～始末だ"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "31be6afa5bbf3123fb48af936aac6f5eea3bfdca8cfa83f8b11f7d80b0870851",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_16.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 15,
+          "pattern": "～上は"
+        },
+        {
+          "number": 16,
+          "pattern": "～か～ないかのうちに"
+        },
+        {
+          "number": 17,
+          "pattern": "～限り／～ない限り"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "0e6c25d1f89c994321914920d6f03ca3627c7d93537b75c69c0974041ca17961",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_17.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 9,
+          "pattern": "～てはばからない"
+        },
+        {
+          "number": 10,
+          "pattern": "～てばかりいる"
+        },
+        {
+          "number": 11,
+          "pattern": "～てまで"
+        },
+        {
+          "number": 12,
+          "pattern": "～てみせる"
+        },
+        {
+          "number": 13,
+          "pattern": "～ても始まらない"
+        },
+        {
+          "number": 14,
+          "pattern": "～てやまない"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "164쪽; 표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "2ddce17d89b071d3c853c4cc569e296f437ef8531e9e99f0af8ed7d561399100",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_18.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 5,
+          "pattern": "～てからでないと／～てからでなければ"
+        },
+        {
+          "number": 6,
+          "pattern": "～てからというもの（は）"
+        },
+        {
+          "number": 7,
+          "pattern": "～てのこと",
+          "numberInferredFromAdjacentPages": true
+        },
+        {
+          "number": 8,
+          "pattern": "～てはならない",
+          "numberInferredFromAdjacentPages": true
+        }
+      ],
+      "partialContent": true,
+      "reviewNote": "왼쪽 문형 번호 일부 잘림. 7·8번은 5·6번과 앞뒤 페이지 순서로 식별; 표제·뜻·접속·예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "cdd42849bffb2e852333d067a2b261bc4bd596c8f7127b2c23a762cab7660fae",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_19.jpg",
+      "section": "동사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 1,
+          "pattern": "～たが最後"
+        },
+        {
+          "number": 2,
+          "pattern": "～たきり"
+        },
+        {
+          "number": 3,
+          "pattern": "～たところで"
+        },
+        {
+          "number": 4,
+          "pattern": "～ところに"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "162쪽; N1 필수 문법 06 동사 뒤에 접속하는 문형 시작. 표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "29f8d98644e23ccb407e0bc19d156305795d802367fff705b16da7882e0674f3",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_20.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 85,
+          "pattern": "～を余儀なくされる"
+        },
+        {
+          "number": 86,
+          "pattern": "～をよそに"
+        },
+        {
+          "number": 87,
+          "pattern": "ひとり～のみならず"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "9653316f53e02dfc03b8f58d01614e5d5217164a308dc37034912ab4f806f953",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_21.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 79,
+          "pattern": "～を除いて"
+        },
+        {
+          "number": 80,
+          "pattern": "～をはじめ／～をはじめとして"
+        },
+        {
+          "number": 81,
+          "pattern": "～を踏まえ"
+        },
+        {
+          "number": 82,
+          "pattern": "～を経て"
+        },
+        {
+          "number": 83,
+          "pattern": "～をもちまして／～をもって／～をもってすれば"
+        },
+        {
+          "number": 84,
+          "pattern": "～をものともせずに"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "160쪽; 표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "16ef02fc5b64f95210f8f9ecf65aa0c58a0b95b9acd57d21a983d1e114252c3a",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_22.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 75,
+          "pattern": "～を禁じ得ない"
+        },
+        {
+          "number": 76,
+          "pattern": "～を込めて"
+        },
+        {
+          "number": 77,
+          "pattern": "～を境に"
+        },
+        {
+          "number": 78,
+          "pattern": "～を問わず"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "71108b8d56d93079d8903f6a5ba33445b7b1d4bfa7165e94b4e61a25436f278e",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_23.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 69,
+          "pattern": "～も顧みず"
+        },
+        {
+          "number": 70,
+          "pattern": "～もさることながら"
+        },
+        {
+          "number": 71,
+          "pattern": "～を…に控えて"
+        },
+        {
+          "number": 72,
+          "pattern": "～をおいて"
+        },
+        {
+          "number": 73,
+          "pattern": "～を限りに"
+        },
+        {
+          "number": 74,
+          "pattern": "～を皮切りに／～を振り出しに"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "158쪽; 표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "11aed9988eae421aec9873b3475e5ebf74e55f63945ac8828a66173e8a6ec5a5",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_24.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 65,
+          "pattern": "～はともかく（として）"
+        },
+        {
+          "number": 66,
+          "pattern": "～までして"
+        },
+        {
+          "number": 67,
+          "pattern": "～まみれ"
+        },
+        {
+          "number": 68,
+          "pattern": "～めく"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "문형 번호 왼쪽 일부가 가장자리에 걸려 있으나 표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "8d5d1d89f3b2f3708aac450e0724ad1c76e86330f256023afa3130fc04cc6eb1",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_25.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 59,
+          "pattern": "～のことだから"
+        },
+        {
+          "number": 60,
+          "pattern": "～のもと（で／に）"
+        },
+        {
+          "number": 61,
+          "pattern": "～のゆえに"
+        },
+        {
+          "number": 62,
+          "pattern": "～ならいざしらず／～はいざしらず"
+        },
+        {
+          "number": 63,
+          "pattern": "～はおろか"
+        },
+        {
+          "number": 64,
+          "pattern": "～はさておき／～はさておいて"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "1630b656c24ea2e7c5b258790cbed22a10fda860205eec654e287c2f2d8efa75",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_26.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 55,
+          "pattern": "～抜きで"
+        },
+        {
+          "number": 56,
+          "pattern": "～の至り"
+        },
+        {
+          "number": 57,
+          "pattern": "～の極み"
+        },
+        {
+          "number": 58,
+          "pattern": "～のごとく／～のごとき"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "dd857d4329d97d8f69daf9ac9805380c437f7290837ca2e889490de9a57f2661",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_27.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 49,
+          "pattern": "～にとどまらず"
+        },
+        {
+          "number": 50,
+          "pattern": "～にひきかえ"
+        },
+        {
+          "number": 51,
+          "pattern": "～に他ならない"
+        },
+        {
+          "number": 52,
+          "pattern": "～に基づき／～に基づいて"
+        },
+        {
+          "number": 53,
+          "pattern": "～にもまして"
+        },
+        {
+          "number": 54,
+          "pattern": "～にわたって／～にわたり"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "47234fd3954934462af2e12d15e8547b9387886d719a68c512a640434ff9a7fc",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_28.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 45,
+          "pattern": "～にしてみれば"
+        },
+        {
+          "number": 46,
+          "pattern": "～にしろ／～にせよ"
+        },
+        {
+          "number": 47,
+          "pattern": "～に即して"
+        },
+        {
+          "number": 48,
+          "pattern": "～に沿って／～に沿い"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "781aff660ab60b903f9fbb859d3ded244dd3fef74eb0c9896b54c1d7d1110b3b",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011054860_29.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 39,
+          "pattern": "～にかこつけて"
+        },
+        {
+          "number": 40,
+          "pattern": "～にかたくない"
+        },
+        {
+          "number": 41,
+          "pattern": "～にかまけて"
+        },
+        {
+          "number": 42,
+          "pattern": "～に応えて"
+        },
+        {
+          "number": 43,
+          "pattern": "～にしたら／～にすれば"
+        },
+        {
+          "number": 44,
+          "pattern": "～にして"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "reviewBatch": "recheck",
+      "sha256": "66f187f15e09f80adb2d2a78799e856e292fde1f26adfb7c268a915d60f4bd25",
+      "duplicateCopies": []
+    },
+    {
+      "file": "KakaoTalk_20261031_011100495.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 35,
+          "pattern": "～にかかわる"
+        },
+        {
+          "number": 36,
+          "pattern": "～に限ったことではない"
+        },
+        {
+          "number": 37,
+          "pattern": "～に限って／～に限らず"
+        },
+        {
+          "number": 38,
+          "pattern": "～にかけて"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "3c8f1320559ee259deb55f7e793ec75ba3e06cbb02df984b1446cee9ca4a70ad",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011100495 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011100495_01.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 29,
+          "pattern": "～にあって（は）"
+        },
+        {
+          "number": 30,
+          "pattern": "～にあるまじき"
+        },
+        {
+          "number": 31,
+          "pattern": "～に言わせれば／～に言わせると"
+        },
+        {
+          "number": 32,
+          "pattern": "～に応じて"
+        },
+        {
+          "number": 33,
+          "pattern": "～にかかっている"
+        },
+        {
+          "number": 34,
+          "pattern": "～にかかわらず"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "150쪽; 표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "7e52fc388df79b8c7695ad7c914d1fe1d822ee829506f9a7e5cfe8c7bd41ebef",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011100495_01 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011100495_02.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 25,
+          "pattern": "～とでもいうべき／～ともいうべき"
+        },
+        {
+          "number": 26,
+          "pattern": "～なくして（は）"
+        },
+        {
+          "number": 27,
+          "pattern": "～なしに"
+        },
+        {
+          "number": 28,
+          "pattern": "～ならでは"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "e931662629879312aa8a8c95847eba136d8e1df1eb6f3e64a8ccf5f798337a74",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011100495_02 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011100495_03.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 19,
+          "pattern": "～と相まって"
+        },
+        {
+          "number": 20,
+          "pattern": "～といい…といい"
+        },
+        {
+          "number": 21,
+          "pattern": "～というと／～といえば"
+        },
+        {
+          "number": 22,
+          "pattern": "～といわず…といわず"
+        },
+        {
+          "number": 23,
+          "pattern": "～ときたら"
+        },
+        {
+          "number": 24,
+          "pattern": "～として"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "148쪽; 표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "e860925a3996ce0ba80f5941758e8d6e66c90b0b440e21edc788bd826a7d7bf8",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011100495_03 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011100495_04.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 15,
+          "pattern": "～だろうが…だろうが／～だろうと…だろうと"
+        },
+        {
+          "number": 16,
+          "pattern": "～であれ…であれ"
+        },
+        {
+          "number": 17,
+          "pattern": "～でしかない"
+        },
+        {
+          "number": 18,
+          "pattern": "～でなくてなんだろう"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "e823285fef89b7fd04800d3aeeda77af495afe5bf03882b5d9ddf23c5a4a2e38",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011100495_04 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011100495_05.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 9,
+          "pattern": "～からして"
+        },
+        {
+          "number": 10,
+          "pattern": "～からすると／～からすれば"
+        },
+        {
+          "number": 11,
+          "pattern": "～次第だ"
+        },
+        {
+          "number": 12,
+          "pattern": "～ずくめ"
+        },
+        {
+          "number": 13,
+          "pattern": "～たりとも"
+        },
+        {
+          "number": 14,
+          "pattern": "～たる"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "146쪽; 표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "a60208ae3d5ed6dd2c5e70da781dc970c3e60016de522109f210cb33874c25c1",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011100495_05 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011100495_06.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 5,
+          "pattern": "～かたがた"
+        },
+        {
+          "number": 6,
+          "pattern": "～から…にかけて"
+        },
+        {
+          "number": 7,
+          "pattern": "～からいうと／～からいえば／～からいったら"
+        },
+        {
+          "number": 8,
+          "pattern": "～からいって"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "표제·뜻·접속·주요 예문 판독 가능; 6·7·8번에 빈출 N2 문형 표시",
+      "sha256": "20b77684cb1aa5775c25b146f1e7564d94428c110a25ad5fc9c01aefcaf1f38e",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011100495_06 (1).jpg"
+      ]
+    },
+    {
+      "file": "KakaoTalk_20261031_011100495_07.jpg",
+      "section": "명사 뒤에 접속하는 문형",
+      "headings": [
+        {
+          "number": 1,
+          "pattern": "～あっての"
+        },
+        {
+          "number": 2,
+          "pattern": "～いかん"
+        },
+        {
+          "number": 3,
+          "pattern": "～いかんで／～いかんによって"
+        },
+        {
+          "number": 4,
+          "pattern": "～いかんによらず／～いかんにかかわらず／～いかんを問わず"
+        }
+      ],
+      "partialContent": false,
+      "reviewNote": "144쪽; 표제·뜻·접속·주요 예문 판독 가능",
+      "sha256": "ccaf303360461ceec886b02e9f696232b1f5f6d9c5f287a880a42260a28538d3",
+      "reviewBatch": "initial",
+      "duplicateCopies": [
+        "KakaoTalk_20261031_011100495_07 (1).jpg"
+      ]
+    }
+  ],
+  "inventoryByPrefix": {
+    "KakaoTalk_20261006_014039663": 18,
+    "KakaoTalk_20261006_074406479": 18,
+    "KakaoTalk_20261011_213033981": 10,
+    "KakaoTalk_20261031_011034685": 40,
+    "KakaoTalk_20261031_011054860": 42,
+    "KakaoTalk_20261031_011100495": 16,
+    "KakaoTalk_20261031_011108945": 11,
+    "KakaoTalk_20261108_190033576": 14
+  },
+  "identicalFileGroups": [
+    [
+      "KakaoTalk_20261031_011034685 (1).jpg",
+      "KakaoTalk_20261031_011034685.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011034685_01 (1).jpg",
+      "KakaoTalk_20261031_011034685_01.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011034685_02 (1).jpg",
+      "KakaoTalk_20261031_011034685_02.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011034685_03 (1).jpg",
+      "KakaoTalk_20261031_011034685_03.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011034685_04 (1).jpg",
+      "KakaoTalk_20261031_011034685_04.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011034685_05 (1).jpg",
+      "KakaoTalk_20261031_011034685_05.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011034685_06 (1).jpg",
+      "KakaoTalk_20261031_011034685_06.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011034685_07 (1).jpg",
+      "KakaoTalk_20261031_011034685_07.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011034685_08 (1).jpg",
+      "KakaoTalk_20261031_011034685_08.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011034685_09 (1).jpg",
+      "KakaoTalk_20261031_011034685_09.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860 (1).jpg",
+      "KakaoTalk_20261031_011054860.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_01 (1).jpg",
+      "KakaoTalk_20261031_011054860_01.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_02 (1).jpg",
+      "KakaoTalk_20261031_011054860_02.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_03 (1).jpg",
+      "KakaoTalk_20261031_011054860_03.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_04 (1).jpg",
+      "KakaoTalk_20261031_011054860_04.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_05 (1).jpg",
+      "KakaoTalk_20261031_011054860_05.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_06 (1).jpg",
+      "KakaoTalk_20261031_011054860_06.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_07 (1).jpg",
+      "KakaoTalk_20261031_011054860_07.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_08 (1).jpg",
+      "KakaoTalk_20261031_011054860_08.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_09 (1).jpg",
+      "KakaoTalk_20261031_011054860_09.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_10 (1).jpg",
+      "KakaoTalk_20261031_011054860_10.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011054860_11 (1).jpg",
+      "KakaoTalk_20261031_011054860_11.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011100495 (1).jpg",
+      "KakaoTalk_20261031_011100495.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011100495_01 (1).jpg",
+      "KakaoTalk_20261031_011100495_01.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011100495_02 (1).jpg",
+      "KakaoTalk_20261031_011100495_02.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011100495_03 (1).jpg",
+      "KakaoTalk_20261031_011100495_03.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011100495_04 (1).jpg",
+      "KakaoTalk_20261031_011100495_04.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011100495_05 (1).jpg",
+      "KakaoTalk_20261031_011100495_05.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011100495_06 (1).jpg",
+      "KakaoTalk_20261031_011100495_06.jpg"
+    ],
+    [
+      "KakaoTalk_20261031_011100495_07 (1).jpg",
+      "KakaoTalk_20261031_011100495_07.jpg"
+    ]
+  ],
+  "sectionCounts": {
+    "명사 뒤에 접속하는 문형": 87,
+    "동사 뒤에 접속하는 문형": 76,
+    "명사와 동사 모두에 접속하는 문형": 32,
+    "여러 품사 뒤에 접속하는 문형": 59
+  },
+  "sectionNumberGaps": {
+    "명사 뒤에 접속하는 문형": [],
+    "동사 뒤에 접속하는 문형": [],
+    "명사와 동사 모두에 접속하는 문형": [],
+    "여러 품사 뒤에 접속하는 문형": []
+  }
+}

@@ -5,15 +5,21 @@ import '../models/japanese_word.dart';
 
 class ProgressStore extends ChangeNotifier {
   ProgressStore({
+    String preferenceKey = storageKey,
     Future<List<String>?> Function()? read,
     Future<void> Function(List<String>)? write,
   }) : _read =
-           read ?? (() => SharedPreferencesAsync().getStringList(storageKey)),
+           read ??
+           (() => SharedPreferencesAsync().getStringList(preferenceKey)),
        _write =
            write ??
-           ((keys) => SharedPreferencesAsync().setStringList(storageKey, keys));
+           ((keys) =>
+               SharedPreferencesAsync().setStringList(preferenceKey, keys));
 
   static const storageKey = 'known_word_keys_v1';
+  static const adverbStorageKey = 'known_adverb_keys_v1';
+  static const grammarStorageKey = 'known_grammar_keys_v1';
+  static const counterStorageKey = 'known_counter_keys_v1';
   final Future<List<String>?> Function() _read;
   final Future<void> Function(List<String>) _write;
   Set<String> _known = {};

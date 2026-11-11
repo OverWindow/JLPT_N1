@@ -9,7 +9,7 @@ void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
   test(
-    'all photos map to bundled words; original 822 identities keep order',
+    'all photos map to bundled words; original identities keep order',
     () async {
       final words = await WordLoader.load();
       final audit = jsonDecode(
@@ -22,16 +22,22 @@ void main() {
         for (final row in latest['meaningUpdates'] as List)
           row['wordNumber']: row['after'],
       };
+      final current = jsonDecode(
+        File('data/import-v1.6.json').readAsStringSync(),
+      ) as Map<String, dynamic>;
       expect(audit['total'], 822);
-      expect(words.length, latest['total']);
-      expect(words.length, 1130);
+      expect(latest['total'], 1130);
+      expect(words.length, current['total']);
+      expect(words.length, 1342);
       expect(words.first.prompt, '心地よい');
       expect(words[537].prompt, '排除');
       expect(words[538].prompt, '愛着');
       expect(words[539].prompt, '跡継');
       expect(words[821].prompt, '情報網');
       expect(words[822].prompt, 'なかなかしようとしない');
-      expect(words.last.prompt, 'アドバイス');
+      expect(words[1129].prompt, 'アドバイス');
+      expect(words[1130].prompt, 'ふんだんだ');
+      expect(words.last.prompt, '交錯');
       final rows = File('data/photo-transcription.tsv')
           .readAsLinesSync()
           .skip(1)
@@ -53,8 +59,11 @@ void main() {
       expect(groups[17].words.length, 30);
       expect(groups[27].label, '811~840');
       expect(groups[27].words.length, 30);
-      expect(groups.last.label, '1111~1130');
-      expect(groups.last.words.length, 20);
+      expect(groups[37].label, '1111~1140');
+      expect(groups[37].words.length, 30);
+      expect(groups.length, 45);
+      expect(groups.last.label, '1321~1342');
+      expect(groups.last.words.length, 22);
       final newRows = File('data/photo-transcription-v1.1.tsv')
           .readAsLinesSync()
           .skip(1)
@@ -119,10 +128,70 @@ void main() {
           expect(word.korean, updates[row['wordNumber']] ?? row['korean']);
         }
       }
+      final novemberRows = File('data/photo-transcription-v1.6.tsv')
+          .readAsLinesSync()
+          .skip(1)
+          .toList();
+      final novemberMappings = current['rows'] as List;
+      final clarified = {
+        for (final row in current['meaningUpdates'] as List)
+          row['wordNumber']: row['after'],
+      };
+      expect(novemberRows.length, 240);
+      expect(novemberMappings.length, novemberRows.length);
+      expect(current['photoCounts'], {
+        '00': 14,
+        '01': 20,
+        '02': 15,
+        '03': 18,
+        '04': 14,
+        '05': 19,
+        '06': 14,
+        '07': 20,
+        '08': 15,
+        '09': 20,
+        '10': 15,
+        '11': 20,
+        '12': 15,
+        '13': 21,
+      });
+      expect(current['original'], 1130);
+      expect(current['added'], 212);
+      expect(current['merged'], 28);
+      final newNumbers = <int>{};
+      for (var i = 0; i < novemberMappings.length; i++) {
+        final row = novemberMappings[i];
+        expect([
+          row['source'],
+          row['kanji'],
+          row['hiragana'],
+          row['korean'],
+        ], novemberRows[i].split('\t'));
+        final number = row['wordNumber'] as int;
+        final word = words[number - 1];
+        expect(word.prompt, row['canonicalSpelling']);
+        expect(word.hiragana, row['hiragana']);
+        if (row['action'] == 'added') {
+          expect(newNumbers.add(number), isTrue);
+          expect(word.kanji ?? '', row['kanji']);
+          expect(word.korean, clarified[number] ?? row['korean']);
+        } else {
+          expect(number, lessThanOrEqualTo(1130));
+        }
+      }
+      expect(newNumbers, Set.of(List.generate(212, (i) => i + 1131)));
+      expect(
+        words.singleWhere((w) => w.prompt == '重複').hiragana,
+        'じゅうふく・ちょうふく',
+      );
+      expect(words.singleWhere((w) => w.prompt == '解ける').hiragana, 'ほどける');
       // Identical readings with different meanings must remain separate.
       for (final pair in [
         ['謝る', '誤る'],
         ['不審だ', '不振だ'],
+        ['終始', '収支'],
+        ['人手', '人出'],
+        ['交錯', '耕作'],
       ]) {
         final a = words.singleWhere((w) => w.prompt == pair[0]);
         final b = words.singleWhere((w) => w.prompt == pair[1]);

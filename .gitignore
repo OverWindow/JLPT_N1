@@ -51,7 +51,16 @@ app.*.map.json
 /image/
 /verification/
 
-# Keep only the current distributable APK in the repository
+# Release APKs and upgrade-verification baselines
 /releases/*
 !/releases/jlpt-1.3.0.apk
 !/releases/jlpt-1.3.0.apk.sha256
+!/releases/jlpt-1.4.0.apk
+!/releases/jlpt-1.4.0.apk.sha256
+
+!/releases/jlpt-1.5.0.apk
+!/releases/jlpt-1.5.0.apk.sha256
+!/releases/jlpt-1.6.0.apk
+!/releases/jlpt-1.6.0.apk.sha256
+!/releases/jlpt-1.7.0.apk
+!/releases/jlpt-1.7.0.apk.sha256

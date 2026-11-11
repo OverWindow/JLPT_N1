@@ -34978,5 +34978,6490 @@
       ],
       "korean": "친구에게 조언을 구한다."
     }
+  },
+  {
+    "kanji": null,
+    "hiragana": "ふんだんだ",
+    "korean": "충분하다",
+    "example": {
+      "segments": [
+        {
+          "text": "クリームをふんだんに"
+        },
+        {
+          "text": "使",
+          "reading": "つか"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "korean": "크림을 듬뿍 사용했다."
+    }
+  },
+  {
+    "kanji": "未開だ",
+    "hiragana": "みかいだ",
+    "korean": "미개하다",
+    "example": {
+      "segments": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "地域",
+          "reading": "ちいき"
+        },
+        {
+          "text": "はまだ"
+        },
+        {
+          "text": "未開だ",
+          "reading": "みかいだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "그 지역은 아직 미개발 상태다."
+    }
+  },
+  {
+    "kanji": "無造作だ",
+    "hiragana": "むぞうさだ",
+    "korean": "아무렇게나 하다",
+    "example": {
+      "segments": [
+        {
+          "text": "上着",
+          "reading": "うわぎ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "無造作",
+          "reading": "むぞうさ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "脱",
+          "reading": "ぬ"
+        },
+        {
+          "text": "いだ。"
+        }
+      ],
+      "korean": "겉옷을 아무렇게나 벗었다."
+    }
+  },
+  {
+    "kanji": "無念だ",
+    "hiragana": "むねんだ",
+    "korean": "분하다, 원통하다",
+    "example": {
+      "segments": [
+        {
+          "text": "あと"
+        },
+        {
+          "text": "一歩",
+          "reading": "いっぽ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "負",
+          "reading": "ま"
+        },
+        {
+          "text": "けて"
+        },
+        {
+          "text": "無念だ",
+          "reading": "むねんだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "한 발짝 차이로 져서 원통하다."
+    }
+  },
+  {
+    "kanji": "無能だ",
+    "hiragana": "むのうだ",
+    "korean": "무능하다",
+    "example": {
+      "segments": [
+        {
+          "text": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "無能だ",
+          "reading": "むのうだ"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "決",
+          "reading": "き"
+        },
+        {
+          "text": "めつけない。"
+        }
+      ],
+      "korean": "자신이 무능하다고 단정하지 않는다."
+    }
+  },
+  {
+    "kanji": "無闇だ",
+    "hiragana": "むやみだ",
+    "korean": "터무니없다, 함부로 하다",
+    "example": {
+      "segments": [
+        {
+          "text": "無闇",
+          "reading": "むやみ"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "投資",
+          "reading": "とうし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "避",
+          "reading": "さ"
+        },
+        {
+          "text": "けたい。"
+        }
+      ],
+      "korean": "무모한 투자는 피하고 싶다."
+    }
+  },
+  {
+    "kanji": "明朗だ",
+    "hiragana": "めいろうだ",
+    "korean": "명랑하다, 공정하다",
+    "example": {
+      "segments": [
+        {
+          "text": "姉",
+          "reading": "あね"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "明朗",
+          "reading": "めいろう"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "性格",
+          "reading": "せいかく"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "korean": "누나는 명랑한 성격이다."
+    }
+  },
+  {
+    "kanji": "有数だ",
+    "hiragana": "ゆうすうだ",
+    "korean": "유수하다",
+    "example": {
+      "segments": [
+        {
+          "text": "ここは"
+        },
+        {
+          "text": "国内",
+          "reading": "こくない"
+        },
+        {
+          "text": "でも"
+        },
+        {
+          "text": "有数",
+          "reading": "ゆうすう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "港",
+          "reading": "みなと"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "korean": "이곳은 국내에서도 손꼽히는 항구다."
+    }
+  },
+  {
+    "kanji": "優勢だ",
+    "hiragana": "ゆうせいだ",
+    "korean": "우세하다, 우위이다",
+    "example": {
+      "segments": [
+        {
+          "text": "試合",
+          "reading": "しあい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "のところ"
+        },
+        {
+          "text": "優勢だ",
+          "reading": "ゆうせいだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "경기는 현재로서는 우세하다."
+    }
+  },
+  {
+    "kanji": "冷酷だ",
+    "hiragana": "れいこくだ",
+    "korean": "냉혹하다",
+    "example": {
+      "segments": [
+        {
+          "text": "弱者",
+          "reading": "じゃくしゃ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "切",
+          "reading": "き"
+        },
+        {
+          "text": "り"
+        },
+        {
+          "text": "捨",
+          "reading": "す"
+        },
+        {
+          "text": "てるのは"
+        },
+        {
+          "text": "冷酷だ",
+          "reading": "れいこくだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "약자를 버리는 것은 냉혹하다."
+    }
+  },
+  {
+    "kanji": "冷淡だ",
+    "hiragana": "れいたんだ",
+    "korean": "냉담하다",
+    "example": {
+      "segments": [
+        {
+          "text": "相談",
+          "reading": "そうだん"
+        },
+        {
+          "text": "したのに"
+        },
+        {
+          "text": "返事",
+          "reading": "へんじ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "冷淡だ",
+          "reading": "れいたんだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "상담했는데 대답은 냉담하다."
+    }
+  },
+  {
+    "kanji": "露骨だ",
+    "hiragana": "ろこつだ",
+    "korean": "노골적이다",
+    "example": {
+      "segments": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "不満",
+          "reading": "ふまん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "表",
+          "reading": "あらわ"
+        },
+        {
+          "text": "し"
+        },
+        {
+          "text": "方",
+          "reading": "かた"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "露骨だ",
+          "reading": "ろこつだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "그가 불만을 드러내는 방식은 노골적이다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "いかにも",
+    "korean": "정말로",
+    "example": {
+      "segments": [
+        {
+          "text": "いかにも"
+        },
+        {
+          "text": "春",
+          "reading": "はる"
+        },
+        {
+          "text": "らしい"
+        },
+        {
+          "text": "色",
+          "reading": "いろ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "korean": "정말 봄다운 색이다."
+    }
+  },
+  {
+    "kanji": "依然として",
+    "hiragana": "いぜんとして",
+    "korean": "여전히",
+    "example": {
+      "segments": [
+        {
+          "text": "店",
+          "reading": "みせ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "依然として",
+          "reading": "いぜんとして"
+        },
+        {
+          "text": "混",
+          "reading": "こ"
+        },
+        {
+          "text": "んでいる。"
+        }
+      ],
+      "korean": "가게는 여전히 붐빈다."
+    }
+  },
+  {
+    "kanji": "一概に",
+    "hiragana": "いちがいに",
+    "korean": "일률적으로, 단정하여",
+    "example": {
+      "segments": [
+        {
+          "text": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "text": "だけで"
+        },
+        {
+          "text": "一概に",
+          "reading": "いちがいに"
+        },
+        {
+          "text": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "text": "できない。"
+        }
+      ],
+      "korean": "가격만으로 일률적으로 판단할 수 없다."
+    }
+  },
+  {
+    "kanji": "一挙に",
+    "hiragana": "いっきょに",
+    "korean": "일거에",
+    "example": {
+      "segments": [
+        {
+          "text": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "一挙に",
+          "reading": "いっきょに"
+        },
+        {
+          "text": "進",
+          "reading": "すす"
+        },
+        {
+          "text": "んだ。"
+        }
+      ],
+      "korean": "작업이 단번에 진척되었다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "いっそ",
+    "korean": "차라리",
+    "example": {
+      "segments": [
+        {
+          "text": "迷",
+          "reading": "まよ"
+        },
+        {
+          "text": "うならいっそ"
+        },
+        {
+          "text": "両方",
+          "reading": "りょうほう"
+        },
+        {
+          "text": "買",
+          "reading": "か"
+        },
+        {
+          "text": "おう。"
+        }
+      ],
+      "korean": "고민된다면 차라리 둘 다 사자."
+    }
+  },
+  {
+    "kanji": "今更",
+    "hiragana": "いまさら",
+    "korean": "이제 와서",
+    "example": {
+      "segments": [
+        {
+          "text": "今更",
+          "reading": "いまさら"
+        },
+        {
+          "text": "予定",
+          "reading": "よてい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "変",
+          "reading": "か"
+        },
+        {
+          "text": "えられない。"
+        }
+      ],
+      "korean": "이제 와서 일정은 바꿀 수 없다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "いやに",
+    "korean": "이상하게, 묘하게",
+    "example": {
+      "segments": [
+        {
+          "text": "今日",
+          "reading": "きょう"
+        },
+        {
+          "text": "はいやに"
+        },
+        {
+          "text": "眠",
+          "reading": "ねむ"
+        },
+        {
+          "text": "い。"
+        }
+      ],
+      "korean": "오늘은 이상하게 졸리다."
+    }
+  },
+  {
+    "kanji": "遅くとも",
+    "hiragana": "おそくとも",
+    "korean": "늦어도",
+    "example": {
+      "segments": [
+        {
+          "text": "遅くとも",
+          "reading": "おそくとも"
+        },
+        {
+          "text": "金曜",
+          "reading": "きんよう"
+        },
+        {
+          "text": "までに"
+        },
+        {
+          "text": "返",
+          "reading": "かえ"
+        },
+        {
+          "text": "す。"
+        }
+      ],
+      "korean": "늦어도 금요일까지 돌려준다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "おどおど",
+    "korean": "주저주저",
+    "example": {
+      "segments": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "はおどおどと"
+        },
+        {
+          "text": "答",
+          "reading": "こた"
+        },
+        {
+          "text": "えた。"
+        }
+      ],
+      "korean": "그는 주눅이 들어 머뭇거리며 대답했다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "くまなく",
+    "korean": "구석구석",
+    "example": {
+      "segments": [
+        {
+          "text": "引",
+          "reading": "ひ"
+        },
+        {
+          "text": "き"
+        },
+        {
+          "text": "出",
+          "reading": "だ"
+        },
+        {
+          "text": "しをくまなく"
+        },
+        {
+          "text": "調",
+          "reading": "しら"
+        },
+        {
+          "text": "べた。"
+        }
+      ],
+      "korean": "서랍을 구석구석 살펴보았다."
+    }
+  },
+  {
+    "kanji": "煌々と",
+    "hiragana": "こうこうと",
+    "korean": "반짝반짝, 환하게",
+    "example": {
+      "segments": [
+        {
+          "text": "月",
+          "reading": "つき"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "煌々と",
+          "reading": "こうこうと"
+        },
+        {
+          "text": "庭",
+          "reading": "にわ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "照",
+          "reading": "て"
+        },
+        {
+          "text": "らす。"
+        }
+      ],
+      "korean": "달이 환하게 정원을 비춘다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "さぞ",
+    "korean": "필시",
+    "example": {
+      "segments": [
+        {
+          "text": "合格",
+          "reading": "ごうかく"
+        },
+        {
+          "text": "してさぞうれしいだろう。"
+        }
+      ],
+      "korean": "합격해서 필시 기쁠 것이다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "さほど",
+    "korean": "그다지",
+    "example": {
+      "segments": [
+        {
+          "text": "駅",
+          "reading": "えき"
+        },
+        {
+          "text": "まではさほど"
+        },
+        {
+          "text": "遠",
+          "reading": "とお"
+        },
+        {
+          "text": "くない。"
+        }
+      ],
+      "korean": "역까지는 그다지 멀지 않다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "さも",
+    "korean": "자못",
+    "example": {
+      "segments": [
+        {
+          "text": "さも"
+        },
+        {
+          "text": "満足",
+          "reading": "まんぞく"
+        },
+        {
+          "text": "そうにうなずいた。"
+        }
+      ],
+      "korean": "자못 만족스러운 듯 고개를 끄덕였다."
+    }
+  },
+  {
+    "kanji": "終始",
+    "hiragana": "しゅうし",
+    "korean": "시종",
+    "example": {
+      "segments": [
+        {
+          "text": "会議",
+          "reading": "かいぎ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "終始",
+          "reading": "しゅうし"
+        },
+        {
+          "text": "穏",
+          "reading": "おだ"
+        },
+        {
+          "text": "やかだった。"
+        }
+      ],
+      "korean": "회의는 시종 온화했다."
+    }
+  },
+  {
+    "kanji": "実に",
+    "hiragana": "じつに",
+    "korean": "실로, 참으로",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "実に",
+          "reading": "じつに"
+        },
+        {
+          "text": "わかりやすい。"
+        }
+      ],
+      "korean": "이 설명은 참으로 이해하기 쉽다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "ずばり",
+    "korean": "거침없이",
+    "example": {
+      "segments": [
+        {
+          "text": "原因",
+          "reading": "げんいん"
+        },
+        {
+          "text": "をずばり"
+        },
+        {
+          "text": "指摘",
+          "reading": "してき"
+        },
+        {
+          "text": "された。"
+        }
+      ],
+      "korean": "원인을 거침없이 지적받았다."
+    }
+  },
+  {
+    "kanji": "総じて",
+    "hiragana": "そうじて",
+    "korean": "대체로",
+    "example": {
+      "segments": [
+        {
+          "text": "参加者",
+          "reading": "さんかしゃ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "感想",
+          "reading": "かんそう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "総じて",
+          "reading": "そうじて"
+        },
+        {
+          "text": "好意的",
+          "reading": "こういてき"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "korean": "참가자들의 소감은 대체로 호의적이다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "てんで",
+    "korean": "전혀",
+    "example": {
+      "segments": [
+        {
+          "text": "機械",
+          "reading": "きかい"
+        },
+        {
+          "text": "のことはてんでわからない。"
+        }
+      ],
+      "korean": "기계에 대해서는 전혀 모른다."
+    }
+  },
+  {
+    "kanji": "到底",
+    "hiragana": "とうてい",
+    "korean": "도저히",
+    "example": {
+      "segments": [
+        {
+          "text": "一日",
+          "reading": "いちにち"
+        },
+        {
+          "text": "では"
+        },
+        {
+          "text": "到底",
+          "reading": "とうてい"
+        },
+        {
+          "text": "終",
+          "reading": "お"
+        },
+        {
+          "text": "わらない。"
+        }
+      ],
+      "korean": "하루로는 도저히 끝나지 않는다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "どうやら",
+    "korean": "아무래도",
+    "example": {
+      "segments": [
+        {
+          "text": "どうやら"
+        },
+        {
+          "text": "道",
+          "reading": "みち"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "間違",
+          "reading": "まちが"
+        },
+        {
+          "text": "えたらしい。"
+        }
+      ],
+      "korean": "아무래도 길을 잘못 든 것 같다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "とかく",
+    "korean": "이것저것",
+    "example": {
+      "segments": [
+        {
+          "text": "年末",
+          "reading": "ねんまつ"
+        },
+        {
+          "text": "はとかく"
+        },
+        {
+          "text": "忙",
+          "reading": "いそが"
+        },
+        {
+          "text": "しい。"
+        }
+      ],
+      "korean": "연말에는 이래저래 바쁘다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "とっくに",
+    "korean": "훨씬 이전에",
+    "example": {
+      "segments": [
+        {
+          "text": "昼",
+          "reading": "ひる"
+        },
+        {
+          "text": "ご"
+        },
+        {
+          "text": "飯",
+          "reading": "はん"
+        },
+        {
+          "text": "はとっくに"
+        },
+        {
+          "text": "食",
+          "reading": "た"
+        },
+        {
+          "text": "べた。"
+        }
+      ],
+      "korean": "점심은 진작에 먹었다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "とっさに",
+    "korean": "순간적으로",
+    "example": {
+      "segments": [
+        {
+          "text": "とっさに"
+        },
+        {
+          "text": "子供",
+          "reading": "こども"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "手",
+          "reading": "て"
+        },
+        {
+          "text": "をつかんだ。"
+        }
+      ],
+      "korean": "순간적으로 아이의 손을 잡았다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "なおさら",
+    "korean": "한층 더",
+    "example": {
+      "segments": [
+        {
+          "text": "雨",
+          "reading": "あめ"
+        },
+        {
+          "text": "ならなおさら"
+        },
+        {
+          "text": "出",
+          "reading": "で"
+        },
+        {
+          "text": "かけたくない。"
+        }
+      ],
+      "korean": "비가 온다면 더더욱 나가고 싶지 않다."
+    }
+  },
+  {
+    "kanji": "何だか",
+    "hiragana": "なんだか",
+    "korean": "어쩐지",
+    "example": {
+      "segments": [
+        {
+          "text": "何だか",
+          "reading": "なんだか"
+        },
+        {
+          "text": "いいことがありそうだ。"
+        }
+      ],
+      "korean": "어쩐지 좋은 일이 있을 것 같다."
+    }
+  },
+  {
+    "kanji": "何なりと",
+    "hiragana": "なんなりと",
+    "korean": "무엇이든",
+    "example": {
+      "segments": [
+        {
+          "text": "何なりと",
+          "reading": "なんなりと"
+        },
+        {
+          "text": "ご"
+        },
+        {
+          "text": "相談",
+          "reading": "そうだん"
+        },
+        {
+          "text": "ください。"
+        }
+      ],
+      "korean": "무엇이든 상담해 주세요."
+    }
+  },
+  {
+    "kanji": "甚だ",
+    "hiragana": "はなはだ",
+    "korean": "몹시, 매우",
+    "example": {
+      "segments": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "text": "では"
+        },
+        {
+          "text": "甚だ",
+          "reading": "はなはだ"
+        },
+        {
+          "text": "不十分",
+          "reading": "ふじゅうぶん"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "korean": "그 설명으로는 매우 불충분하다."
+    }
+  },
+  {
+    "kanji": "人一倍",
+    "hiragana": "ひといちばい",
+    "korean": "남보다 갑절",
+    "example": {
+      "segments": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "人一倍",
+          "reading": "ひといちばい"
+        },
+        {
+          "text": "責任感",
+          "reading": "せきにんかん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "強",
+          "reading": "つよ"
+        },
+        {
+          "text": "い。"
+        }
+      ],
+      "korean": "그는 남보다 책임감이 훨씬 강하다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "ひとまず",
+    "korean": "일단",
+    "example": {
+      "segments": [
+        {
+          "text": "ひとまずお"
+        },
+        {
+          "text": "茶",
+          "reading": "ちゃ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "飲",
+          "reading": "の"
+        },
+        {
+          "text": "んで"
+        },
+        {
+          "text": "休",
+          "reading": "やす"
+        },
+        {
+          "text": "もう。"
+        }
+      ],
+      "korean": "일단 차를 마시며 쉬자."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "めきめき",
+    "korean": "무럭무럭",
+    "example": {
+      "segments": [
+        {
+          "text": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "text": "がめきめき"
+        },
+        {
+          "text": "上達",
+          "reading": "じょうたつ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "일본어 실력이 눈에 띄게 늘었다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "もはや",
+    "korean": "이제는, 어느새",
+    "example": {
+      "segments": [
+        {
+          "text": "もはや"
+        },
+        {
+          "text": "引",
+          "reading": "ひ"
+        },
+        {
+          "text": "き"
+        },
+        {
+          "text": "返",
+          "reading": "かえ"
+        },
+        {
+          "text": "すことはできない。"
+        }
+      ],
+      "korean": "이제는 되돌아갈 수 없다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "もろに",
+    "korean": "정면으로",
+    "example": {
+      "segments": [
+        {
+          "text": "強風",
+          "reading": "きょうふう"
+        },
+        {
+          "text": "をもろに"
+        },
+        {
+          "text": "受",
+          "reading": "う"
+        },
+        {
+          "text": "けた。"
+        }
+      ],
+      "korean": "강풍을 정면으로 맞았다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "やけに",
+    "korean": "무척, 유난히",
+    "example": {
+      "segments": [
+        {
+          "text": "今朝",
+          "reading": "けさ"
+        },
+        {
+          "text": "はやけに"
+        },
+        {
+          "text": "喉",
+          "reading": "のど"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "渇",
+          "reading": "かわ"
+        },
+        {
+          "text": "く。"
+        }
+      ],
+      "korean": "오늘 아침은 유난히 목이 마르다."
+    }
+  },
+  {
+    "kanji": "余程",
+    "hiragana": "よほど",
+    "korean": "상당히, 꽤",
+    "example": {
+      "segments": [
+        {
+          "text": "余程",
+          "reading": "よほど"
+        },
+        {
+          "text": "疲",
+          "reading": "つか"
+        },
+        {
+          "text": "れていたのだろう。"
+        }
+      ],
+      "korean": "상당히 피곤했던 모양이다."
+    }
+  },
+  {
+    "kanji": "健全だ",
+    "hiragana": "けんぜんだ",
+    "korean": "건전하다",
+    "example": {
+      "segments": [
+        {
+          "text": "健全",
+          "reading": "けんぜん"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "送",
+          "reading": "おく"
+        },
+        {
+          "text": "りたい。"
+        }
+      ],
+      "korean": "건전한 생활을 하고 싶다."
+    }
+  },
+  {
+    "kanji": "広大だ",
+    "hiragana": "こうだいだ",
+    "korean": "광대하다",
+    "example": {
+      "segments": [
+        {
+          "text": "窓",
+          "reading": "まど"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "外",
+          "reading": "そと"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "広大",
+          "reading": "こうだい"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "森",
+          "reading": "もり"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "広",
+          "reading": "ひろ"
+        },
+        {
+          "text": "がる。"
+        }
+      ],
+      "korean": "창밖으로 광대한 숲이 펼쳐진다."
+    }
+  },
+  {
+    "kanji": "細心だ",
+    "hiragana": "さいしんだ",
+    "korean": "세심하다",
+    "example": {
+      "segments": [
+        {
+          "text": "細心",
+          "reading": "さいしん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "注意",
+          "reading": "ちゅうい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "払",
+          "reading": "はら"
+        },
+        {
+          "text": "って"
+        },
+        {
+          "text": "運",
+          "reading": "はこ"
+        },
+        {
+          "text": "ぶ。"
+        }
+      ],
+      "korean": "세심한 주의를 기울여 나른다."
+    }
+  },
+  {
+    "kanji": "残酷だ",
+    "hiragana": "ざんこくだ",
+    "korean": "잔혹하다",
+    "example": {
+      "segments": [
+        {
+          "text": "動物",
+          "reading": "どうぶつ"
+        },
+        {
+          "text": "をいじめるのは"
+        },
+        {
+          "text": "残酷だ",
+          "reading": "ざんこくだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "동물을 괴롭히는 것은 잔혹하다."
+    }
+  },
+  {
+    "kanji": "自在だ",
+    "hiragana": "じざいだ",
+    "korean": "자유자재이다, 마음대로이다",
+    "example": {
+      "segments": [
+        {
+          "text": "指",
+          "reading": "ゆび"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "自在",
+          "reading": "じざい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "動",
+          "reading": "うご"
+        },
+        {
+          "text": "かす。"
+        }
+      ],
+      "korean": "손가락을 자유자재로 움직인다."
+    }
+  },
+  {
+    "kanji": "質素だ",
+    "hiragana": "しっそだ",
+    "korean": "검소하다",
+    "example": {
+      "segments": [
+        {
+          "text": "祖母",
+          "reading": "そぼ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "暮",
+          "reading": "く"
+        },
+        {
+          "text": "らしは"
+        },
+        {
+          "text": "質素だ",
+          "reading": "しっそだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "할머니의 생활은 검소하다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "しなやかだ",
+    "korean": "유연하다",
+    "example": {
+      "segments": [
+        {
+          "text": "猫",
+          "reading": "ねこ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "体",
+          "reading": "からだ"
+        },
+        {
+          "text": "はしなやかだ。"
+        }
+      ],
+      "korean": "고양이의 몸은 유연하다."
+    }
+  },
+  {
+    "kanji": "正当だ",
+    "hiragana": "せいとうだ",
+    "korean": "정당하다",
+    "example": {
+      "segments": [
+        {
+          "text": "正当",
+          "reading": "せいとう"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "報酬",
+          "reading": "ほうしゅう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "求",
+          "reading": "もと"
+        },
+        {
+          "text": "める。"
+        }
+      ],
+      "korean": "정당한 보수를 요구한다."
+    }
+  },
+  {
+    "kanji": "精密だ",
+    "hiragana": "せいみつだ",
+    "korean": "정밀하다",
+    "example": {
+      "segments": [
+        {
+          "text": "これは"
+        },
+        {
+          "text": "精密",
+          "reading": "せいみつ"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "測定器",
+          "reading": "そくていき"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "korean": "이것은 정밀한 측정기다."
+    }
+  },
+  {
+    "kanji": "切実だ",
+    "hiragana": "せつじつだ",
+    "korean": "절실하다",
+    "example": {
+      "segments": [
+        {
+          "text": "住民",
+          "reading": "じゅうみん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "訴",
+          "reading": "うった"
+        },
+        {
+          "text": "えは"
+        },
+        {
+          "text": "切実だ",
+          "reading": "せつじつだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "주민들의 호소는 절실하다."
+    }
+  },
+  {
+    "kanji": "怠慢だ",
+    "hiragana": "たいまんだ",
+    "korean": "태만하다",
+    "example": {
+      "segments": [
+        {
+          "text": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "怠",
+          "reading": "おこた"
+        },
+        {
+          "text": "るなんて"
+        },
+        {
+          "text": "怠慢だ",
+          "reading": "たいまんだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "확인을 게을리하다니 태만하다."
+    }
+  },
+  {
+    "kanji": "巧みだ",
+    "hiragana": "たくみだ",
+    "korean": "솜씨 좋다, 교묘하다",
+    "example": {
+      "segments": [
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "話術",
+          "reading": "わじゅつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "巧みだ",
+          "reading": "たくみだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "그녀의 화술은 능숙하다."
+    }
+  },
+  {
+    "kanji": "単調だ",
+    "hiragana": "たんちょうだ",
+    "korean": "단조롭다",
+    "example": {
+      "segments": [
+        {
+          "text": "同",
+          "reading": "おな"
+        },
+        {
+          "text": "じ"
+        },
+        {
+          "text": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "繰",
+          "reading": "く"
+        },
+        {
+          "text": "り"
+        },
+        {
+          "text": "返",
+          "reading": "かえ"
+        },
+        {
+          "text": "しで"
+        },
+        {
+          "text": "単調だ",
+          "reading": "たんちょうだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "같은 작업의 반복이라 단조롭다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "のどかだ",
+    "korean": "한가롭다, 화창하다",
+    "example": {
+      "segments": [
+        {
+          "text": "春",
+          "reading": "はる"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "川辺",
+          "reading": "かわべ"
+        },
+        {
+          "text": "はのどかだ。"
+        }
+      ],
+      "korean": "봄의 강가는 평온하다."
+    }
+  },
+  {
+    "kanji": "煩雑だ",
+    "hiragana": "はんざつだ",
+    "korean": "번잡하다",
+    "example": {
+      "segments": [
+        {
+          "text": "登録",
+          "reading": "とうろく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "手順",
+          "reading": "てじゅん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "煩雑だ",
+          "reading": "はんざつだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "등록 절차가 번잡하다."
+    }
+  },
+  {
+    "kanji": "半端だ",
+    "hiragana": "はんぱだ",
+    "korean": "어중간하다",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "長",
+          "reading": "なが"
+        },
+        {
+          "text": "さでは"
+        },
+        {
+          "text": "半端だ",
+          "reading": "はんぱだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "이 길이로는 어중간하다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "ひたむきだ",
+    "korean": "한 가지에만 전력을 다하다",
+    "example": {
+      "segments": [
+        {
+          "text": "夢",
+          "reading": "ゆめ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "追",
+          "reading": "お"
+        },
+        {
+          "text": "う"
+        },
+        {
+          "text": "彼女",
+          "reading": "かのじょ"
+        },
+        {
+          "text": "はひたむきだ。"
+        }
+      ],
+      "korean": "꿈을 좇는 그녀는 한결같이 전력을 다한다."
+    }
+  },
+  {
+    "kanji": "円満だ",
+    "hiragana": "えんまんだ",
+    "korean": "원만하다",
+    "example": {
+      "segments": [
+        {
+          "text": "家族",
+          "reading": "かぞく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "円満だ",
+          "reading": "えんまんだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "가족 관계는 원만하다."
+    }
+  },
+  {
+    "kanji": "温和だ",
+    "hiragana": "おんわだ",
+    "korean": "온화하다",
+    "example": {
+      "segments": [
+        {
+          "text": "温和",
+          "reading": "おんわ"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "先生",
+          "reading": "せんせい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "教",
+          "reading": "おそ"
+        },
+        {
+          "text": "わった。"
+        }
+      ],
+      "korean": "온화한 선생님께 배웠다."
+    }
+  },
+  {
+    "kanji": "過密だ",
+    "hiragana": "かみつだ",
+    "korean": "과밀하다",
+    "example": {
+      "segments": [
+        {
+          "text": "今週",
+          "reading": "こんしゅう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "日程",
+          "reading": "にってい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "過密だ",
+          "reading": "かみつだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "이번 주 일정은 지나치게 빽빽하다."
+    }
+  },
+  {
+    "kanji": "簡易だ",
+    "hiragana": "かんいだ",
+    "korean": "간단하다",
+    "example": {
+      "segments": [
+        {
+          "text": "簡易",
+          "reading": "かんい"
+        },
+        {
+          "text": "なテストで"
+        },
+        {
+          "text": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "간단한 테스트로 확인한다."
+    }
+  },
+  {
+    "kanji": "簡潔だ",
+    "hiragana": "かんけつだ",
+    "korean": "간결하다",
+    "example": {
+      "segments": [
+        {
+          "text": "要点",
+          "reading": "ようてん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "簡潔",
+          "reading": "かんけつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "伝",
+          "reading": "つた"
+        },
+        {
+          "text": "える。"
+        }
+      ],
+      "korean": "요점을 간결하게 전한다."
+    }
+  },
+  {
+    "kanji": "頑丈だ",
+    "hiragana": "がんじょうだ",
+    "korean": "튼튼하다",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "椅子",
+          "reading": "いす"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "軽",
+          "reading": "かる"
+        },
+        {
+          "text": "いのに"
+        },
+        {
+          "text": "頑丈だ",
+          "reading": "がんじょうだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "이 의자는 가벼운데도 튼튼하다."
+    }
+  },
+  {
+    "kanji": "閑静だ",
+    "hiragana": "かんせいだ",
+    "korean": "한적하다",
+    "example": {
+      "segments": [
+        {
+          "text": "閑静",
+          "reading": "かんせい"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "引",
+          "reading": "ひ"
+        },
+        {
+          "text": "っ"
+        },
+        {
+          "text": "越",
+          "reading": "こ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "한적한 곳으로 이사했다."
+    }
+  },
+  {
+    "kanji": "強烈だ",
+    "hiragana": "きょうれつだ",
+    "korean": "강렬하다",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "香水",
+          "reading": "こうすい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "香",
+          "reading": "かお"
+        },
+        {
+          "text": "りは"
+        },
+        {
+          "text": "強烈だ",
+          "reading": "きょうれつだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "이 향수의 향기는 강렬하다."
+    }
+  },
+  {
+    "kanji": "緊密だ",
+    "hiragana": "きんみつだ",
+    "korean": "긴밀하다",
+    "example": {
+      "segments": [
+        {
+          "text": "両社",
+          "reading": "りょうしゃ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "緊密",
+          "reading": "きんみつ"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "text": "にある。"
+        }
+      ],
+      "korean": "두 회사는 긴밀한 관계에 있다."
+    }
+  },
+  {
+    "kanji": "軽快だ",
+    "hiragana": "けいかいだ",
+    "korean": "경쾌하다",
+    "example": {
+      "segments": [
+        {
+          "text": "軽快",
+          "reading": "けいかい"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "足取",
+          "reading": "あしど"
+        },
+        {
+          "text": "りで"
+        },
+        {
+          "text": "歩",
+          "reading": "ある"
+        },
+        {
+          "text": "く。"
+        }
+      ],
+      "korean": "경쾌한 발걸음으로 걷는다."
+    }
+  },
+  {
+    "kanji": "軽率だ",
+    "hiragana": "けいそつだ",
+    "korean": "경솔하다",
+    "example": {
+      "segments": [
+        {
+          "text": "確認",
+          "reading": "かくにん"
+        },
+        {
+          "text": "せずに"
+        },
+        {
+          "text": "広",
+          "reading": "ひろ"
+        },
+        {
+          "text": "めるのは"
+        },
+        {
+          "text": "軽率だ",
+          "reading": "けいそつだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "확인하지 않고 퍼뜨리는 것은 경솔하다."
+    }
+  },
+  {
+    "kanji": "健在だ",
+    "hiragana": "けんざいだ",
+    "korean": "건재하다",
+    "example": {
+      "segments": [
+        {
+          "text": "引退",
+          "reading": "いんたい"
+        },
+        {
+          "text": "しても"
+        },
+        {
+          "text": "腕",
+          "reading": "うで"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "健在だ",
+          "reading": "けんざいだ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "은퇴했어도 솜씨는 여전하다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "あくどい",
+    "korean": "악랄하다",
+    "example": {
+      "segments": [
+        {
+          "text": "あくどい"
+        },
+        {
+          "text": "商売",
+          "reading": "しょうばい"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "利益",
+          "reading": "りえき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "得",
+          "reading": "え"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "korean": "악랄한 장사로 이익을 얻었다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "きまりわるい",
+    "korean": "면목이 안 서다",
+    "example": {
+      "segments": [
+        {
+          "text": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "間違",
+          "reading": "まちが"
+        },
+        {
+          "text": "えてきまりわるい。"
+        }
+      ],
+      "korean": "이름을 잘못 불러서 면목이 서지 않는다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "しぶとい",
+    "korean": "끈질기다",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "雑草",
+          "reading": "ざっそう"
+        },
+        {
+          "text": "はしぶとい。"
+        }
+      ],
+      "korean": "이 잡초는 끈질기다."
+    }
+  },
+  {
+    "kanji": "素早い",
+    "hiragana": "すばやい",
+    "korean": "재빠르다",
+    "example": {
+      "segments": [
+        {
+          "text": "素早い",
+          "reading": "すばやい"
+        },
+        {
+          "text": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "助",
+          "reading": "たす"
+        },
+        {
+          "text": "けられた。"
+        }
+      ],
+      "korean": "재빠른 대응 덕에 도움을 받았다."
+    }
+  },
+  {
+    "kanji": "耐えがたい",
+    "hiragana": "たえがたい",
+    "korean": "참기 어렵다",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "暑",
+          "reading": "あつ"
+        },
+        {
+          "text": "さは"
+        },
+        {
+          "text": "耐えがたい",
+          "reading": "たえがたい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "이 더위는 참기 어렵다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "たやすい",
+    "korean": "쉽다",
+    "example": {
+      "segments": [
+        {
+          "text": "答",
+          "reading": "こた"
+        },
+        {
+          "text": "えを"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "つけるのはたやすい。"
+        }
+      ],
+      "korean": "답을 찾는 것은 쉽다."
+    }
+  },
+  {
+    "kanji": "馴れ馴れしい",
+    "hiragana": "なれなれしい",
+    "korean": "스스럼없다",
+    "example": {
+      "segments": [
+        {
+          "text": "初対面",
+          "reading": "しょたいめん"
+        },
+        {
+          "text": "なのに"
+        },
+        {
+          "text": "馴れ馴れしい",
+          "reading": "なれなれしい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "처음 만났는데도 너무 스스럼없다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "はなはだしい",
+    "korean": "심하다, 대단하다",
+    "example": {
+      "segments": [
+        {
+          "text": "はなはだしい"
+        },
+        {
+          "text": "勘違",
+          "reading": "かんちが"
+        },
+        {
+          "text": "いをしていた。"
+        }
+      ],
+      "korean": "엄청난 착각을 하고 있었다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "ほほえましい",
+    "korean": "흐뭇하다",
+    "example": {
+      "segments": [
+        {
+          "text": "兄弟",
+          "reading": "きょうだい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "遊",
+          "reading": "あそ"
+        },
+        {
+          "text": "ぶ"
+        },
+        {
+          "text": "姿",
+          "reading": "すがた"
+        },
+        {
+          "text": "はほほえましい。"
+        }
+      ],
+      "korean": "형제가 노는 모습은 흐뭇하다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "みすぼらしい",
+    "korean": "초라하다",
+    "example": {
+      "segments": [
+        {
+          "text": "みすぼらしい"
+        },
+        {
+          "text": "小屋",
+          "reading": "こや"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "残",
+          "reading": "のこ"
+        },
+        {
+          "text": "っていた。"
+        }
+      ],
+      "korean": "초라한 오두막이 남아 있었다."
+    }
+  },
+  {
+    "kanji": "満たない",
+    "hiragana": "みたない",
+    "korean": "차지 않다",
+    "example": {
+      "segments": [
+        {
+          "text": "参加者",
+          "reading": "さんかしゃ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "十人",
+          "reading": "じゅうにん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "満たない",
+          "reading": "みたない"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "참가자는 열 명이 채 안 된다."
+    }
+  },
+  {
+    "kanji": "目覚ましい",
+    "hiragana": "めざましい",
+    "korean": "눈부시다",
+    "example": {
+      "segments": [
+        {
+          "text": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "進歩",
+          "reading": "しんぽ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "目覚ましい",
+          "reading": "めざましい"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "기술의 발전은 눈부시다."
+    }
+  },
+  {
+    "kanji": "安静だ",
+    "hiragana": "あんせいだ",
+    "korean": "평온하다, 조용히 쉬는 상태이다",
+    "example": {
+      "segments": [
+        {
+          "text": "今日",
+          "reading": "きょう"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "家",
+          "reading": "いえ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "安静",
+          "reading": "あんせい"
+        },
+        {
+          "text": "にしている。"
+        }
+      ],
+      "korean": "오늘은 집에서 안정을 취하고 있다."
+    }
+  },
+  {
+    "kanji": "一様だ",
+    "hiragana": "いちようだ",
+    "korean": "똑같다",
+    "example": {
+      "segments": [
+        {
+          "text": "参加者",
+          "reading": "さんかしゃ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "一様",
+          "reading": "いちよう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "喜",
+          "reading": "よろこ"
+        },
+        {
+          "text": "んだ。"
+        }
+      ],
+      "korean": "참가자들은 한결같이 기뻐했다."
+    }
+  },
+  {
+    "kanji": "一律だ",
+    "hiragana": "いちりつだ",
+    "korean": "일률적이다",
+    "example": {
+      "segments": [
+        {
+          "text": "料金",
+          "reading": "りょうきん"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "一律",
+          "reading": "いちりつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "千円",
+          "reading": "せんえん"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "korean": "요금은 일률적으로 천 엔이다."
+    }
+  },
+  {
+    "kanji": "裏腹だ",
+    "hiragana": "うらはらだ",
+    "korean": "정반대이다",
+    "example": {
+      "segments": [
+        {
+          "text": "期待",
+          "reading": "きたい"
+        },
+        {
+          "text": "とは"
+        },
+        {
+          "text": "裏腹",
+          "reading": "うらはら"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "結果",
+          "reading": "けっか"
+        },
+        {
+          "text": "だった。"
+        }
+      ],
+      "korean": "기대와는 정반대의 결과였다."
+    }
+  },
+  {
+    "kanji": "引き取る",
+    "hiragana": "ひきとる",
+    "korean": "떠맡다",
+    "example": {
+      "segments": [
+        {
+          "text": "保護",
+          "reading": "ほご"
+        },
+        {
+          "text": "された"
+        },
+        {
+          "text": "犬",
+          "reading": "いぬ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "引き取る",
+          "reading": "ひきとる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "보호받던 개를 맡아 기른다."
+    }
+  },
+  {
+    "kanji": "秘める",
+    "hiragana": "ひめる",
+    "korean": "간직하다",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "土地",
+          "reading": "とち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "可能性",
+          "reading": "かのうせい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "秘",
+          "reading": "ひ"
+        },
+        {
+          "text": "めている。"
+        }
+      ],
+      "korean": "이 땅은 가능성을 품고 있다."
+    }
+  },
+  {
+    "kanji": "冷やかす",
+    "hiragana": "ひやかす",
+    "korean": "놀리다, 값만 물어 보다",
+    "example": {
+      "segments": [
+        {
+          "text": "友達",
+          "reading": "ともだち"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "恋",
+          "reading": "こい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "冷",
+          "reading": "ひ"
+        },
+        {
+          "text": "やかしてはいけない。"
+        }
+      ],
+      "korean": "친구의 사랑을 놀려서는 안 된다."
+    }
+  },
+  {
+    "kanji": "踏み込む",
+    "hiragana": "ふみこむ",
+    "korean": "발을 들여놓다",
+    "example": {
+      "segments": [
+        {
+          "text": "新",
+          "reading": "あたら"
+        },
+        {
+          "text": "しい"
+        },
+        {
+          "text": "分野",
+          "reading": "ぶんや"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "踏み込む",
+          "reading": "ふみこむ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "새로운 분야에 발을 들여놓는다."
+    }
+  },
+  {
+    "kanji": "隔たる",
+    "hiragana": "へだたる",
+    "korean": "(세월이) 지나다",
+    "example": {
+      "segments": [
+        {
+          "text": "二",
+          "reading": "ふた"
+        },
+        {
+          "text": "つの"
+        },
+        {
+          "text": "出来事",
+          "reading": "できごと"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "十年",
+          "reading": "じゅうねん"
+        },
+        {
+          "text": "隔",
+          "reading": "へだ"
+        },
+        {
+          "text": "たっている。"
+        }
+      ],
+      "korean": "두 사건 사이에는 십 년의 세월이 있다."
+    }
+  },
+  {
+    "kanji": "経る",
+    "hiragana": "へる",
+    "korean": "거치다",
+    "example": {
+      "segments": [
+        {
+          "text": "研修",
+          "reading": "けんしゅう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "経",
+          "reading": "へ"
+        },
+        {
+          "text": "て"
+        },
+        {
+          "text": "現場",
+          "reading": "げんば"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "出",
+          "reading": "で"
+        },
+        {
+          "text": "た。"
+        }
+      ],
+      "korean": "연수를 거쳐 현장에 나갔다."
+    }
+  },
+  {
+    "kanji": "解ける",
+    "hiragana": "ほどける",
+    "korean": "풀리다",
+    "example": {
+      "segments": [
+        {
+          "text": "結",
+          "reading": "むす"
+        },
+        {
+          "text": "び"
+        },
+        {
+          "text": "目",
+          "reading": "め"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "解",
+          "reading": "ほど"
+        },
+        {
+          "text": "けてしまった。"
+        }
+      ],
+      "korean": "매듭이 풀려 버렸다."
+    }
+  },
+  {
+    "kanji": "滅びる",
+    "hiragana": "ほろびる",
+    "korean": "멸망하다",
+    "example": {
+      "segments": [
+        {
+          "text": "古",
+          "reading": "ふる"
+        },
+        {
+          "text": "い"
+        },
+        {
+          "text": "王国",
+          "reading": "おうこく"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "戦争",
+          "reading": "せんそう"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "滅",
+          "reading": "ほろ"
+        },
+        {
+          "text": "びた。"
+        }
+      ],
+      "korean": "옛 왕국은 전쟁으로 멸망했다."
+    }
+  },
+  {
+    "kanji": "交える",
+    "hiragana": "まじえる",
+    "korean": "섞다",
+    "example": {
+      "segments": [
+        {
+          "text": "冗談",
+          "reading": "じょうだん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "交",
+          "reading": "まじ"
+        },
+        {
+          "text": "えて"
+        },
+        {
+          "text": "説明",
+          "reading": "せつめい"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "농담을 섞어서 설명한다."
+    }
+  },
+  {
+    "kanji": "見失う",
+    "hiragana": "みうしなう",
+    "korean": "잃다, 놓치다",
+    "example": {
+      "segments": [
+        {
+          "text": "人混",
+          "reading": "ひとご"
+        },
+        {
+          "text": "みで"
+        },
+        {
+          "text": "友達",
+          "reading": "ともだち"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見失",
+          "reading": "みうしな"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "korean": "인파 속에서 친구를 놓쳤다."
+    }
+  },
+  {
+    "kanji": "見落とす",
+    "hiragana": "みおとす",
+    "korean": "못 보고 지나치다",
+    "example": {
+      "segments": [
+        {
+          "text": "小",
+          "reading": "ちい"
+        },
+        {
+          "text": "さなミスを"
+        },
+        {
+          "text": "見落",
+          "reading": "みお"
+        },
+        {
+          "text": "とした。"
+        }
+      ],
+      "korean": "작은 실수를 미처 발견하지 못했다."
+    }
+  },
+  {
+    "kanji": "見渡す",
+    "hiragana": "みわたす",
+    "korean": "둘러보다",
+    "example": {
+      "segments": [
+        {
+          "text": "丘",
+          "reading": "おか"
+        },
+        {
+          "text": "から"
+        },
+        {
+          "text": "町",
+          "reading": "まち"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見渡す",
+          "reading": "みわたす"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "언덕에서 마을을 둘러본다."
+    }
+  },
+  {
+    "kanji": "呼び止める",
+    "hiragana": "よびとめる",
+    "korean": "불러 세우다",
+    "example": {
+      "segments": [
+        {
+          "text": "落",
+          "reading": "お"
+        },
+        {
+          "text": "とし"
+        },
+        {
+          "text": "物",
+          "reading": "もの"
+        },
+        {
+          "text": "をした"
+        },
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "呼び止める",
+          "reading": "よびとめる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "물건을 떨어뜨린 사람을 불러 세운다."
+    }
+  },
+  {
+    "kanji": "割り込む",
+    "hiragana": "わりこむ",
+    "korean": "끼어들다",
+    "example": {
+      "segments": [
+        {
+          "text": "会話",
+          "reading": "かいわ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "割",
+          "reading": "わ"
+        },
+        {
+          "text": "り"
+        },
+        {
+          "text": "込",
+          "reading": "こ"
+        },
+        {
+          "text": "まないでほしい。"
+        }
+      ],
+      "korean": "대화에 끼어들지 않았으면 한다."
+    }
+  },
+  {
+    "kanji": "反る",
+    "hiragana": "そる",
+    "korean": "휘다",
+    "example": {
+      "segments": [
+        {
+          "text": "湿気",
+          "reading": "しっけ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "板",
+          "reading": "いた"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "反",
+          "reading": "そ"
+        },
+        {
+          "text": "ってしまった。"
+        }
+      ],
+      "korean": "습기 때문에 판자가 휘어 버렸다."
+    }
+  },
+  {
+    "kanji": "携わる",
+    "hiragana": "たずさわる",
+    "korean": "종사하다",
+    "example": {
+      "segments": [
+        {
+          "text": "医療",
+          "reading": "いりょう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "携",
+          "reading": "たずさ"
+        },
+        {
+          "text": "わる"
+        },
+        {
+          "text": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "選",
+          "reading": "えら"
+        },
+        {
+          "text": "んだ。"
+        }
+      ],
+      "korean": "의료에 종사하는 일을 선택했다."
+    }
+  },
+  {
+    "kanji": "断つ",
+    "hiragana": "たつ",
+    "korean": "끊다",
+    "example": {
+      "segments": [
+        {
+          "text": "悪",
+          "reading": "わる"
+        },
+        {
+          "text": "い"
+        },
+        {
+          "text": "習慣",
+          "reading": "しゅうかん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "断つ",
+          "reading": "たつ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "나쁜 습관을 끊는다."
+    }
+  },
+  {
+    "kanji": "手掛ける",
+    "hiragana": "てがける",
+    "korean": "직접 하다",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "映画",
+          "reading": "えいが"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "音楽",
+          "reading": "おんがく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "手掛",
+          "reading": "てが"
+        },
+        {
+          "text": "けた。"
+        }
+      ],
+      "korean": "이 영화의 음악을 직접 담당했다."
+    }
+  },
+  {
+    "kanji": "出くわす",
+    "hiragana": "でくわす",
+    "korean": "맞닥뜨리다",
+    "example": {
+      "segments": [
+        {
+          "text": "帰",
+          "reading": "かえ"
+        },
+        {
+          "text": "り"
+        },
+        {
+          "text": "道",
+          "reading": "みち"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "友人",
+          "reading": "ゆうじん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "出",
+          "reading": "で"
+        },
+        {
+          "text": "くわした。"
+        }
+      ],
+      "korean": "귀갓길에서 친구와 우연히 마주쳤다."
+    }
+  },
+  {
+    "kanji": "遂げる",
+    "hiragana": "とげる",
+    "korean": "이루다",
+    "example": {
+      "segments": [
+        {
+          "text": "チームは"
+        },
+        {
+          "text": "大",
+          "reading": "おお"
+        },
+        {
+          "text": "きな"
+        },
+        {
+          "text": "成長",
+          "reading": "せいちょう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "遂",
+          "reading": "と"
+        },
+        {
+          "text": "げた。"
+        }
+      ],
+      "korean": "팀은 큰 성장을 이루었다."
+    }
+  },
+  {
+    "kanji": "取り締まる",
+    "hiragana": "とりしまる",
+    "korean": "단속하다",
+    "example": {
+      "segments": [
+        {
+          "text": "警察",
+          "reading": "けいさつ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "違法",
+          "reading": "いほう"
+        },
+        {
+          "text": "駐車",
+          "reading": "ちゅうしゃ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "取り締まる",
+          "reading": "とりしまる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "경찰이 불법 주차를 단속한다."
+    }
+  },
+  {
+    "kanji": "取り次ぐ",
+    "hiragana": "とりつぐ",
+    "korean": "(전화를) 연결하다, 전하다",
+    "example": {
+      "segments": [
+        {
+          "text": "担当者",
+          "reading": "たんとうしゃ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "電話",
+          "reading": "でんわ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "取り次ぐ",
+          "reading": "とりつぐ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "담당자에게 전화를 연결한다."
+    }
+  },
+  {
+    "kanji": "取り寄せる",
+    "hiragana": "とりよせる",
+    "korean": "들여오다",
+    "example": {
+      "segments": [
+        {
+          "text": "専門書",
+          "reading": "せんもんしょ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "書店",
+          "reading": "しょてん"
+        },
+        {
+          "text": "から"
+        },
+        {
+          "text": "取り寄せる",
+          "reading": "とりよせる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "전문 서적을 서점에서 주문해 받는다."
+    }
+  },
+  {
+    "kanji": "投げ出す",
+    "hiragana": "なげだす",
+    "korean": "포기하다, 내던지다",
+    "example": {
+      "segments": [
+        {
+          "text": "難",
+          "reading": "むずか"
+        },
+        {
+          "text": "しくても"
+        },
+        {
+          "text": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "投",
+          "reading": "な"
+        },
+        {
+          "text": "げ"
+        },
+        {
+          "text": "出",
+          "reading": "だ"
+        },
+        {
+          "text": "さない。"
+        }
+      ],
+      "korean": "어려워도 일을 내던지지 않는다."
+    }
+  },
+  {
+    "kanji": "懐く",
+    "hiragana": "なつく",
+    "korean": "따르다",
+    "example": {
+      "segments": [
+        {
+          "text": "子猫",
+          "reading": "こねこ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "私",
+          "reading": "わたし"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "懐",
+          "reading": "なつ"
+        },
+        {
+          "text": "いた。"
+        }
+      ],
+      "korean": "새끼 고양이가 나를 따르게 되었다."
+    }
+  },
+  {
+    "kanji": "賑わう",
+    "hiragana": "にぎわう",
+    "korean": "북적거리다",
+    "example": {
+      "segments": [
+        {
+          "text": "商店街",
+          "reading": "しょうてんがい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "週末",
+          "reading": "しゅうまつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "賑わう",
+          "reading": "にぎわう"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "상점가는 주말에 북적인다."
+    }
+  },
+  {
+    "kanji": "乗っ取る",
+    "hiragana": "のっとる",
+    "korean": "납치하다",
+    "example": {
+      "segments": [
+        {
+          "text": "犯人",
+          "reading": "はんにん"
+        },
+        {
+          "text": "がバスを"
+        },
+        {
+          "text": "乗",
+          "reading": "の"
+        },
+        {
+          "text": "っ"
+        },
+        {
+          "text": "取",
+          "reading": "と"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "korean": "범인이 버스를 납치했다."
+    }
+  },
+  {
+    "kanji": "乗り出す",
+    "hiragana": "のりだす",
+    "korean": "착수하다",
+    "example": {
+      "segments": [
+        {
+          "text": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "新事業",
+          "reading": "しんじぎょう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "乗",
+          "reading": "の"
+        },
+        {
+          "text": "り"
+        },
+        {
+          "text": "出",
+          "reading": "だ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "회사는 새 사업에 착수했다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "はがす",
+    "korean": "벗겨내다",
+    "example": {
+      "segments": [
+        {
+          "text": "箱",
+          "reading": "はこ"
+        },
+        {
+          "text": "からラベルをはがす。"
+        }
+      ],
+      "korean": "상자에서 라벨을 벗겨 낸다."
+    }
+  },
+  {
+    "kanji": "励ます",
+    "hiragana": "はげます",
+    "korean": "격려하다",
+    "example": {
+      "segments": [
+        {
+          "text": "落",
+          "reading": "お"
+        },
+        {
+          "text": "ち"
+        },
+        {
+          "text": "込",
+          "reading": "こ"
+        },
+        {
+          "text": "んだ"
+        },
+        {
+          "text": "友達",
+          "reading": "ともだち"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "励ます",
+          "reading": "はげます"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "풀이 죽은 친구를 격려한다."
+    }
+  },
+  {
+    "kanji": "引きずる",
+    "hiragana": "ひきずる",
+    "korean": "질질 끌다",
+    "example": {
+      "segments": [
+        {
+          "text": "重",
+          "reading": "おも"
+        },
+        {
+          "text": "い"
+        },
+        {
+          "text": "袋",
+          "reading": "ふくろ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "引きずる",
+          "reading": "ひきずる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "무거운 자루를 질질 끈다."
+    }
+  },
+  {
+    "kanji": "試みる",
+    "hiragana": "こころみる",
+    "korean": "시도하다, 시험하다",
+    "example": {
+      "segments": [
+        {
+          "text": "別",
+          "reading": "べつ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "試",
+          "reading": "こころ"
+        },
+        {
+          "text": "みた。"
+        }
+      ],
+      "korean": "다른 방법을 시도했다."
+    }
+  },
+  {
+    "kanji": "籠もる",
+    "hiragana": "こもる",
+    "korean": "틀어박히다",
+    "example": {
+      "segments": [
+        {
+          "text": "休日",
+          "reading": "きゅうじつ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "書斎",
+          "reading": "しょさい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "籠もる",
+          "reading": "こもる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "휴일에는 서재에 틀어박힌다."
+    }
+  },
+  {
+    "kanji": "裂ける",
+    "hiragana": "さける",
+    "korean": "찢어지다",
+    "example": {
+      "segments": [
+        {
+          "text": "袋",
+          "reading": "ふくろ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "裂",
+          "reading": "さ"
+        },
+        {
+          "text": "けて"
+        },
+        {
+          "text": "中身",
+          "reading": "なかみ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "落",
+          "reading": "お"
+        },
+        {
+          "text": "ちた。"
+        }
+      ],
+      "korean": "봉지가 찢어져 내용물이 떨어졌다."
+    }
+  },
+  {
+    "kanji": "授ける",
+    "hiragana": "さずける",
+    "korean": "전수하다",
+    "example": {
+      "segments": [
+        {
+          "text": "弟子",
+          "reading": "でし"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "技",
+          "reading": "わざ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "授ける",
+          "reading": "さずける"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "제자에게 기술을 전수한다."
+    }
+  },
+  {
+    "kanji": "察する",
+    "hiragana": "さっする",
+    "korean": "헤아리다",
+    "example": {
+      "segments": [
+        {
+          "text": "表情",
+          "reading": "ひょうじょう"
+        },
+        {
+          "text": "から"
+        },
+        {
+          "text": "気持",
+          "reading": "きも"
+        },
+        {
+          "text": "ちを"
+        },
+        {
+          "text": "察する",
+          "reading": "さっする"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "표정에서 마음을 헤아린다."
+    }
+  },
+  {
+    "kanji": "仕上げる",
+    "hiragana": "しあげる",
+    "korean": "완성하다",
+    "example": {
+      "segments": [
+        {
+          "text": "夕方",
+          "reading": "ゆうがた"
+        },
+        {
+          "text": "までに"
+        },
+        {
+          "text": "原稿",
+          "reading": "げんこう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "仕上げる",
+          "reading": "しあげる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "저녁까지 원고를 완성한다."
+    }
+  },
+  {
+    "kanji": "仕掛ける",
+    "hiragana": "しかける",
+    "korean": "걸다",
+    "example": {
+      "segments": [
+        {
+          "text": "相手",
+          "reading": "あいて"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "攻撃",
+          "reading": "こうげき"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "仕掛ける",
+          "reading": "しかける"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "상대에게 공격을 가한다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "しがみつく",
+    "korean": "매달리다",
+    "example": {
+      "segments": [
+        {
+          "text": "子供",
+          "reading": "こども"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "母親",
+          "reading": "ははおや"
+        },
+        {
+          "text": "にしがみつく。"
+        }
+      ],
+      "korean": "아이가 엄마에게 매달린다."
+    }
+  },
+  {
+    "kanji": "称する",
+    "hiragana": "しょうする",
+    "korean": "칭하다",
+    "example": {
+      "segments": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "自",
+          "reading": "みずか"
+        },
+        {
+          "text": "らを"
+        },
+        {
+          "text": "芸術家",
+          "reading": "げいじゅつか"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "称する",
+          "reading": "しょうする"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "그는 스스로를 예술가라고 칭한다."
+    }
+  },
+  {
+    "kanji": "退く",
+    "hiragana": "しりぞく",
+    "korean": "물러나다",
+    "example": {
+      "segments": [
+        {
+          "text": "社長",
+          "reading": "しゃちょう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "座",
+          "reading": "ざ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "退",
+          "reading": "しりぞ"
+        },
+        {
+          "text": "いた。"
+        }
+      ],
+      "korean": "사장 자리에서 물러났다."
+    }
+  },
+  {
+    "kanji": "制する",
+    "hiragana": "せいする",
+    "korean": "지배하다",
+    "example": {
+      "segments": [
+        {
+          "text": "決勝",
+          "reading": "けっしょう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "制",
+          "reading": "せい"
+        },
+        {
+          "text": "したのは"
+        },
+        {
+          "text": "若手",
+          "reading": "わかて"
+        },
+        {
+          "text": "だった。"
+        }
+      ],
+      "korean": "결승을 제패한 것은 신예였다."
+    }
+  },
+  {
+    "kanji": "損なう",
+    "hiragana": "そこなう",
+    "korean": "해치다",
+    "example": {
+      "segments": [
+        {
+          "text": "無理",
+          "reading": "むり"
+        },
+        {
+          "text": "をして"
+        },
+        {
+          "text": "体調",
+          "reading": "たいちょう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "損",
+          "reading": "そこ"
+        },
+        {
+          "text": "なった。"
+        }
+      ],
+      "korean": "무리해서 건강을 해쳤다."
+    }
+  },
+  {
+    "kanji": "備え付ける",
+    "hiragana": "そなえつける",
+    "korean": "갖추다",
+    "example": {
+      "segments": [
+        {
+          "text": "各部屋",
+          "reading": "かくへや"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "机",
+          "reading": "つくえ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "備え付ける",
+          "reading": "そなえつける"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "각 방에 책상을 비치한다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "あざわらう",
+    "korean": "비웃다",
+    "example": {
+      "segments": [
+        {
+          "text": "人",
+          "reading": "ひと"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "夢",
+          "reading": "ゆめ"
+        },
+        {
+          "text": "をあざわらってはいけない。"
+        }
+      ],
+      "korean": "남의 꿈을 비웃어서는 안 된다."
+    }
+  },
+  {
+    "kanji": "焦る",
+    "hiragana": "あせる",
+    "korean": "서두르다, 안달하다",
+    "example": {
+      "segments": [
+        {
+          "text": "焦",
+          "reading": "あせ"
+        },
+        {
+          "text": "るとミスが"
+        },
+        {
+          "text": "増",
+          "reading": "ふ"
+        },
+        {
+          "text": "える。"
+        }
+      ],
+      "korean": "서두르면 실수가 늘어난다."
+    }
+  },
+  {
+    "kanji": "当てはめる",
+    "hiragana": "あてはめる",
+    "korean": "맞추다",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "例",
+          "reading": "れい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "公式",
+          "reading": "こうしき"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "当てはめる",
+          "reading": "あてはめる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "이 예를 공식에 적용한다."
+    }
+  },
+  {
+    "kanji": "操る",
+    "hiragana": "あやつる",
+    "korean": "구사하다, 다루다",
+    "example": {
+      "segments": [
+        {
+          "text": "彼",
+          "reading": "かれ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "人形",
+          "reading": "にんぎょう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "巧",
+          "reading": "たく"
+        },
+        {
+          "text": "みに"
+        },
+        {
+          "text": "操る",
+          "reading": "あやつる"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "그는 인형을 능숙하게 조종한다."
+    }
+  },
+  {
+    "kanji": "打ち明ける",
+    "hiragana": "うちあける",
+    "korean": "털어놓다",
+    "example": {
+      "segments": [
+        {
+          "text": "親友",
+          "reading": "しんゆう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "悩",
+          "reading": "なや"
+        },
+        {
+          "text": "みを"
+        },
+        {
+          "text": "打",
+          "reading": "う"
+        },
+        {
+          "text": "ち"
+        },
+        {
+          "text": "明",
+          "reading": "あ"
+        },
+        {
+          "text": "けた。"
+        }
+      ],
+      "korean": "절친에게 고민을 털어놓았다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "うなだれる",
+    "korean": "고개를 떨구다",
+    "example": {
+      "segments": [
+        {
+          "text": "結果",
+          "reading": "けっか"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "聞",
+          "reading": "き"
+        },
+        {
+          "text": "いてうなだれた。"
+        }
+      ],
+      "korean": "결과를 듣고 고개를 떨구었다."
+    }
+  },
+  {
+    "kanji": "思い詰める",
+    "hiragana": "おもいつめる",
+    "korean": "골똘히 생각하다",
+    "example": {
+      "segments": [
+        {
+          "text": "一人",
+          "reading": "ひとり"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "思",
+          "reading": "おも"
+        },
+        {
+          "text": "い"
+        },
+        {
+          "text": "詰",
+          "reading": "つ"
+        },
+        {
+          "text": "めずに"
+        },
+        {
+          "text": "相談",
+          "reading": "そうだん"
+        },
+        {
+          "text": "しよう。"
+        }
+      ],
+      "korean": "혼자 깊이 고민하지 말고 상담하자."
+    }
+  },
+  {
+    "kanji": "折り返す",
+    "hiragana": "おりかえす",
+    "korean": "되돌아가다",
+    "example": {
+      "segments": [
+        {
+          "text": "次",
+          "reading": "つぎ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "駅",
+          "reading": "えき"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "折り返す",
+          "reading": "おりかえす"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "다음 역에서 되돌아간다."
+    }
+  },
+  {
+    "kanji": "抱え込む",
+    "hiragana": "かかえこむ",
+    "korean": "끌어안다",
+    "example": {
+      "segments": [
+        {
+          "text": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "一人",
+          "reading": "ひとり"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "抱",
+          "reading": "かか"
+        },
+        {
+          "text": "え"
+        },
+        {
+          "text": "込",
+          "reading": "こ"
+        },
+        {
+          "text": "まない。"
+        }
+      ],
+      "korean": "일을 혼자 떠안지 않는다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "かさばる",
+    "korean": "부피가 커지다",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "毛布",
+          "reading": "もうふ"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "軽",
+          "reading": "かる"
+        },
+        {
+          "text": "いがかさばる。"
+        }
+      ],
+      "korean": "이 담요는 가볍지만 부피가 크다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "かなう",
+    "korean": "이루어지다",
+    "example": {
+      "segments": [
+        {
+          "text": "留学",
+          "reading": "りゅうがく"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "夢",
+          "reading": "ゆめ"
+        },
+        {
+          "text": "がかなった。"
+        }
+      ],
+      "korean": "유학의 꿈이 이루어졌다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "かぶれる",
+    "korean": "(피부에) 독이 오르다",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "洗剤",
+          "reading": "せんざい"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "手",
+          "reading": "て"
+        },
+        {
+          "text": "がかぶれた。"
+        }
+      ],
+      "korean": "이 세제 때문에 손에 피부염이 생겼다."
+    }
+  },
+  {
+    "kanji": "食い違う",
+    "hiragana": "くいちがう",
+    "korean": "어긋나다",
+    "example": {
+      "segments": [
+        {
+          "text": "二人",
+          "reading": "ふたり"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "証言",
+          "reading": "しょうげん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "食",
+          "reading": "く"
+        },
+        {
+          "text": "い"
+        },
+        {
+          "text": "違",
+          "reading": "ちが"
+        },
+        {
+          "text": "う。"
+        }
+      ],
+      "korean": "두 사람의 증언이 서로 어긋난다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "くじける",
+    "korean": "약해지다, 꺾이다",
+    "example": {
+      "segments": [
+        {
+          "text": "一度",
+          "reading": "いちど"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "失敗",
+          "reading": "しっぱい"
+        },
+        {
+          "text": "でくじけない。"
+        }
+      ],
+      "korean": "한 번의 실패로 기가 꺾이지 않는다."
+    }
+  },
+  {
+    "kanji": "組み込む",
+    "hiragana": "くみこむ",
+    "korean": "편성하다",
+    "example": {
+      "segments": [
+        {
+          "text": "計画",
+          "reading": "けいかく"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "休憩",
+          "reading": "きゅうけい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "組み込む",
+          "reading": "くみこむ"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "계획에 휴식 시간을 넣는다."
+    }
+  },
+  {
+    "kanji": "心掛ける",
+    "hiragana": "こころがける",
+    "korean": "유념하다",
+    "example": {
+      "segments": [
+        {
+          "text": "毎日",
+          "reading": "まいにち"
+        },
+        {
+          "text": "歩",
+          "reading": "ある"
+        },
+        {
+          "text": "くように"
+        },
+        {
+          "text": "心掛ける",
+          "reading": "こころがける"
+        },
+        {
+          "text": "。"
+        }
+      ],
+      "korean": "매일 걷도록 유념한다."
+    }
+  },
+  {
+    "kanji": "発足",
+    "hiragana": "ほっそく",
+    "korean": "발족",
+    "example": {
+      "segments": [
+        {
+          "text": "新",
+          "reading": "あたら"
+        },
+        {
+          "text": "しい"
+        },
+        {
+          "text": "研究",
+          "reading": "けんきゅう"
+        },
+        {
+          "text": "チームが"
+        },
+        {
+          "text": "発足",
+          "reading": "ほっそく"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "새 연구팀이 발족했다."
+    }
+  },
+  {
+    "kanji": "没頭",
+    "hiragana": "ぼっとう",
+    "korean": "몰두",
+    "example": {
+      "segments": [
+        {
+          "text": "模型",
+          "reading": "もけい"
+        },
+        {
+          "text": "作",
+          "reading": "づく"
+        },
+        {
+          "text": "りに"
+        },
+        {
+          "text": "没頭",
+          "reading": "ぼっとう"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "korean": "모형 만들기에 몰두하고 있다."
+    }
+  },
+  {
+    "kanji": "真っ先",
+    "hiragana": "まっさき",
+    "korean": "가장 먼저",
+    "example": {
+      "segments": [
+        {
+          "text": "姉",
+          "reading": "あね"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "真っ先",
+          "reading": "まっさき"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "駆",
+          "reading": "か"
+        },
+        {
+          "text": "けつけた。"
+        }
+      ],
+      "korean": "누나가 가장 먼저 달려왔다."
+    }
+  },
+  {
+    "kanji": "満喫",
+    "hiragana": "まんきつ",
+    "korean": "만끽",
+    "example": {
+      "segments": [
+        {
+          "text": "休日",
+          "reading": "きゅうじつ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "海辺",
+          "reading": "うみべ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "満喫",
+          "reading": "まんきつ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "휴일을 바닷가에서 만끽했다."
+    }
+  },
+  {
+    "kanji": "見込み",
+    "hiragana": "みこみ",
+    "korean": "가망",
+    "example": {
+      "segments": [
+        {
+          "text": "明日",
+          "reading": "あした"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "完成",
+          "reading": "かんせい"
+        },
+        {
+          "text": "する"
+        },
+        {
+          "text": "見込み",
+          "reading": "みこみ"
+        },
+        {
+          "text": "だ。"
+        }
+      ],
+      "korean": "내일이면 완성될 전망이다."
+    }
+  },
+  {
+    "kanji": "目先",
+    "hiragana": "めさき",
+    "korean": "눈앞",
+    "example": {
+      "segments": [
+        {
+          "text": "目先",
+          "reading": "めさき"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "得",
+          "reading": "とく"
+        },
+        {
+          "text": "だけを"
+        },
+        {
+          "text": "考",
+          "reading": "かんが"
+        },
+        {
+          "text": "えない。"
+        }
+      ],
+      "korean": "눈앞의 이익만 생각하지 않는다."
+    }
+  },
+  {
+    "kanji": "目安",
+    "hiragana": "めやす",
+    "korean": "기준, 목표",
+    "example": {
+      "segments": [
+        {
+          "text": "一日",
+          "reading": "いちにち"
+        },
+        {
+          "text": "三十分",
+          "reading": "さんじゅっぷん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "目安",
+          "reading": "めやす"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "歩",
+          "reading": "ある"
+        },
+        {
+          "text": "く。"
+        }
+      ],
+      "korean": "하루 삼십 분을 기준으로 걷는다."
+    }
+  },
+  {
+    "kanji": "面識",
+    "hiragana": "めんしき",
+    "korean": "면식",
+    "example": {
+      "segments": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "作家",
+          "reading": "さっか"
+        },
+        {
+          "text": "とは"
+        },
+        {
+          "text": "面識",
+          "reading": "めんしき"
+        },
+        {
+          "text": "がある。"
+        }
+      ],
+      "korean": "그 작가와는 안면이 있다."
+    }
+  },
+  {
+    "kanji": "優位",
+    "hiragana": "ゆうい",
+    "korean": "우위",
+    "example": {
+      "segments": [
+        {
+          "text": "経験",
+          "reading": "けいけん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "差",
+          "reading": "さ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "優位",
+          "reading": "ゆうい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "立",
+          "reading": "た"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "korean": "경험의 차이로 우위에 섰다."
+    }
+  },
+  {
+    "kanji": "様相",
+    "hiragana": "ようそう",
+    "korean": "양상",
+    "example": {
+      "segments": [
+        {
+          "text": "町",
+          "reading": "まち"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "以前",
+          "reading": "いぜん"
+        },
+        {
+          "text": "とは"
+        },
+        {
+          "text": "違",
+          "reading": "ちが"
+        },
+        {
+          "text": "う"
+        },
+        {
+          "text": "様相",
+          "reading": "ようそう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        },
+        {
+          "text": "せた。"
+        }
+      ],
+      "korean": "마을은 이전과 다른 양상을 보였다."
+    }
+  },
+  {
+    "kanji": "連携",
+    "hiragana": "れんけい",
+    "korean": "연계",
+    "example": {
+      "segments": [
+        {
+          "text": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "地域",
+          "reading": "ちいき"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "連携",
+          "reading": "れんけい"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "학교와 지역이 연계한다."
+    }
+  },
+  {
+    "kanji": "親善",
+    "hiragana": "しんぜん",
+    "korean": "친선",
+    "example": {
+      "segments": [
+        {
+          "text": "親善",
+          "reading": "しんぜん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "目的",
+          "reading": "もくてき"
+        },
+        {
+          "text": "とした"
+        },
+        {
+          "text": "試合",
+          "reading": "しあい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "開",
+          "reading": "ひら"
+        },
+        {
+          "text": "く。"
+        }
+      ],
+      "korean": "친선을 목적으로 한 경기를 연다."
+    }
+  },
+  {
+    "kanji": "制裁",
+    "hiragana": "せいさい",
+    "korean": "제재",
+    "example": {
+      "segments": [
+        {
+          "text": "違反",
+          "reading": "いはん"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "対",
+          "reading": "たい"
+        },
+        {
+          "text": "して"
+        },
+        {
+          "text": "制裁",
+          "reading": "せいさい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "科",
+          "reading": "か"
+        },
+        {
+          "text": "す。"
+        }
+      ],
+      "korean": "위반에 대해 제재를 가한다."
+    }
+  },
+  {
+    "kanji": "総合",
+    "hiragana": "そうごう",
+    "korean": "종합",
+    "example": {
+      "segments": [
+        {
+          "text": "資料",
+          "reading": "しりょう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "総合",
+          "reading": "そうごう"
+        },
+        {
+          "text": "して"
+        },
+        {
+          "text": "判断",
+          "reading": "はんだん"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "자료를 종합하여 판단한다."
+    }
+  },
+  {
+    "kanji": "打開",
+    "hiragana": "だかい",
+    "korean": "타개",
+    "example": {
+      "segments": [
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "き"
+        },
+        {
+          "text": "詰",
+          "reading": "づ"
+        },
+        {
+          "text": "まりを"
+        },
+        {
+          "text": "打開",
+          "reading": "だかい"
+        },
+        {
+          "text": "する"
+        },
+        {
+          "text": "案",
+          "reading": "あん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "出",
+          "reading": "だ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "막힌 상황을 타개할 방안을 제시했다."
+    }
+  },
+  {
+    "kanji": "調達",
+    "hiragana": "ちょうたつ",
+    "korean": "조달",
+    "example": {
+      "segments": [
+        {
+          "text": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "資金",
+          "reading": "しきん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "調達",
+          "reading": "ちょうたつ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "필요한 자금을 조달했다."
+    }
+  },
+  {
+    "kanji": "提起",
+    "hiragana": "ていき",
+    "korean": "제기",
+    "example": {
+      "segments": [
+        {
+          "text": "会議",
+          "reading": "かいぎ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "提起",
+          "reading": "ていき"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "회의에서 문제를 제기했다."
+    }
+  },
+  {
+    "kanji": "入手",
+    "hiragana": "にゅうしゅ",
+    "korean": "입수",
+    "example": {
+      "segments": [
+        {
+          "text": "貴重",
+          "reading": "きちょう"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "資料",
+          "reading": "しりょう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "入手",
+          "reading": "にゅうしゅ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "귀중한 자료를 입수했다."
+    }
+  },
+  {
+    "kanji": "配属",
+    "hiragana": "はいぞく",
+    "korean": "배속",
+    "example": {
+      "segments": [
+        {
+          "text": "四月",
+          "reading": "しがつ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "営業部",
+          "reading": "えいぎょうぶ"
+        },
+        {
+          "text": "へ"
+        },
+        {
+          "text": "配属",
+          "reading": "はいぞく"
+        },
+        {
+          "text": "された。"
+        }
+      ],
+      "korean": "사월에 영업부로 배속되었다."
+    }
+  },
+  {
+    "kanji": "発散",
+    "hiragana": "はっさん",
+    "korean": "발산",
+    "example": {
+      "segments": [
+        {
+          "text": "歌",
+          "reading": "うた"
+        },
+        {
+          "text": "ってストレスを"
+        },
+        {
+          "text": "発散",
+          "reading": "はっさん"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "노래하며 스트레스를 발산한다."
+    }
+  },
+  {
+    "kanji": "人手",
+    "hiragana": "ひとで",
+    "korean": "일손",
+    "example": {
+      "segments": [
+        {
+          "text": "忙",
+          "reading": "いそが"
+        },
+        {
+          "text": "しい"
+        },
+        {
+          "text": "時期",
+          "reading": "じき"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "人手",
+          "reading": "ひとで"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "足",
+          "reading": "た"
+        },
+        {
+          "text": "りない。"
+        }
+      ],
+      "korean": "바쁜 시기에는 일손이 부족하다."
+    }
+  },
+  {
+    "kanji": "拍子",
+    "hiragana": "ひょうし",
+    "korean": "박자",
+    "example": {
+      "segments": [
+        {
+          "text": "三",
+          "reading": "さん"
+        },
+        {
+          "text": "拍子",
+          "reading": "ひょうし"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "曲",
+          "reading": "きょく"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "弾",
+          "reading": "ひ"
+        },
+        {
+          "text": "く。"
+        }
+      ],
+      "korean": "삼박자의 곡을 연주한다."
+    }
+  },
+  {
+    "kanji": "復旧",
+    "hiragana": "ふっきゅう",
+    "korean": "복구",
+    "example": {
+      "segments": [
+        {
+          "text": "停電",
+          "reading": "ていでん"
+        },
+        {
+          "text": "からの"
+        },
+        {
+          "text": "復旧",
+          "reading": "ふっきゅう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "待",
+          "reading": "ま"
+        },
+        {
+          "text": "つ。"
+        }
+      ],
+      "korean": "정전 복구를 기다린다."
+    }
+  },
+  {
+    "kanji": "赴任",
+    "hiragana": "ふにん",
+    "korean": "부임",
+    "example": {
+      "segments": [
+        {
+          "text": "来月",
+          "reading": "らいげつ"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "大阪",
+          "reading": "おおさか"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "赴任",
+          "reading": "ふにん"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "다음 달에 오사카로 부임한다."
+    }
+  },
+  {
+    "kanji": "不服",
+    "hiragana": "ふふく",
+    "korean": "이의, 불복",
+    "example": {
+      "segments": [
+        {
+          "text": "その"
+        },
+        {
+          "text": "決定",
+          "reading": "けってい"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "不服",
+          "reading": "ふふく"
+        },
+        {
+          "text": "がある。"
+        }
+      ],
+      "korean": "그 결정에는 이의가 있다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "ブランク",
+    "korean": "공백 기간",
+    "example": {
+      "segments": [
+        {
+          "text": "長",
+          "reading": "なが"
+        },
+        {
+          "text": "いブランクを"
+        },
+        {
+          "text": "経",
+          "reading": "へ"
+        },
+        {
+          "text": "て"
+        },
+        {
+          "text": "復帰",
+          "reading": "ふっき"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "긴 공백기를 거쳐 복귀했다."
+    }
+  },
+  {
+    "kanji": "分裂",
+    "hiragana": "ぶんれつ",
+    "korean": "분열",
+    "example": {
+      "segments": [
+        {
+          "text": "意見",
+          "reading": "いけん"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "違",
+          "reading": "ちが"
+        },
+        {
+          "text": "いで"
+        },
+        {
+          "text": "組織",
+          "reading": "そしき"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "分裂",
+          "reading": "ぶんれつ"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "의견 차이로 조직이 분열되었다."
+    }
+  },
+  {
+    "kanji": "便宜",
+    "hiragana": "べんぎ",
+    "korean": "편의",
+    "example": {
+      "segments": [
+        {
+          "text": "利用者",
+          "reading": "りようしゃ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "便宜",
+          "reading": "べんぎ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "図",
+          "reading": "はか"
+        },
+        {
+          "text": "る。"
+        }
+      ],
+      "korean": "이용자의 편의를 도모한다."
+    }
+  },
+  {
+    "kanji": "互角",
+    "hiragana": "ごかく",
+    "korean": "호각",
+    "example": {
+      "segments": [
+        {
+          "text": "強敵",
+          "reading": "きょうてき"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "互角",
+          "reading": "ごかく"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "渡",
+          "reading": "わた"
+        },
+        {
+          "text": "り"
+        },
+        {
+          "text": "合",
+          "reading": "あ"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "korean": "강적과 대등하게 맞섰다."
+    }
+  },
+  {
+    "kanji": "心当たり",
+    "hiragana": "こころあたり",
+    "korean": "짐작 가는 곳",
+    "example": {
+      "segments": [
+        {
+          "text": "鍵",
+          "reading": "かぎ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "心当たり",
+          "reading": "こころあたり"
+        },
+        {
+          "text": "がある。"
+        }
+      ],
+      "korean": "열쇠가 있는 곳이 짐작 간다."
+    }
+  },
+  {
+    "kanji": "心構え",
+    "hiragana": "こころがまえ",
+    "korean": "마음가짐",
+    "example": {
+      "segments": [
+        {
+          "text": "新人",
+          "reading": "しんじん"
+        },
+        {
+          "text": "としての"
+        },
+        {
+          "text": "心構え",
+          "reading": "こころがまえ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "学",
+          "reading": "まな"
+        },
+        {
+          "text": "ぶ。"
+        }
+      ],
+      "korean": "신입으로서의 마음가짐을 배운다."
+    }
+  },
+  {
+    "kanji": null,
+    "hiragana": "こつ",
+    "korean": "요령",
+    "example": {
+      "segments": [
+        {
+          "text": "料理",
+          "reading": "りょうり"
+        },
+        {
+          "text": "のこつを"
+        },
+        {
+          "text": "教",
+          "reading": "おし"
+        },
+        {
+          "text": "えてもらった。"
+        }
+      ],
+      "korean": "요리의 요령을 배웠다."
+    }
+  },
+  {
+    "kanji": "災害",
+    "hiragana": "さいがい",
+    "korean": "재해",
+    "example": {
+      "segments": [
+        {
+          "text": "災害",
+          "reading": "さいがい"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "備",
+          "reading": "そな"
+        },
+        {
+          "text": "えて"
+        },
+        {
+          "text": "水",
+          "reading": "みず"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "買",
+          "reading": "か"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "korean": "재해에 대비해 물을 샀다."
+    }
+  },
+  {
+    "kanji": "作動",
+    "hiragana": "さどう",
+    "korean": "작동",
+    "example": {
+      "segments": [
+        {
+          "text": "センサーが"
+        },
+        {
+          "text": "正常",
+          "reading": "せいじょう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "作動",
+          "reading": "さどう"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "센서가 정상적으로 작동했다."
+    }
+  },
+  {
+    "kanji": "色彩",
+    "hiragana": "しきさい",
+    "korean": "색채",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "絵",
+          "reading": "え"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "色彩",
+          "reading": "しきさい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "豊",
+          "reading": "ゆた"
+        },
+        {
+          "text": "かだ。"
+        }
+      ],
+      "korean": "이 그림은 색채가 풍부하다."
+    }
+  },
+  {
+    "kanji": "辞退",
+    "hiragana": "じたい",
+    "korean": "사양, 사퇴",
+    "example": {
+      "segments": [
+        {
+          "text": "今回",
+          "reading": "こんかい"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "招待",
+          "reading": "しょうたい"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "辞退",
+          "reading": "じたい"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "이번 초대는 사양했다."
+    }
+  },
+  {
+    "kanji": "失脚",
+    "hiragana": "しっきゃく",
+    "korean": "실각",
+    "example": {
+      "segments": [
+        {
+          "text": "不正",
+          "reading": "ふせい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "発覚",
+          "reading": "はっかく"
+        },
+        {
+          "text": "して"
+        },
+        {
+          "text": "失脚",
+          "reading": "しっきゃく"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "부정이 드러나 실각했다."
+    }
+  },
+  {
+    "kanji": "辞任",
+    "hiragana": "じにん",
+    "korean": "사임",
+    "example": {
+      "segments": [
+        {
+          "text": "責任",
+          "reading": "せきにん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "取",
+          "reading": "と"
+        },
+        {
+          "text": "って"
+        },
+        {
+          "text": "辞任",
+          "reading": "じにん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "책임을 지고 사임했다."
+    }
+  },
+  {
+    "kanji": "重複",
+    "hiragana": "じゅうふく・ちょうふく",
+    "korean": "중복",
+    "example": {
+      "segments": [
+        {
+          "text": "予定",
+          "reading": "よてい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "重複",
+          "reading": "じゅうふく"
+        },
+        {
+          "text": "してしまった。"
+        }
+      ],
+      "korean": "일정이 중복되어 버렸다."
+    }
+  },
+  {
+    "kanji": "仕業",
+    "hiragana": "しわざ",
+    "korean": "소행",
+    "example": {
+      "segments": [
+        {
+          "text": "このいたずらは"
+        },
+        {
+          "text": "誰",
+          "reading": "だれ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "仕業",
+          "reading": "しわざ"
+        },
+        {
+          "text": "だろう。"
+        }
+      ],
+      "korean": "이 장난은 누구의 소행일까."
+    }
+  },
+  {
+    "kanji": "安静",
+    "hiragana": "あんせい",
+    "korean": "안정(安靜), 편히 쉼",
+    "example": {
+      "segments": [
+        {
+          "text": "医師",
+          "reading": "いし"
+        },
+        {
+          "text": "から"
+        },
+        {
+          "text": "安静",
+          "reading": "あんせい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "指示",
+          "reading": "しじ"
+        },
+        {
+          "text": "された。"
+        }
+      ],
+      "korean": "의사에게 안정을 취하라는 지시를 받았다."
+    }
+  },
+  {
+    "kanji": "意地",
+    "hiragana": "いじ",
+    "korean": "고집, 오기",
+    "example": {
+      "segments": [
+        {
+          "text": "意地",
+          "reading": "いじ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "張",
+          "reading": "は"
+        },
+        {
+          "text": "らずに"
+        },
+        {
+          "text": "謝",
+          "reading": "あやま"
+        },
+        {
+          "text": "ろう。"
+        }
+      ],
+      "korean": "고집부리지 말고 사과하자."
+    }
+  },
+  {
+    "kanji": "一変",
+    "hiragana": "いっぺん",
+    "korean": "일변",
+    "example": {
+      "segments": [
+        {
+          "text": "一通",
+          "reading": "いっつう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "手紙",
+          "reading": "てがみ"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "人生",
+          "reading": "じんせい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "一変",
+          "reading": "いっぺん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "편지 한 통으로 인생이 완전히 바뀌었다."
+    }
+  },
+  {
+    "kanji": "解明",
+    "hiragana": "かいめい",
+    "korean": "해명",
+    "example": {
+      "segments": [
+        {
+          "text": "故障",
+          "reading": "こしょう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "原因",
+          "reading": "げんいん"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "解明",
+          "reading": "かいめい"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "고장의 원인을 규명한다."
+    }
+  },
+  {
+    "kanji": "拡散",
+    "hiragana": "かくさん",
+    "korean": "확산",
+    "example": {
+      "segments": [
+        {
+          "text": "噂",
+          "reading": "うわさ"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "急速",
+          "reading": "きゅうそく"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "拡散",
+          "reading": "かくさん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "소문이 급속히 확산되었다."
+    }
+  },
+  {
+    "kanji": "合致",
+    "hiragana": "がっち",
+    "korean": "일치, 합치",
+    "example": {
+      "segments": [
+        {
+          "text": "結果",
+          "reading": "けっか"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "予想",
+          "reading": "よそう"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "合致",
+          "reading": "がっち"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "결과는 예상과 일치했다."
+    }
+  },
+  {
+    "kanji": "加味",
+    "hiragana": "かみ",
+    "korean": "가미",
+    "example": {
+      "segments": [
+        {
+          "text": "経験",
+          "reading": "けいけん"
+        },
+        {
+          "text": "も"
+        },
+        {
+          "text": "加味",
+          "reading": "かみ"
+        },
+        {
+          "text": "して"
+        },
+        {
+          "text": "評価",
+          "reading": "ひょうか"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "경험도 고려하여 평가한다."
+    }
+  },
+  {
+    "kanji": "還元",
+    "hiragana": "かんげん",
+    "korean": "환원",
+    "example": {
+      "segments": [
+        {
+          "text": "売上",
+          "reading": "うりあげ"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "一部",
+          "reading": "いちぶ"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "地域",
+          "reading": "ちいき"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "還元",
+          "reading": "かんげん"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "매출 일부를 지역에 환원한다."
+    }
+  },
+  {
+    "kanji": "慣行",
+    "hiragana": "かんこう",
+    "korean": "관행",
+    "example": {
+      "segments": [
+        {
+          "text": "古",
+          "reading": "ふる"
+        },
+        {
+          "text": "い"
+        },
+        {
+          "text": "慣行",
+          "reading": "かんこう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "見直",
+          "reading": "みなお"
+        },
+        {
+          "text": "す。"
+        }
+      ],
+      "korean": "오래된 관행을 재검토한다."
+    }
+  },
+  {
+    "kanji": "貫禄",
+    "hiragana": "かんろく",
+    "korean": "관록",
+    "example": {
+      "segments": [
+        {
+          "text": "監督",
+          "reading": "かんとく"
+        },
+        {
+          "text": "には"
+        },
+        {
+          "text": "貫禄",
+          "reading": "かんろく"
+        },
+        {
+          "text": "がある。"
+        }
+      ],
+      "korean": "감독에게는 관록이 있다."
+    }
+  },
+  {
+    "kanji": "規制",
+    "hiragana": "きせい",
+    "korean": "규제",
+    "example": {
+      "segments": [
+        {
+          "text": "車",
+          "reading": "くるま"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "進入",
+          "reading": "しんにゅう"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "規制",
+          "reading": "きせい"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "차량 진입을 규제한다."
+    }
+  },
+  {
+    "kanji": "基調",
+    "hiragana": "きちょう",
+    "korean": "기조",
+    "example": {
+      "segments": [
+        {
+          "text": "青",
+          "reading": "あお"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "基調",
+          "reading": "きちょう"
+        },
+        {
+          "text": "としたデザインだ。"
+        }
+      ],
+      "korean": "파란색을 기조로 한 디자인이다."
+    }
+  },
+  {
+    "kanji": "軌道",
+    "hiragana": "きどう",
+    "korean": "궤도",
+    "example": {
+      "segments": [
+        {
+          "text": "衛星",
+          "reading": "えいせい"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "軌道",
+          "reading": "きどう"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "入",
+          "reading": "はい"
+        },
+        {
+          "text": "った。"
+        }
+      ],
+      "korean": "위성이 궤도에 진입했다."
+    }
+  },
+  {
+    "kanji": "逆転",
+    "hiragana": "ぎゃくてん",
+    "korean": "역전",
+    "example": {
+      "segments": [
+        {
+          "text": "最後",
+          "reading": "さいご"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "一分",
+          "reading": "いっぷん"
+        },
+        {
+          "text": "で"
+        },
+        {
+          "text": "逆転",
+          "reading": "ぎゃくてん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "마지막 일 분에 역전했다."
+    }
+  },
+  {
+    "kanji": "拠点",
+    "hiragana": "きょてん",
+    "korean": "거점",
+    "example": {
+      "segments": [
+        {
+          "text": "この"
+        },
+        {
+          "text": "町",
+          "reading": "まち"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "活動",
+          "reading": "かつどう"
+        },
+        {
+          "text": "の"
+        },
+        {
+          "text": "拠点",
+          "reading": "きょてん"
+        },
+        {
+          "text": "にする。"
+        }
+      ],
+      "korean": "이 마을을 활동 거점으로 삼는다."
+    }
+  },
+  {
+    "kanji": "口出し",
+    "hiragana": "くちだし",
+    "korean": "말참견",
+    "example": {
+      "segments": [
+        {
+          "text": "余計",
+          "reading": "よけい"
+        },
+        {
+          "text": "な"
+        },
+        {
+          "text": "口出し",
+          "reading": "くちだし"
+        },
+        {
+          "text": "は"
+        },
+        {
+          "text": "控",
+          "reading": "ひか"
+        },
+        {
+          "text": "える。"
+        }
+      ],
+      "korean": "쓸데없는 말참견은 삼간다."
+    }
+  },
+  {
+    "kanji": "工面",
+    "hiragana": "くめん",
+    "korean": "마련함, 변통",
+    "example": {
+      "segments": [
+        {
+          "text": "旅費",
+          "reading": "りょひ"
+        },
+        {
+          "text": "をなんとか"
+        },
+        {
+          "text": "工面",
+          "reading": "くめん"
+        },
+        {
+          "text": "した。"
+        }
+      ],
+      "korean": "여행 경비를 어떻게든 마련했다."
+    }
+  },
+  {
+    "kanji": "経緯",
+    "hiragana": "けいい",
+    "korean": "경위",
+    "example": {
+      "segments": [
+        {
+          "text": "決定",
+          "reading": "けってい"
+        },
+        {
+          "text": "までの"
+        },
+        {
+          "text": "経緯",
+          "reading": "けいい"
+        },
+        {
+          "text": "を"
+        },
+        {
+          "text": "記録",
+          "reading": "きろく"
+        },
+        {
+          "text": "する。"
+        }
+      ],
+      "korean": "결정에 이르기까지의 경위를 기록한다."
+    }
+  },
+  {
+    "kanji": "気配",
+    "hiragana": "けはい",
+    "korean": "기색",
+    "example": {
+      "segments": [
+        {
+          "text": "廊下",
+          "reading": "ろうか"
+        },
+        {
+          "text": "に"
+        },
+        {
+          "text": "誰",
+          "reading": "だれ"
+        },
+        {
+          "text": "かの"
+        },
+        {
+          "text": "気配",
+          "reading": "けはい"
+        },
+        {
+          "text": "がした。"
+        }
+      ],
+      "korean": "복도에서 누군가의 기척이 났다."
+    }
+  },
+  {
+    "kanji": "交錯",
+    "hiragana": "こうさく",
+    "korean": "교차, 뒤얽힘",
+    "example": {
+      "segments": [
+        {
+          "text": "期待",
+          "reading": "きたい"
+        },
+        {
+          "text": "と"
+        },
+        {
+          "text": "不安",
+          "reading": "ふあん"
+        },
+        {
+          "text": "が"
+        },
+        {
+          "text": "交錯",
+          "reading": "こうさく"
+        },
+        {
+          "text": "している。"
+        }
+      ],
+      "korean": "기대와 불안이 뒤섞여 있다."
+    }
   }
 ]

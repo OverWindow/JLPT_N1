@@ -1,7 +1,7 @@
 name: jlpt
 description: 완전히 오프라인으로 공부하는 일본어 단어장
 publish_to: 'none'
-version: 1.3.0+9
+version: 1.7.0+13
 
 environment:
   sdk: ^3.13.1
@@ -24,3 +24,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/words/words.json
+    - assets/counters/counters.json
+    - assets/adverbs/adverbs.json
+    - assets/grammar/grammar.json

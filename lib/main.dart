@@ -1,14 +1,23 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
-import 'screens/home_screen.dart';
+import 'screens/entry_screen.dart';
 import 'services/progress_store.dart';
 
 void main() => runApp(const WordApp());
 
 class WordApp extends StatelessWidget {
-  const WordApp({super.key, this.progressStore});
+  const WordApp({
+    super.key,
+    this.progressStore,
+    this.counterProgressStore,
+    this.adverbProgressStore,
+    this.grammarProgressStore,
+  });
   final ProgressStore? progressStore;
+  final ProgressStore? counterProgressStore;
+  final ProgressStore? adverbProgressStore;
+  final ProgressStore? grammarProgressStore;
 
   @override
   Widget build(BuildContext context) => MaterialApp(
@@ -31,6 +40,11 @@ class WordApp extends StatelessWidget {
         style: OutlinedButton.styleFrom(minimumSize: const Size.fromHeight(52)),
       ),
     ),
-    home: HomeScreen(progressStore: progressStore),
+    home: EntryScreen(
+      progressStore: progressStore,
+      counterProgressStore: counterProgressStore,
+      adverbProgressStore: adverbProgressStore,
+      grammarProgressStore: grammarProgressStore,
+    ),
   );
 }
